@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1687
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.400011,
+http://pn.tvott.info/hls/fd276fc0a88a68cd615d2a861fcc1048/163928_1687.ts
+#EXTINF:10.400000,
+http://pn.tvott.info/hls/328828180d223c1ea4a2737781150467/163928_1688.ts
+#EXTINF:10.398989,
+http://pn.tvott.info/hls/790b6d48c48cd05a23d34b084fc0167b/163928_1689.ts
+#EXTINF:7.800000,
+http://pn.tvott.info/hls/9eec51f5cf4ee631ae50f2c6b9c6c68c/163928_1690.ts
+#EXTINF:10.400000,
+http://pn.tvott.info/hls/ea222cca3db54f8adb3a8142e7e5ffc2/163928_1691.ts
+#EXTINF:10.400011,
+http://pn.tvott.info/hls/2dec23b8b0dd5e7e04fd1520185c92fd/163928_1692.ts
