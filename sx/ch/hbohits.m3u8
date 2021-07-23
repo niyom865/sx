@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:7
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="eng",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="eng",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/16.m3u8?token=Zalogi"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=480x270,AUDIO="audiod",SUBTITLES="subs"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
