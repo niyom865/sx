@@ -15,6 +15,20 @@
 "url":"https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/chunks.m3u8",
 "referer": "https://www.chomfootball.com/"
 },
+{                
+      "name": "thaipbs",
+      "image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/thaipbs.png",
+      "url": "https://stream.warpballsod.tv/thaipbs.m3u8" ,"referer": "https://www.warpballsod.tv/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   desktop: true},
+   
+   {                
+      "name": "gmm25",
+      "image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/gmm25.png",
+      "url": "https://stream.warpballsod.tv/gmm25.m3u8" ,"referer": "https://www.warpballsod.tv/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   desktop: true},
+   
 
 {
 "name":"tpbs",
