@@ -20,13 +20,15 @@
 "name":"tpbs",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
 "url":"https://stream.warpballsod.tv/thaipbs.m3u8",
-"referer": "https://www.warpballsod.tv/play-channel"
-},
+"referer": "https://www.warpballsod.tv/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   desktop: true},
+
 {
 "name":"gmmchannel",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191107-045350-GMM_CH_1.png",
 "url":"https://stream.warpballsod.tv/gmm25.m3u8",
-"referer": "https://www.warpballsod.tv/play-channel"
+"referer": "https://www.warpballsod.tv/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   desktop: true 
 }
 ]
 }
