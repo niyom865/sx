@@ -1,0 +1,34 @@
+{'name': 'tes',
+'author': 'FERNADO',
+'image':'https://www.chomfootball.com/assets/dd02af30/img/chomfootball_logo.png',
+"stations": [
+
+{
+"name":"tpbs",
+"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tpbs.stream/chunks.m3u8",
+"referer": "https://www.chomfootball.com/"
+},
+{
+"name":"gmmchannel",
+"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191107-045350-GMM_CH_1.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/chunks.m3u8",
+"referer": "https://www.chomfootball.com/"
+},
+
+{
+"name":"tpbs",
+"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tvdigital_thaipbs_480p/playlist.m3u8",
+"referer": "https://www.doofootball.com/"
+},
+{
+"name":"gmmchannel",
+"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191107-045350-GMM_CH_1.png",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/gmm25_480p/playlist.m3u8",
+"referer": "https://www.doofootball.com/"
+}
+]
+}
+]
+}
