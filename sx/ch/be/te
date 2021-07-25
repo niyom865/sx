@@ -31,22 +31,22 @@
    
 
 {
-"name":"truesporthd2",
+"name":"ARENA SPORT 1",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd2_480p/chunks.m3u8?nimblesessionid=47617197&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDI6Mjk6NTAgUE0maGFzaF92YWx1ZT1HVmsrbTl6c0tQVjdteU1hWG9WYU5RPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjMzNjQy",
-"referer": "https://www.ball24.tv/allchannel/?id=truesporthd2",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/10.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    desktop: true},
    {
-"name":"sporttv2",
+"name":"ARENA SPORT 2",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094828-tv-station_Sport-TV-2-(PT).png",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/chunks.m3u8?nimblesessionid=1674113&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDM6MjM6NTAgUE0maGFzaF92YWx1ZT10cEVNLytKanVPbWxNZTV2QkREMnhRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjMmaWQ9MTIxODY1",
-"referer": "https://www.doofootball.com/live/streaming/sporttv2/706723",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/9.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    desktop: true},
   {
-"name":"sporttv4",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094828-tv-station_Sport-TV-4-(PT).png",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv4/chunks.m3u8?nimblesessionid=1674113&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDM6MjM6NTAgUE0maGFzaF92YWx1ZT10cEVNLytKanVPbWxNZTV2QkREMnhRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjMmaWQ9MTIxODY1",
-"referer": "https://www.doofootball.com/live/streaming/sporttv2/706723",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"name":"ARENA SPORT 3",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094828-tv-station_Sport-TV-2-(PT).png",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/11.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    desktop: true},
 {
 "name":"sporthd1",
