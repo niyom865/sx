@@ -87,20 +87,20 @@
    autoStart: "true"},
       {
 "name":"bein premium 1 ",
-"image":"https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
 "url":"http://pn.tvott.info/live/307241010527/307241010527/163929.m3u8",
 "referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "true"},
    
       {
 "name":"bein premium 2 ",
-"image":"https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
 "url":"http://pn.tvott.info/live/307241010527/307241010527/163928.m3u8",
 "referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "true"},
       {
 "name":"bein premium 3 ",
-"image":"https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
 "url":"http://pn.tvott.info/live/307241010527/307241010527/163927.m3u8",
 "referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "true"},
