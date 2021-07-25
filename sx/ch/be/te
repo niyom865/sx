@@ -32,23 +32,152 @@
 
 {
 "name":"ARENA SPORT 1",
-"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",
 "url":"http://185.32.222.186:8080/live/samsung/samsung123/10.m3u8",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "true"},
    {
 "name":"ARENA SPORT 2",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094828-tv-station_Sport-TV-2-(PT).png",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",
 "url":"http://185.32.222.186:8080/live/samsung/samsung123/9.m3u8",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "true"},
   {
-"name":"ARENA SPORT 3",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094828-tv-station_Sport-TV-2-(PT).png",
+"name":"ARENA SPORT 1",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",
 "url":"http://185.32.222.186:8080/live/samsung/samsung123/11.m3u8",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "true"},
-{
+   {
+"name":"ARENA SPORT 3",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/11.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+   {
+"name":"ARENA SPORT 4",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/11.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+   
+ {
+"name":"SPORT KLUB HD ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/1459.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"SPORT KLUB 2 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/13.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"SPORT KLUB 3 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/12.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"NOVA SPORT ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
+"url":"http://185.32.222.186:8080/live/samsung/samsung123/1513.m3u8",
+"referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+      {
+"name":"bein premium 1 ",
+"image":"https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163929.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+   
+      {
+"name":"bein premium 2 ",
+"image":"https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163928.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+      {
+"name":"bein premium 3 ",
+"image":"https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163927.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport 1 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163926.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport 2 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163925.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport 3 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163924.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport 4 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163923.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport 5 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163922.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport 6 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163921.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport 7 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163920.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport eng 1 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163914.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport eng 2 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163918.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport eng 3 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163917.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+   {
+"name":"bein sport fr 1 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163916.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+    {
+"name":"bein sport fr 2 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"http://pn.tvott.info/live/307241010527/307241010527/163915.m3u8",
+"referer": "http://pn.tvott.info/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "true"},
+   
+   { 
 "name":"sporthd1",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191107-045350-GMM_CH_1.png",
 "url":"https://r3-sn-5fo-c37ed8.googleuservideo.com/wrapfootball_t1/2sporthd1_480p/chunks.m3u8?nimblesessionid=21696072&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDI6MTg6MzQgUE0maGFzaF92YWx1ZT0vVjJxMGFnaDBhY0pScnhoMkQxaVVnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzAmaWQ9MTc1NTc3",
