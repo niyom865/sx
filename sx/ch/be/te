@@ -193,8 +193,8 @@ time: "auto",autoStart: "true",autoStart: "true",autoStart: "true", desktop: "tr
    { 
 "name":"Sports-1-(NL)",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r4/foxsports1nl/chunks.m3u8",
-"referer": "https://www.doofootball.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/astrosupersport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDEyOjQxOjI0IFBNJmhhc2hfdmFsdWU9RDhwanF6MDNLTEtrTUVmOCtMMnJPZz09JnZhbGlkbWludXRlcz0xJmlkPTMwMzQ2Mw==",
+"referer": "https://www.liveballsod.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true" 
 }
 ]
