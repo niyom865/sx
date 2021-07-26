@@ -234,10 +234,10 @@
 "referer": "https://www.we-play.live/tv",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
     { 
-"name":"nat wild ",
+"name":"sporthd2",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://rv.flysat.live/live/307211161330/307211161330/83141.m3u8",
-"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd2_480p/chunks.m3u8?nimblesessionid=51521704&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDExOjMzOjQyIEFNJmhhc2hfdmFsdWU9Um1OQW93ZnhnSEJ4cUJ3VU45N2Jhdz09JnZhbGlkbWludXRlcz0xJmlkPTM2MTc5Ng==",
+"referer": "https://www.ball24.tv/allchannel/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
   {  
