@@ -209,24 +209,37 @@
 "referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
    { 
-"name":"sky football",
+"name":"euro 1",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://grm3u8a.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10516.ts",
-"referer": "http://grm3u8a.sralm87.com:2082/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://rv.flysat.live/live/307211161330/307211161330/83157.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
     { 
-"name":"sky premire",
+"name":"euro2",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://grm3u8a.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10511.ts",
-"referer": "http://grm3u8a.sralm87.com:2082/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://rv.flysat.live/live/307211161330/307211161330/83156.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
  { 
-"name":"sky mianeven",
+"name":"E ",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://grm3u8a.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10514.ts",
-"referer": "http://grm3u8a.sralm87.com:2082/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://rv.flysat.live/live/307211161330/307211161330/83145.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+   { 
+"name":"disco ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://rv.flysat.live/live/307211161330/307211161330/83146.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+    { 
+"name":"nat wild ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://rv.flysat.live/live/307211161330/307211161330/83141.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
   {  
 "name":"bt espn",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
