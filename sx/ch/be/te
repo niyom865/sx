@@ -241,10 +241,10 @@
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
   {  
-"name":"bt espn",
+"name":"ch3",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://rv.flysat.live/live/307211213114/307211213114/167742.m3u8",
-"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch3hd/chunks.m3u8?nimblesessionid=17357872&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDEwOjU2OjA5IEFNJmhhc2hfdmFsdWU9TzZmTWt1emlFdWhocmFuNDRRUVV2dz09JnZhbGlkbWludXRlcz0yMA==",
+"referer": "https://www.we-play.live/tv",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true" 
   
 }
