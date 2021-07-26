@@ -48,13 +48,13 @@
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",
 "url":"http://185.32.222.186:8080/live/samsung/samsung123/10.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
-time: "auto",autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
+  autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
    {
 "name":"ARENA SPORT 2",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",
 "url":"http://185.32.222.186:8080/live/samsung/samsung123/9.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
-time: "auto",autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
+  autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
   {
 "name":"ARENA SPORT 1",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",
@@ -103,14 +103,14 @@ time: "auto",autoStart: "true",autoStart: "true",autoStart: "true", desktop: "tr
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
 "url":"http://rv.flysat.live/live/307211161330/307211161330/163929.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
-time: "auto",autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
+  autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
    
       {
 "name":"bein premium 2 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
 "url":"http://rv.flysat.live/live/307211161330/307211161330/163928.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
-time: "auto",autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
+  autoStart: "true",autoStart: "true",autoStart: "true", desktop: "true"},
       {
 "name":"bein premium 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
