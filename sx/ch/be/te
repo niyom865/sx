@@ -209,23 +209,23 @@
 "referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
    { 
-"name":"euro 1",
+"name":"foxsport1",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://rv.flysat.live/live/307211161330/307211161330/83157.m3u8",
-"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x1/foxsport1_480p/chunks.m3u8?nimblesessionid=34391434&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDI6Mjk6MzAgUE0maGFzaF92YWx1ZT05akJYTjAyRW0wWkFJcUg4QlprellRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTc2NDE0",
+"referer": "https://www.liveballsod.com/t",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
     { 
-"name":"euro2",
+"name":"sporthd1",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://rv.flysat.live/live/307211161330/307211161330/83156.m3u8",
-"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd1_480p/chunks.m3u8?nimblesessionid=51741234&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDI6NDE6MzMgUE0maGFzaF92YWx1ZT1sTjN3VTJOUlNuVlcxaVlnSUZlR0FBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTMzOTk5",
+"referer": "https://ball365.co/channel/?id=truesporthd",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
  { 
-"name":"E ",
+"name":"sporthd3 ",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://rv.flysat.live/live/307211161330/307211161330/83145.m3u8",
-"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://r3-sn-5fo-c37ed8.googleuservideo.com/wrapfootball_t1/2sporthd3_480p/chunks.m3u8?nimblesessionid=21773719&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDI6MjY6MTggUE0maGFzaF92YWx1ZT0yWCtzR2FyVmxMYjJNNUc0N0lKWUJRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzAmaWQ9MzI5NDA5",
+"referer": "https://www.warpfootball.games/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
    { 
 "name":"disco ",
