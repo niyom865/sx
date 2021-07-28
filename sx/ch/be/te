@@ -62,28 +62,28 @@
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
    {
-"name":"ch7",
+"name":"mono",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://edge-m2.onlineprostream.com:459/live/hd-ch7_720/playlist.m3u8",
-"referer": "https://dooball66.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://live.andaman888th.com/digital/MONO29/playlist.m3u8",
+"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
  {
-"name":"foxth",
+"name":"news18",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/live/foxth/playlist.m3u8",
-"referer": "https://www.we-play.live/tv",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://live.andaman888th.com/digital/news18/playlist.m3u8",
+"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
  {
-"name":"sporttv2",
+"name":"GMM25",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://r3-sn-5fo-c37ed57.googleuservideo.com/live/sporttv2/playlist.m3u8",
-"referer": "https://www.doofootball.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://live.andaman888th.com/GMM25/playlist.m3u8",
+"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
 "name":"one",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/one/playlist.m3u8",
+"url":"https://live.andaman888th.com/onehd/playlist.m3u8",
 "referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
