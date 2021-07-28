@@ -1,0 +1,12 @@
+MPEG-4 AAC Main	audio/mp4; codecs="mp4a.40.1"
+
+Timed Text stream	video/mp4; codecs="tx3g"
+
+64 bit timecode samples	video/mp4; codecs="tc64"
+
+32 bit timecode samples	video/mp4; codecs="tmcd"	
+
+Encrypted Text	video/mp4; codecs="enct"
+
+
+Text timed metadata that is not XML	video/mp4; codecs="mett"
