@@ -332,6 +332,13 @@
 "referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
+  { 
+"name":"true4",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://live.andaman888th.com/digital/true4u/playlist.m3u8",
+"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
   {  
 "name":"teen",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
