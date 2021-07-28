@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4093073,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=1280x720
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_ch7hd_live1.stream/chunklist_w1788435457.m3u8?username=96NFSMPDSvozlQ3ihCYApNnS8XcmuMai&password=zadp1Y1U5GP3XWzJsj2KpkZHZhOVtVWT
