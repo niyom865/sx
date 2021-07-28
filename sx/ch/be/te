@@ -10,6 +10,13 @@
 "referer": "https://www.chomfootball.com/"
 },
 {
+"name":"7hd",
+"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
+"url":"https://live.andaman888th.com/digital/7hd/playlist.m3u8",
+"referer": "https://live.andaman888th.com/"
+},
+
+{
 "name":"gmmchannel",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191107-045350-GMM_CH_1.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/chunks.m3u8",
