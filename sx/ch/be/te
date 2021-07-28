@@ -179,7 +179,7 @@
     {
 "name":"NOVA SPORT ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/nova.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/2nova.m3u8",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
     autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
       {
@@ -411,7 +411,7 @@
    { 
 "name":"amarin",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"https://live.andaman888th.com/digital/amarin/playlis.m3u8",
+"url":"https://live.andaman888th.com/digital/amarin/playlist.m3u8",
 "referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
    { 
@@ -429,7 +429,7 @@
    { 
 "name":"mcot",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"https://live.andaman888th.com/digital/mcot/playlis.m3u8",
+"url":"https://live.andaman888th.com/digital/mcot/playlist.m3u8",
 "referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
