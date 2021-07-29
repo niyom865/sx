@@ -4,5 +4,7 @@ http://pn.tvott.info:80/xmltv.php?username=307241010527&password=307241010527
 
 http://pn.tvott.info:80/get.php?username=307241010527&password=307241010527&type=m3u | Active | Undefined - 01/19/2022 | Max Connections: 1 | 1
 
+ http://xcui.vitvabc.xyz:8880/get.php?username=287994003748&password=287994003748&type=m3u | Active | 01/23/2021 - 01/23/2023 | Max Connections: 1 | 2
+
 
 http://185.32.222.186:8080/xmltv.php?username=samsung&password=samsung123
