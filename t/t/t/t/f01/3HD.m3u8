@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=125000,RESOLUTION=852x480,CODECS="avc1.77.30,mp4a.40.2"
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1627601150&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=BwWHytdF3IAtCmZd9ht4Xw
