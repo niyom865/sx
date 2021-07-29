@@ -574,6 +574,21 @@
 "referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
    
+    { 
+"name":"WWE",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://pn.tvott.info:80/live/307241010527/307241010527/85070.ts.m3u8",
+"referer": "http://pn.tvott.info:80/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+   
+    { 
+"name":"COMADY",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://pn.tvott.info:80/live/307241010527/307241010527/79104.ts.m3u8",
+"referer": "http://pn.tvott.info:80/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
      { 
 "name":"TRAVEL BOX BRAZIL",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
@@ -646,7 +661,7 @@
      { 
 "name":"DISCOVERY ID HD ",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31110.ts.ts",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31109.ts.ts",
 "referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
    
