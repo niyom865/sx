@@ -441,7 +441,72 @@
 "url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31268.ts.ts",
 "referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-    
+   
+   
+     { 
+"name":"HBO 2",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31460.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+    { 
+"name":"HBO FAM",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31461.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+    { 
+"name":"HBO FULL",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31464.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+    { 
+"name":"HBO 1",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31465.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+    { 
+"name":"HBO MUNDI",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31467.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+    { 
+"name":"HBO PLUS",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31468.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+    { 
+"name":"HBO POP",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31470.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+    { 
+"name":"HBO SIGN",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31472.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+     { 
+"name":"HBO EXTREAM",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31474.ts.ts",
+"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
+   
+   
+   
     { 
 "name":"SPORTV",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
