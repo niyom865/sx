@@ -221,12 +221,7 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins1.m3u8",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
-    {
-"name":"tcm ",
-"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/tcm.m3u8",
-"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   
    
     {
 "name":"bein sport 2 ",
@@ -234,12 +229,7 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins2.m3u8",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
-    {
-"name":"AXN ",
-"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/axn.m3u8",
-"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+    
    
     {
 "name":"bein sport 3 ",
@@ -247,12 +237,6 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins3.m3u8",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
-   {
-"name":"worner ",
-"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/woener.m3u8",
-"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
     {
 "name":"bein sport 4 ",
@@ -309,6 +293,50 @@
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
+     {
+"name":"bein sport fr 3 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/ิbeinf3.m3u8",
+"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+     {
+"name":"euro1 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/euro1.m3u8",
+"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   
+     {
+"name":"euro2 ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/euro2.m3u8",
+"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   
+   
+ 
+ {
+"name":"show t ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/Show%20time.m3u8",
+"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   
+ 
+ {
+"name":"AXN ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/axn.m3u8",
+"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+  {
+"name":"tcm ",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/tcm.m3u8",
+"referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
    { 
 "name":"syfy",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
@@ -321,6 +349,14 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/foxL.m3u8",
 "referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
+   { 
+"name":"fox hd",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/FOX%20HD.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
   { 
 "name":"bein m1",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
@@ -333,6 +369,20 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/beinm22.m3u8",
 "referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
+    { 
+"name":"beinm3",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/beinm3.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+   { 
+"name":"beinm4",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/beinm4.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
   
    { 
 "name":"dis hd",
@@ -353,18 +403,7 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/ncg.m3u8",
 "referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
-   { 
-"name":"beinm3",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/beinm3.m3u8",
-"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
-   { 
-"name":"beinm4",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/beinm4.m3u8",
-"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+ 
   
     { 
 "name":"his",
@@ -372,6 +411,164 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/n/hishd.m3u8",
 "referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+   { 
+"name":"tcm ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/TCM%20HD.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+ 
+  { 
+"name":"tnt ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/TNT.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+    { 
+"name":"amc ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/AMC.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+  { 
+"name":"axn ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/AXN.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+    { 
+"name":"crime ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/CRIME.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+    { 
+"name":"actiom ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/M%20action.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"mtv ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/MTV.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+   { 
+"name":"planet ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/plamet.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"planet ci",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/planet%20ci.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"mortor",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/motor.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+  { 
+"name":"star his",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/star%20his.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+   { 
+"name":"star his",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sundanc.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+    { 
+"name":"sundane",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sundanc.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"trace uban",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/track%20uban.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"disco",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/DISCO.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"hg",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/HGTV%20U.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+  { 
+"name":"show t ex ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/Show%20time%20extream.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+  { 
+"name":"V2 H ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/V2H.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+  { 
+"name":"V2 H ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/V2H.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"dis id ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/dis%20id.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+     { 
+"name":"dis in ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/dis%20in.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+     { 
+"name":"dis fam ",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/dis%20fam.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+    { 
+"name":"ncg",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/NCG%20W.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+   { 
+"name":"ncg w",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/NCG%20W.m3u8",
+"referer": "http://rv.flysat.live/live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
+  
+  
+  
+  
    { 
 "name":"his2",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
@@ -396,190 +593,7 @@
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/pn.tvott/parpmout.m3u8",
 "referer": "http://pn.tvott.info:80/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
-   { 
-"name":"tlc",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31129.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-  EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-  
-  { 
-"name":"HG",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/16734.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-    { 
-"name":"cinemax",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31275.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-      { 
-"name":"star",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31286.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
    
-    { 
-"name":"fx",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31277.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"axn",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31271.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"amc",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31269.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-    { 
-"name":"AE",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31268.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-   
-     { 
-"name":"HBO 2",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31460.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-    { 
-"name":"HBO FAM",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31461.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"HBO FULL",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31464.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"HBO 1",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31465.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"HBO MUNDI",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31467.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"HBO PLUS",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31468.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"HBO POP",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31470.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"HBO SIGN",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31472.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-     { 
-"name":"HBO EXTREAM",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31474.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-   
-   
-    { 
-"name":"SPORTV",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31169.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-   { 
-"name":"SPORTV2",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31163.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"SPORTV3",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31166.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"FOX SPORTS 1",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31156.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-    { 
-"name":"FOX SPORTS 2",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31154.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"ESPN HD",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31149.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-    { 
-"name":"ESPN ฺBRA",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31143.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"ESPN EX",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31146.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-    { 
-"name":"ESPN 2",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31140.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-    { 
-"name":"CAMBAT",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31137.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
    
     { 
 "name":"WWE",
@@ -592,87 +606,7 @@
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
 "url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/warner/COMADY.m3u8"}, 
    
-     { 
-"name":"TRAVEL BOX BRAZIL",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31130.ts.ts"}, 
-   
-     { 
-"name":"NATGEO WILD HD ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31127.ts.ts"}, 
-   
-   { 
-"name":"NATGEO  ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31125.ts.ts"},  
-   
-   { 
-"name":" HISTORY HD ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31123.ts.ts"}, 
-   { 
-"name":"HGTV HD ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31122.ts.ts"}, 
-   
-   { 
-"name":"H2 ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31119.ts.ts"}, 
-   
-   { 
-"name":"DISCOVERY WORLD HD ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31117.ts.ts"}, 
-   
-   { 
-"name":"DISCOVERY SCIENCE HD ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31112.ts.ts"}, 
-   
-   { 
-"name":"DISCOVERY TURBO HD",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31115.ts.ts"}, 
-     { 
-"name":"DISCOVERY THEATHER FULLHD",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31113.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-   
-     { 
-"name":"DISCOVERY ID HD ",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003835/287994003835/31109.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-     { 
-"name":"DISCOVERY HOME & HEALTH HD",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31108.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-     { 
-"name":"ANIMAL PLANET HD",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/31105.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-     { 
-"name":"Warner Channel HD+",
-"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png",
-"url":"http://xcui.vitvabc.xyz:8880/live/287994003748/287994003748/16765.ts.ts",
-"referer": "http://xcui.vitvabc.xyz:8880/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-   EXT-X-VERSION: "nonstop",EXT-X-STREAM-INFt: "BANDWIDTH=2999558,RESOLUTION=1280x720", CODECS: "avc1.640029,mp4a.40.2"}, 
-   
-   
-   
+     
    
   { 
 "name":"true 5",
