@@ -51,8 +51,8 @@
    {
 "name":"tnn",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/digital/chtnn/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://stream.warpballsod.tv/tnn.m3u8",
+"referer": "https://www.warpballsod.tv/play-channel/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
   {
@@ -62,9 +62,9 @@
 "referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   {
-"name":"ch8 f01",
+"name":"voicetv",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/f01/8.m3u8",
+"url":"https://stream.warpballsod.tv/voicetv.m3u8","referer": "https://www.warpballsod.tv/play-channel/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
@@ -78,27 +78,27 @@
    {
 "name":"mono",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/digital/chmono29/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://stream.warpballsod.tv/mono29.m3u8",
+"referer": "https://www.warpballsod.tv/play-channel/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
  {
 "name":"news18",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/digital/newtv/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://stream.warpballsod.tv/newtv.m3u8",
+"referer": "https://www.warpballsod.tv/play-channel/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
  {
 "name":"GMM25",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/chgmm25/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://stream.warpballsod.tv/gmm25.m3u8",
+"referer": "https://www.warpballsod.tv/play-channel/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
 "name":"one",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/chone/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"https://stream.warpballsod.tv/one.m3u8",
+"referer": "https://www.warpballsod.tv/play-channel/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
 "name":"gmmchannel",
@@ -296,7 +296,7 @@
      {
 "name":"bein sport fr 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/ิbeinf3.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/bf3.m3u8",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
      {
