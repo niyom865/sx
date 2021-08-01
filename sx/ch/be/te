@@ -43,9 +43,23 @@
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
    {
-"name":"pptv",
+"name":"pptv ball24",
+"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
+"url":"https://www.ball24.tv/allchannel/?id=pptv",
+"referer": "https://www.doofootball.com/dootv/live/",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
+   {
+"name":"pptv doofoo ",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
 "url":"https://www.doofootball.com/dootv/live/pptv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
+  
+   {
+"name":"foxsporthd ball8k ",
+"image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
+"url":"https://ball8k.com/channel?ch=foxsporthd",
 "referer": "https://www.doofootball.com/dootv/live/",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"}, 
   
