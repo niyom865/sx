@@ -46,7 +46,7 @@ https://live.andaman888th.com/live/foxsports3/playlist.m3u8|User-Agent=vlc&Refer
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsporthd.png",FoxSport 1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/hd-foxsports.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-foxsports1.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",FoxSport 2 s1
