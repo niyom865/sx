@@ -252,19 +252,19 @@
  {
 "name":"SPORT KLUB HD ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk11.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk11.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk11.m3u8",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"SPORT KLUB 2 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/spork2.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/spork2.m3u8","url":"http://185.32.222.186:8080/live/samsung/samsung123/13.ts",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"SPORT KLUB 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk3.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk3.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk3.ts",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   {
