@@ -81,10 +81,14 @@ https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8|User-Ag
 https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",epl-bein1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesporthd2.png",truesporthd2
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/truesporthd2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",epl-bein2
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",epl-bein2
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
