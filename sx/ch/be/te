@@ -221,7 +221,7 @@
 {
 "name":"ARENA SPORT 1",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena1.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena1.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena1.m3u8","url":"http://185.32.222.186:8080/live/samsung/samsung123/10.ts",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
@@ -233,13 +233,13 @@
   {
 "name":"ARENA SPORT 1",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena1s.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena1s.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena1s.m3u8","url":"http://185.32.222.186:8080/live/samsung/samsung123/11.ts",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
 "name":"ARENA SPORT 3",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena3s.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena3s.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/arena3s.m3u8","url":"http://185.32.222.186:8080/live/samsung/samsung123/523.ts",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
@@ -264,7 +264,7 @@
     {
 "name":"SPORT KLUB 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk3.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk3.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk3.m3u8","url":"http://185.32.222.186:8080/live/samsung/samsung123/12.ts",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   {
@@ -277,7 +277,7 @@
     {
 "name":"NOVA SPORT ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/2nova.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/2nova.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/2nova.m3u8","url":"http://185.32.222.186:8080/live/samsung/samsung123/1513.ts",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
     autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
       {
