@@ -177,45 +177,45 @@
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
     {
-"name":"eurosport",
+"name":"B2+",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/live/eurosport/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/112","url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/112",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
     {
-"name":"eurosport2",
+"name":"B3+",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/live/eurosport2/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113","url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
     {
-"name":"DiscoveryHDWorld",
+"name":"B1",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/live/DiscoveryHDWorld/playlist.m3u8 ",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163926.m3u8 ","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163926.ts ",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
     {
-"name":"AXNHD",
+"name":"B2",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/live/AXNHD/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163925.m3u8","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163925.ts",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
-"name":"beinsportsarabia1hd",
+"name":"B3",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/live/beinsportsarabia1hd/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163924.m3u8","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163924.ts",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
   
      {
-"name":"bein2",
+"name":"B4",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"https://live.andaman888th.com/live/bein2/playlist.m3u8",
-"referer": "https://live.andaman888th.com/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163923.m3u8","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163923.ts",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
 
 {
