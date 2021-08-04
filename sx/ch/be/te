@@ -252,7 +252,7 @@
  {
 "name":"SPORT KLUB HD ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk11.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk11.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/sportk11.m3u8","url":"http://185.32.222.186:8080/live/samsung/samsung123/14.ts",
 "referer": "http://185.32.222.186:8080/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
@@ -283,26 +283,26 @@
       {
 "name":"bein premium 1 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinp1.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinp1.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163929.ts",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
  autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
       {
 "name":"bein premium 2 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinp2.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinp2.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163928.ts",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
       {
 "name":"bein premium 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinp3.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinp3.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163927.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport 1 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins1.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins1.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163926.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
@@ -310,7 +310,7 @@
     {
 "name":"bein sport 2 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins2.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins2.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163925.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     
@@ -318,82 +318,82 @@
     {
 "name":"bein sport 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins3.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins3.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163924.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
     {
 "name":"bein sport 4 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins4.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins4.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163923.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport 5 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins5.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins5.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163922.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport 6 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins6.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins6.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163921.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport 7 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins7.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins7.m3u8","url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beins7.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport eng 1 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beine1.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beine1.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163914.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport eng 2 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beine2.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beine2.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163918.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
     autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport eng 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beine3.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beine3.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163917.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
     autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    {
 "name":"bein sport fr 1 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinf1.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinf1.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163916.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"bein sport fr 2 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinf2.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/beinf2.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/163915.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
      {
 "name":"bein sport fr 3 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/bf3.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/bf3.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/78391.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
      {
 "name":"euro1 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/euro1.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/euro1.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/78383.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
      {
 "name":"euro2 ",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
-"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/euro2.m3u8",
+"url":"https://github.com/niyom865/sx/raw/main/t/t/t/t/a/euro2.m3u8","url":"http://rv.flysat.live/live/307211161330/307211161330/78382.ts",
 "referer": "http://rv.flysat.live/",viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
    autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
    
