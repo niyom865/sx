@@ -179,7 +179,8 @@
     {
 "name":"foxth",
 "image":"https://we-play.live/uploads/posters/-poster1602704474.jpeg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/chunks.ts?nimblesessionid=23440314&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMTA6NDA6MzIgQU0maGFzaF92YWx1ZT1rUWx6RFdOR3dWTXRnWllYbjdJSVJnPT0mdmFsaWRtaW51dGVzPTIw",  
+"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMTA6NDA6MzIgQU0maGFzaF92YWx1ZT1rUWx6RFdOR3dWTXRnWllYbjdJSVJnPT0mdmFsaWRtaW51dGVzPTIw", 
+"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/chunks.ts?nimblesessionid=23440314&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMTA6NDA6MzIgQU0maGFzaF92YWx1ZT1rUWx6RFdOR3dWTXRnWllYbjdJSVJnPT0mdmFsaWRtaW51dGVzPTIw",
 "referer": "https://we-play.live/watching/tv/fox-thai", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
