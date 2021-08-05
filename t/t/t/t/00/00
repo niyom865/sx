@@ -508,9 +508,9 @@ https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd1_480p/chunks.
 https://www.ball24.tv/allchannel/?id=truesporthd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",sporthd1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",foxsporthd
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
-https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/foxsport1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMTI6MzY6NTYgUE0maGFzaF92YWx1ZT16R28vb3JVUittdytCVnA3dG5BL1B3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NjI1ODk3
+ https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/foxsport1_480p/chunks.m3u8?nimblesessionid=69922734&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMTI6MzY6NTYgUE0maGFzaF92YWx1ZT16R28vb3JVUittdytCVnA3dG5BL1B3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NjI1ODk3
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsporthd
 
 
