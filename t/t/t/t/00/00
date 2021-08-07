@@ -411,26 +411,26 @@ https://streaming.livescorethai.net/iptv/ro-digisport1.stream/chunks.m3u8|User-A
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", sportklub1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/sl-sportklub1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sl-sportklub1.stream/chunks.m3u8|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://livescorethai.net/
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", arena1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/rs-arena1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena1.stream/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", arena2
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/rs-arena2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena2.stream/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", arena3
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/rs-arena3.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena3.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://livescorethai.net/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", arena4
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/rs-arena4.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena4.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://livescorethai.net/
 
 
 
