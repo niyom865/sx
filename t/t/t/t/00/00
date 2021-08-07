@@ -417,8 +417,8 @@ https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/chunks.m3u8|User-A
 https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsportespn.png", uk-btsportespn
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/uk-btsportespnhd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTVLCOPT:http-referrer=https://ball365.co/channel/
+https://ball365.co/channel/?id=btsportespn|User-Agent=exoplayer_video&Referer=https://ball365.co/channel/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tsport4.png", hd-tsport4
@@ -630,9 +630,14 @@ https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8|User-A
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",sporthd3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd3
+ https://www.ball24.tv/allchannel/?id=truesporthd3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd3
+
 
  
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",sporthd2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",sporthd2
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd2
  https://www.ball24.tv/allchannel/?id=truesporthd2
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd2
@@ -643,7 +648,7 @@ https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8|User-Ag
 https://www.ball24.tv/allchannel/?id=truesporthd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",foxsporthd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsporthd.png",foxsporthd
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
  https://www.ball24.tv/allchannel/?id=foxsporthd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsporthd
