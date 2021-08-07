@@ -605,6 +605,7 @@ https://stream.warpballsod.tv/true4u.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg",bo2
 #EXTVLCOPT:http-referrer=http://tvplaymundo.com:80/live/
 http://tvplaymundo.com:80/live/test0/test0/12715.ts
+http://tvplaymundo.com:80/test0/test0/12715 
 http://tvplaymundo.com:80/live/test0/test0/12715.ts
 |User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
 
@@ -612,12 +613,14 @@ http://tvplaymundo.com:80/live/test0/test0/12715.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg",star com
 #EXXMLTV:http-referrer=http://tvplaymundo.com:80/live/
 http://tvplaymundo.com:80/live/test0/test0/9986.ts
+http://tvplaymundo.com:80/test0/test0/9986
 http://tvplaymundo.com:80/live/test0/test0/9986.ts
 |User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg",bo signa
 #EXTVLCOPT:http-referrer=http://tvplaymundo.com:80/live/
 http://tvplaymundo.com:80/live/test0/test0/4933.ts
+http://tvplaymundo.com:80/test0/test0/4933
 http://tvplaymundo.com:80/live/test0/test0/4933.ts
 |User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
 
@@ -625,6 +628,7 @@ http://tvplaymundo.com:80/live/test0/test0/4933.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", ae
 #EXSimpleTV:http-referrer=http://tvplaymundo.com:80/live/
 http://tvplaymundo.com:80/live/test0/test0/10188.ts
+http://tvplaymundo.com:80/test0/test0/10188
 http://tvplaymundo.com:80/live/test0/test0/10188.ts
 |User-Agent=mxplayer_video&Referer=http://tvplaymundo.com:80/live/
  
@@ -638,6 +642,7 @@ https://streaming.livescorethai.net/iptv/sd-discovery.stream/playlist.m3u8|User-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", ho hd
 #EXTVLCOPT:http-referrer=http://tvplaymundo.com:80/live/
 http://tvplaymundo.com:80/live/test0/test0/10960.ts
+http://tvplaymundo.com:80/test0/test0/10960
 http://tvplaymundo.com:80/live/test0/test0/10960.ts
 |User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
 
