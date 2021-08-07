@@ -509,6 +509,41 @@ https://streaming.livescorethai.net/iptv/hd-foxpremium.stream/playlist.m3u8|User
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-foxaction.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-fox.png", fsd-fox
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-fox.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png", hd-warnertv
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-axn.png", hd-axn
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-paramount.png", hd-paramount
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-paramount.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-asian.png", hd-asian
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-asian.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tfilm.png", hd-tfilm
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-rtlcbs.png", hd-rtlcbs
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-rtlcbs.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+
+
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/amarin.png",hd-amarin
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-amarin.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
