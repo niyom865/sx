@@ -625,13 +625,15 @@ http://tvplaymundo.com:80/live/test0/test0/10188.ts|User-Agent=exoplayer_video&R
  
 
 
- #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg",kompastv
-#EXTVLCOPT:http-referrer=http://gpc.my.id/usee/
-http://gpc.my.id/usee/kompastv.m3u8
-|User-Agent=vlc&Referer=http://gpc.my.id/usee/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", dis
+#EXSimpleTV:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
  
- 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", are3
+#EXSimpleTV:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena3.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
  
  
  
