@@ -1,33 +1,40 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1 v0
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
 https://stream.warpballsod.tv/epl1.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesporthd.png",truesporthd
-#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://stream.warpballsod.tv/truesporthd.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",truesporthd1
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
+https://live.andaman888th.com/live/truesporthd1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd2.jpg",truesporthd2
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
+https://live.andaman888th.com/live/truesporthd2/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg",truesporthd3
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
+https://live.andaman888th.com/live/truesporthd3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",truesporthd4
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
+https://live.andaman888th.com/live/truesporthd4/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-bein1.png",truesport5
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/truesport5/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-bein1.png",truesport5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-bein1.png",truesport7
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/truesport7/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-bein1.png",eurosport
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/eurosport/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+ 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-bein1.png",eurosport2
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/eurosport2/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-bein1.png",Beinsport1  
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg",Beinsport1  
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/beinsport1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
@@ -38,19 +45,19 @@ https://live.andaman888th.com/live/beinsport2/playlist.m3u8|User-Agent=vlc&Refer
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport1.jpg",btsport1
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/btport1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+https://live.andaman888th.com/live/btsport1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport1.jpg",btsport2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport12.jpg",btsport2
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/btport2/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+https://live.andaman888th.com/live/btsport2/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport1.jpg",btsport3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg",btsport3
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/btport3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+https://live.andaman888th.com/live/btsport3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",FoxSport HD  
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsporthd.jpg",FoxSport HD  
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/foxsports1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
@@ -78,64 +85,64 @@ https://live.andaman888th.com/live/sporttv3/playlist.m3u8|User-Agent=vlc&Referer
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/sporttv4/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",sporttv 5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-sporttv5.jpg",sporttv 5
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/sporttv5/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",  ch7
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch7.png",  ch7
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/ch7/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",  ch5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch5.png",  ch5
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/ch5/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",  ch3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch3.png",  ch3
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/ch3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",  ch8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch8.png",  ch8
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/ch8/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",workpoint
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-workpoint.png",workpoint
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/workpoint/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",nation
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nation.png",nation
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/nation/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",amarin
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-amarin.png",amarin
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/amarin/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",thairath
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-thairath.png",thairath
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/thairath/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",tpbs
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tpbs.png",tpbs
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/tpbs/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",mcot
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-mcot.png",mcot
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/mcot/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",nbt
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nbt.png",nbt
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/nbt/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",true4u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-24u.png",true4u
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/true4u/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",pptv
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-pptv.png",pptv
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/digital/pptv/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png",tnn
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-tnn24.png",tnn
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-tnn24.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
@@ -162,7 +169,7 @@ https://streaming.livescorethai.net/iptv/sd-foxsports2.stream/playlist.m3u8|User
 https://streaming.livescorethai.net/iptv/sd-foxsports3.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",BTSport 1  
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport1.png",BTSport 1  
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
