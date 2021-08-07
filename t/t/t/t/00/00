@@ -316,9 +316,9 @@ https://stream.warpballsod.tv/newtv.m3u8|User-Agent=exoplayer_video&Referer=http
 https://stream.warpballsod.tv/voicetv.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tptv.png",sd-tptv
-#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://stream.warpballsod.tv/sd-tptv.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
-
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-tptv.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+ 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesporthd.png",true4u
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
