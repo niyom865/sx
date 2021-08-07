@@ -615,33 +615,33 @@ https://streaming.livescorethai.net/iptv/sd-discovery.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg"HBO
-#EXTVLCOPT:http-referrer=http://tvplaymundo.com:80/live/
+#EXTVLCOPT:http-referrer=http://tvplaymundo.com /
 http://tvplaymundo.com:80/live/test0/test0/12715.ts
-|User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
+|User-Agent=vlc&Referer=http://tvplaymundo.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg"HBO
-#EXTVLCOPT:http-referrer=http://tvplaymundo.com:80/live/
+#EXTVLCOPT:http-referrer=http://tvplaymundo.com/
 http://tvplaymundo.com/live/test0/test0/12715.m3u8
-|User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
+|User-Agent=vlc&Referer=http://tvplaymundo.com/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg"HBO
-#EXXMLTV:http-referrer=http://tvplaymundo.com:80/live/
+#EXXMLTV:http-referrer= 
 http://tvplaymundo.com:80/live/test0/test0/12715.ts
-|User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
+|User-Agent=vlc&Referer= 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg"HBO
-#EXXMLTV:http-referrer=http://tvplaymundo.com:80/live/
+#EXXMLTV:http-referrer= 
 http://tvplaymundo.com/live/test0/test0/12715.m3u8
-|User-Agent=vlc&Referer=http://tvplaymundo.com:80/live/
+|User-Agent=vlc&Referer= 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg"HBO
-#EXXMLTV:http-referrer=http://tvplaymundo.com:80/live/
+#EXXMLTV:http-referrer= 
 http://tvplaymundo.com/live/test0/test0/12715.m3u8
-|User-Agent=exoplayer_video&Referer=http://tvplaymundo.com:80/live/
+|User-Agent=exoplayer_video&Referer= 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg"HBO
-#EXXMLTV:http-referrer=http://tvplaymundo.com:80/live/
+#EXXMLTV:http-referrer= 
 http://tvplaymundo.com:80/live/test0/test0/12715.ts
-|User-Agent=exoplayer_video&Referer=http://tvplaymundo.com:80/live/
+|User-Agent=exoplayer_video&Referer= 
 
