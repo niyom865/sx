@@ -621,7 +621,7 @@ http://tvplaymundo.com:80/live/test0/test0/4933.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", ae
 #EXSimpleTV:http-referrer=http://tvplaymundo.com:80/live/
-http://tvplaymundo.com:80/live/test0/test0/10188.ts|User-Agent=exoplayer_video&Referer=http://tvplaymundo.com:80/live/
+http://tvplaymundo.com:80/live/test0/test0/10188.ts|User-Agent=mxplayer_video&Referer=http://tvplaymundo.com:80/live/
  
 
 
@@ -630,9 +630,9 @@ http://tvplaymundo.com:80/live/test0/test0/10188.ts|User-Agent=exoplayer_video&R
 https://streaming.livescorethai.net/iptv/sd-discovery.stream/playlist.m3u8|User-Agent=mxplayer_video&Referer=https://livescorethai.net/
 
  
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", are3
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/rs-arena3.stream/playlist.m3u8|User-Agent=mxplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", ho hd
+#EXTVLCOPT:http-referrer=http://tvplaymundo.com:80/live/
+http://tvplaymundo.com:80/live/test0/test0/10960.ts|User-Agent=mxplayer_video&Referer=http://tvplaymundo.com:80/live/
 
  
  
