@@ -1,0 +1,997 @@
+{			
+"name": "Entertainment",
+"author": "SPSTUDIO >>>Entertainment",
+"image":"https://www.pwc.com/content/dam/pwc/us/en/industries/tmt/library/assets/Looping-file-2.gif",
+"stations":[
+{"name":"        FOX Thai",
+"image":"https://www.movieclubhd.tv/src/images/live/foxthai.jpg",
+"url":"https://www.we-play.tv/watching/tv/fox-thai","referer":"https://www.we-play.tv"},
+{"name": "   true FILM HD",
+"image": "https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",
+"url": "https://wacth.tv/tv-player/true-film-hd-ibonsbo810rk.html",
+"referer":"https://wacth.tv"},
+{"name": "BOX FILM",
+ "image": "https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png",
+ "url": "http://27.254.130.62/feed/LC52/tracks-v1a1/mono.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+ "playInNatPlayer": "true"
+},
+{"name": "      CTB Cable",
+"image": "http://ctbtv.co.th/wp-content/uploads/2012/11/ctb.jpg",
+"url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"},
+{"name":"  Fox Movies",
+"image":"https://www.doofree88.com/storage/live/fox-movies-premium-th.png",
+"url":"https://www.we-play.live/watching/tv/fox-movies-soundtrack",
+"referer":"https://www.we-play.tv"},
+{
+"name":"Fox Action Movies",
+"image":"https://dl.dropbox.com/s/2ryb48vhaz0la07/fox%20action%20movies%201.png?dl=0",
+"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8"},
+        {"name": "Fox Family-we.play",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/8/81/Fox_Family_Movies_HD.jpg",
+        "url": "https://www.we-play.tv/watching/tv/fox-family-movies","referer":"https://www.we-play.tv"},
+{"name": "  HBO HD-we.play",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EuywkSoP_4WMLfVfp1h6HGOzL9BcY4ppnw&usqp=CAU",  
+"url": "https://www.we-play.tv/watching/tv/hbo-hd","referer": "https://www.we-play.tv"},
+{"name": "  CINIMAX",
+"image": "https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png",
+"url": "https://www.we-play.tv/watching/tv/cinemax",
+"referer":"https://www.we-play.tv"},
+
+        {"name": " UNVERSAL ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPuQmoKsxi0ID-an6dq6DzImpsM9FlvTAzSA&usqp=CAU",
+        "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8"},
+{ 
+"name": "      FWMOV",
+"image":"https://dl.dropbox.com/s/ycl93wwkk02hadb/FWmon.png",              
+"url":"https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+        {"name": "   FWSOV",
+        "image": "https://www.inwiptv.com/postor/20200512165346fwsov.jpg",
+	    "url":"https://www.inwiptv.com/player_demo.php?channel=89781","referer": "https://www.inwiptv.com"},
+{
+"name":"Movies 1",
+"image":"https://dl.dropbox.com/s/gnmoja9k99i7vkw/1.png?dl=0",
+	    "url":"http://203.159.95.172:8081/live/action001/playlist.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+ "playInNatPlayer": "true"},
+
+{
+"name":"Movies 2",
+"image":"https://dl.dropbox.com/s/201u2yu1j352pdo/2.png?dl=0",
+	    "url":"http://203.159.95.172:8081/live/banner002/playlist.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+ "playInNatPlayer": "true"},
+{
+"name":"Movies 3",
+"image":"https://dl.dropbox.com/s/vjp9979iolam2ej/3.png?dl=0",
+	    "url":"http://203.159.95.172:8081/live/invest02/playlist.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+ "playInNatPlayer": "true"},
+{
+"name":"Movies 4",
+"image":"https://dl.dropbox.com/s/2twwhamy2vh7q9q/4.png?dl=0",
+"url":"http://203.159.95.172:8081/live/invest03/playlist.m3u8",
+"desktop":"true",
+"playInNatPlayer": "true"
+},
+{
+"name":"Movies 5",
+"image":"https://dl.dropbox.com/s/9q4wfd7hcqknvzw/5.png?dl=0",
+"url":"http://gg.gg/aslive1",
+"desktop":"true"
+},
+{
+"name":"Movies 6",
+"image":"https://dl.dropbox.com/s/2mhuk6yww59hc8y/6.png?dl=0",
+"url":"http://gg.gg/aslive2",
+"desktop":"true"
+},
+{
+"name":"Movies 7",
+"image":"https://dl.dropbox.com/s/frq73074hf3xi2m/7.png?dl=0",
+"url":"http://gg.gg/MOVIE2411",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+{
+"name":"Movies 8",
+"image":"https://dl.dropbox.com/s/0n9h6uzh6fzjvem/8.png?dl=0",
+"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8",
+"desktop":"true"
+},
+
+{
+"name":"Movies 9",
+"image":"https://dl.dropbox.com/s/zvil657s3yb2h52/9.png?dl=0",
+"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8",
+"desktop":"true"
+},
+{"name" :" Movie Sky1",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/7b752a7e23971404ae2ce2e1b5ed0684?ticket=62E288F2B1C9569B228A57C10359366A333B6F1D"},
+{"name" :" Movie Sky2",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/350bbbf7af2ff0cfc5b8608a5f189c42?ticket=17F757E28B7B5CD72B32D3445C01D734ABBCC1B7"},
+{"name" :" Movie Sky3 ",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/f5688fbf8ba814dfaae52f48a72f5b7b?ticket=5738E2CC8B58E60691A29E9142DF2BF88D7E9585"},
+{"name" :" Movie Sky4",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/33286e39815a16ecbd2c832907841eff?ticket=EF2B191B6714D844F576F55096069D094CDD57DA"},
+{"name" :"   A-Flim HD",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/6eac3a193c6f3dea40394c92aa81322b?ticket=D496E4C1FD58FBAB4BE91EC8BA14AAA5393E0EBF"},
+{"name" :"   i-Movie HD",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/fc4f8361f0a8886faec73e28c8e85efb?ticket=99757FD35AE52BF6AF98BA308F3344795BAFBF3F"},
+{"name" :"  i-Asia HD",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/e6ccde79a8389a03cdfd95ee0c7a1cfd?ticket=46BF7FFE85B8A7423106CF78EFECB19AB6EAA15B"},
+{"name" :"Movies&sat Asia",
+"image":"https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url":"http://116.204.181.238:9981/stream/service/a092196252017c8f3264d71ceb6acd59?ticket=E1620D68F8F1DB20A65679F4C360BC63DCD4C8FD"},
+
+        {"name": "  TVB ไทย",
+		"url": "https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8",
+		"image": "https://i.pinimg.com/564x/d1/58/7f/d1587f18f6adcc42d85a6f79f7d7bb2e.jpg"},
+        {"name": "Channel 8 Thailand",
+        "image": "https://live-tv-channels.org/pt-data/uploads/logo/th-channel-8-thailand-5394.jpg",
+ "url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8"},
+        {"url": "https://live1.thaitvstream.com/play/pmnewstv/index.m3u8",
+		"name": "      PM TV",
+		"image": "https://pbs.twimg.com/profile_images/1259514963/Backup_of_logo_corel_12.jpg"},
+        {"url": "http://live.thaitvstream.com/play/mdtvnews/index.m3u8",
+		"name": "      MD TV",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1530xgQhKuRpY7QtpIJrPUzlnO2m_uyjYQ&usqp=CAU"},
+        {"name": "WB TV (TH)",
+		"url": "http://203.154.243.89:1205",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgnz_ZwuF-89cCHR4s3vPzIx0eR_Ri2aYGTg&usqp=CAU"},
+        {"name": " PARAMOUNT",
+        "image": "https://1000logos.net/wp-content/uploads/2017/05/Emblem-Paramount-Pictures.jpg",
+        "url": "https://www.we-play.tv/watching/tv/paramount-channel","referer":"https://www.we-play.tv"},
+
+	{"name": "   ลิโด้",
+	"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",
+	"url": "https://www.mvtv.co.th/channel/lidochannell",
+	"referer": "https://www.mvtv.co.th",
+	"playInNatPlayer": "true"},
+{"name": "  สกาล่า",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",
+"url": "https://www.mvtv.co.th/channel/sakalachannel",
+"referer": "https://www.mvtv.co.th",
+"playInNatPlayer": "true"},
+	{"name": "    ราม่า",
+	"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",
+	"url": "https://www.mvtv.co.th/channel/ramachannel",
+	"referer": "https://www.mvtv.co.th",
+	"playInNatPlayer": "true"	},
+
+        {"name":"Fox Movies-livedoomovie",
+        "image":"https://www.doofree88.com/storage/live/fox-movies-premium-th.png",
+	    "url":"https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8","referer":"https://www.livedoomovie.com"},
+{
+"name":" Channel 8","image":"https://live-tv-channels.org/pt-data/uploads/logo/th-channel-8-thailand-5394.jpg",
+"url":"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8"},
+{"name":"     TVB ไทย",
+"image":"https://i.pinimg.com/564x/d1/58/7f/d1587f18f6adcc42d85a6f79f7d7bb2e.jpg",
+"url":"https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8"},
+        {"name": "     AXN-ip2121",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png",
+        "url": "http://ip2121.com:8081/live/AXN_Y/chunks.m3u8"},
+{"name": "   WB TV (TH)",
+"url": "https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgnz_ZwuF-89cCHR4s3vPzIx0eR_Ri2aYGTg&usqp=CAU"},
+	{"name": "true MOVIE HITS",
+	"image": "https://www.we-play.tv//uploads/posters/true-movie-hits-poster.jpg",
+	"url": "https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgODozNjo0NSBBTSZoYXNoX3ZhbHVlPWVacDBtMlpGdlgrVDMwMU43UW8rY2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfODE2OTU=",
+	"referer": "https://mediasv.online",
+	"playInNatPlayer": "true"},
+
+{"name": "  MONO 29 HD-guchill",
+"image": "https://www.doofree88.com/storage/live/QltWolbnY9MOvm64aL4PVMonVCTX6AEhEcrzkOMk.png",
+"url": "http://tv.guchill.com/Mono29-Live.html?l=9","referer":"http://tv.guchill.com"},
+{
+"name":"    MONO 29",
+"image":"https://www.doofree88.com/storage/live/QltWolbnY9MOvm64aL4PVMonVCTX6AEhEcrzkOMk.png",
+"url":"https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"},
+{"name":"  M Channel",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0031.png",
+"url":"http://27.254.130.61/live01/ch19.m3u8?p=st"},
+{"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgULNMsNSIv_qcuzaF5r8kWpUMT5zDfaQ9PQ&usqp=CAU",
+"name":"   Mix Major",
+"url":"https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8"},
+{"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlWzgypBj-aBD-vR6gb0upgVv9MO638cM8uw&usqp=CAU",
+"name":"Lakorn Thai",
+"url":"https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"},
+        {"name": "CINIMAX-noSub",
+        "image": "https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png",
+        "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8"},
+{"name": "M CH-1080p",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0031.png",  
+"url": "http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",referer:"http://www.m-channel.com"},
+{"name": " BOX FILM-สำรอง",
+ "image": "https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png",
+ "url": "http://27.254.130.62/feed/LC52/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+ "playInNatPlayer": "true"
+},
+{"name": "Warner TV-สำรอง",
+ "image": "https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_320.png",
+ "url": "http://27.254.130.62/feed/LC28/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+ "playInNatPlayer": "true"
+},
+{
+"name":"HBO HD-noSub",
+"image":"https://dl.dropbox.com/s/6xidapi8d903455/hbohd.png?dl=0",
+"url":"https://wacth.tv/tv-player/hbo-asia.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+ "name":"HBO HD-noSub",
+"image":"https://dl.dropbox.com/s/6xidapi8d903455/hbohd.png?dl=0",
+"url":"https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"HBO Family-noSub",
+"image":"https://dl.dropbox.com/s/8e88czvj4g8qn1u/hbofam.png?dl=0",
+"url":"https://wacth.tv/tv-player/hbo-family.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"HBO Hits-noSub",
+"image":"https://dl.dropbox.com/s/s3yxxvsamu27teg/hbohits.png?dl=0",
+"url":"https://wacth.tv/tv-player/hbo-hits.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"HBO PLUS-noSub",
+"image":"https://dl.dropbox.com/s/3kv90ra8icqbqx7/HBO%20PLUS.png",
+"url":"http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"HBO Signature-noSub",
+"image":"https://dl.dropbox.com/s/iih5i6d2qwf544b/hbosig.png",
+"url":"https://wacth.tv/tv-player/hbo-signature.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"Fox Movies-Sub",
+"image":"https://dl.dropbox.com/s/4jlowbj1hfedtp1/Fox_Moxie_Channel.png?dl=0",
+"url":"http://ip2121.com:8081/live2/foxprem/chunks.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"FOXไทย",
+"image":"https://dl.dropbox.com/s/2it23o56u6nz85c/fox%20thai.png?dl=0",
+"url":"http://gg.gg/foxthai007",
+"desktop":"true"
+},
+{
+"name":"FOXไทย",
+"image":"https://dl.dropbox.com/s/2it23o56u6nz85c/fox%20thai.png?dl=0",
+"url":"https://wacth.tv/tv-player/fox-thai.html",
+"desktop":"true"
+},
+{
+"name":"Fox Action Movies",
+"image":"https://dl.dropbox.com/s/2ryb48vhaz0la07/fox%20action%20movies%201.png?dl=0",
+"url":"https://www.we-play.tv/watching/tv/fox-action-movies",
+"desktop":"true"
+},
+{
+"name":"Fox Action Movies",
+"image":"https://dl.dropbox.com/s/2ryb48vhaz0la07/fox%20action%20movies%201.png?dl=0",
+"url":"https://wacth.tv/tv-player/fox-action-movies.html",
+"desktop":"true"
+},
+
+{"name":"Mono29-1080p",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+url:"https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
+"referer": "https://player.we-play.tv"},
+{name:"     HBO ",image:"https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",
+url:"http://cdn1.digital1id.xyz/hbohd/playtv.m3u8"},
+{name:"RED by HBO",image:"https://www.img.in.th/images/673c7787d8e6cb2e99c2cab922ebb2fb.png",
+url:"http://cdn1.digital1id.xyz/redhd/playtv.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:" CINEMAX    ",image:"https://www.img.in.th/images/c3e090a28260224a51adc0e57ae20eeb.png",
+url:"https://www.we-play.tv/watching/tv/cinemax",referer:"https://www.we-play.tv"},
+{name:"FOX ACTION",image:"https://www.234.in.th/images/2021/01/25/142510468_121607513155359_3047954972771048801_n.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-foxaction&api_key=hmcb4rf66f",
+referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"},
+{name:" WB TV",
+image:"https://www.img.in.th/images/4e2d514d8d86287ea4eaf5db8e592bd3.png",
+url:"http://203.154.177.124:8899/live/ch12/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:" HITS-Sub",image:"https://sv1.picz.in.th/images/2021/03/04/oe5peD.png",
+url:"https://player.we-play.tv/channel.php?name=hits&cate=entertainment",
+referer:"https://player.we-play.tv"},
+{name:"HITS MOVIES",image:"https://www.img.in.th/images/e6f7ece47df84ef0c165362a516c8391.png",
+url:"https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment",
+referer:"https://player.we-play.tv"},
+{name:"    FOX ไทย",
+image:"https://www.img.in.th/images/76c4f3554de2c187cad2fd6ad1ed7a7a.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-fox&api_key=hmcb4rf66f&ref=none",
+referer:"https://dooball66.com"},
+{name:"     TLC  ",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",
+url:"https://player.we-play.tv/channel.php?name=tlc&cate=documentary",referer:"https://player.we-play.tv"},
+
+{name:"FOX Life-Sub",
+image:"https://sv1.picz.in.th/images/2021/02/03/o0HzIN.png",
+url:"https://www.we-play.tv/watching/tv/fox-life",referer:"https://player.we-play.tv"},
+{name:" AXN-Sub",
+image:"https://www.img.in.th/images/afd4667e5efc5c0e4cd69955a9fa62ec.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f&ref=none",referer:"https://dooball66.com"},
+ { 
+     "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/i%2DMovie%20HD?u=covid19:p=951159753",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/A%20Flim%20HD?u=covid19:p=951159753",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/Movies%20%26%20sat%20Asia?u=covid19:p=951159753",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/Live%20Sky1?u=covid19:p=951159753",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/LiveSky2?u=covid19:p=951159753",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/LiveSky3?u=covid19:p=951159753",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"     
+},
+ {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/LiveSky4?u=covid19:p=951159753",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"     
+},
+ {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",
+     "import": false
+},
+ {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8",
+     "import": false
+},
+ {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8",
+        "import": false
+},
+ {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "https://dogtoop.com:8443/3bb/PSLDWu7RpX/25",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
+},
+ {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8",
+        "import": false
+},
+  {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8",
+        "import": false
+},
+  {      
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC11/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {      
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC2/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC24/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+ {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC52/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+ {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC3/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+ {
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC53/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+ {
+     "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
+      "import": false
+},
+ {     
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "https://fo1iptv.com/tv-player/hbo-asia.html","referer": "https://fo1iptv.com/"
+},
+ {     
+     "name": "HBO b",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "https://dogtoop.com:8443/live/hbo1/123/26.ts",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+  {     
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "https://www.we-play.tv/watching/tv/hbo-hd","referer": "https://www.we-play.tv/"
+},
+ {     
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "HBO HITS",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
+     "url": "https://fo1iptv.com/tv-player/hbo-hits.html","referer": "https://fo1iptv.com/" 
+},
+ {
+     "name": "HBO HITS",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
+     "url": "https://www.we-play.tv/watching/tv/hbo-hits","referer": "https://www.we-play.tv/"
+},
+ {
+     "name": "HBO HITS b",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
+     "url": "https://dogtoop.com:8443/live/hbohits/XYTUADvEuv123/147.ts",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+  {
+     "name": "HBO SIGNATURE",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
+     "url": "https://www.we-play.tv/watching/tv/hbo-signature","referer": "https://www.we-play.tv/"
+
+},
+ {
+     "name": "HBOFamily",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
+     "url": "https://www.we-play.tv/watching/tv/hbo-family","referer": "https://www.we-play.tv/"
+},
+ {
+     "name": "HBOFamily b",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
+     "url": "https://dogtoop.com:8443/hbofamily/kLJUfxPYHH/1174",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+
+},
+ {
+     "name": "RedbyHBO",
+     "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
+     "url": "https://www.we-play.tv/watching/tv/red-by-hbo","referer": "https://www.we-play.tv/"
+
+},
+ {
+     "name": "RedbyHBO",
+     "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
+     "url": "https://dogtoop.com:8443/redhbo/dFqPqfqKE3/148",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+     "name": "CINEMAX",
+     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
+     "url": "https://www.we-play.tv/watching/tv/cinemax","referer": "https://www.we-play.tv/"
+},
+  {
+     "name": "CINEMAX",
+     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
+     "url": "https://fo1iptv.com/tv-player/cinemax-hd.html","referer": "https://fo1iptv.com/"     
+},
+ {
+     "name": "CINEMAX b",
+     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
+     "url": "https://dogtoop.com:8443/cinemax/U4Jucs5sFH/86",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true" 
+},
+  {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "http://119.161.100.50:8082/live/foxpremium/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "FOX MOVIES b",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "https://dogtoop.com:8443/foxmoviesTH/321/23",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true" 
+},
+  {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "http://ip2121.com:8081/live2/foxprem/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "FOX ACTION MOVIES b",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://dogtoop.com:8443/foxacTH/s65DYdR/24",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true" 
+},
+  {
+     "name": "FOX ACTION MOVIES b",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://dogtoop.com:8443/foxactionen/mEuUBJZase/108",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true" 
+},
+ {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "http://119.161.100.50:8082/live/foxaction/playlist.m3u8",
+      "import": false
+},
+ {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-action&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://fo1iptv.com/tv-player/fox-action-movies.html","referer": "https://fo1iptv.com/"
+
+},
+ {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "https://dogtoop.com:8443/foxthai/H6QtbPMa6B/179",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+
+},
+ {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "https://player.we-play.tv/channel.php?name=foxth&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "https://fo1iptv.com/tv-player/fox-thai.html","referer": "https://fo1iptv.com/"
+},
+ {
+     "name": "Fox Family b",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
+     "url": "https://dogtoop.com:8443/live/Mrtv4/CyEwExD/54.ts",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true" 
+
+},
+ {
+     "name": "Fox Family Movies",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-fam&cate=entertainment","referer": "https://player.we-play.tv"
+
+},
+ {
+     "name": "FOXCRIME",
+     "image": "https://img-cdn.we-play.tv/posters/-poster1602704510.jpeg",              
+     "url": "http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "https://dogtoop.com:8443/foxlife/kFnL7WuQc2/182",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true" 
+},
+  {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "https://fo1iptv.com/tv-player/fox-life-hd.html","referer": "https://fo1iptv.com/"
+},
+ {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-life&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/foxlife/chunklist.m3u8",
+     "import": false
+},
+ {
+     "name": "TVN ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
+     "url": "https://www.we-play.tv/watching/tv/tvn","referer": "https://player.we-play.tv" 
+},
+ {
+     "name": "TVN ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
+     "url": "https://fo1iptv.com/tv-player/tvn-hd.html","referer": "https://fo1iptv.com/"  
+},
+ {
+     "name": "HITS",
+     "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
+     "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "HITS ",
+     "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
+     "url": "https://fo1iptv.com/tv-player/hits.html","referer": "https://fo1iptv.com/"   
+},
+ {
+     "name": "HITS MOVIES",
+     "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tnmvwofitgks8kow4.png",              
+     "url": "https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment","referer": "https://player.we-play.tv" 
+},
+ {
+     "name": "HITS MOVIES b",
+     "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tnmvwofitgks8kow4.png",              
+     "url": "https://dogtoop.com:8443/hismovie/uJ8XvYkUv4/107",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+     "name": "True Film HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "True Film HD ",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://fo1iptv.com/tv-player/true-film-hd.html","referer": "https://fo1iptv.com/"   
+ },
+ {
+     "name": "True Film HD b",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://dogtoop.com:8443/filmhd/cadgGq6BYq/100",
+     "userAgent": "ProPlayer",
+     "playInNatPlayer": "true"
+},
+ {
+     "name": "True Film HD 2 b",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
+     "url": "https://fo1iptv.com/tv-player/true-film-hd2.html","referer": "https://fo1iptv.com/"  
+},
+ {
+     "name": "True Film HD 2 b",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
+     "url": "https://dogtoop.com:8443/live/filmhd2/d5F7tCKBTZ/102.ts",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+     "name": "True Asian Series HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+     "url": "https://player.we-play.tv/channel.php?name=trueasianhd&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "True Asian Series HD b",
+     "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+     "url": "https://dogtoop.com:8443/live/skysportcricket/yZtwgvkZkk/132.ts",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+     "name": "True Asian Series HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+     "url": "https://fo1iptv.com/tv-player/asian-series.html","referer": "https://fo1iptv.com/"
+},
+ {
+     "name": "True Thai Film HD b",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
+     "url": "https://dogtoop.com:8443/thaifilm/3ZMtErVMK4/99",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ { 
+     "name": "TRUE FILM ASIA b",
+      "image": "https://wacth.officebk.co/uploads/tv_image/true-film-asia.png",              
+      "url": "https://dogtoop.com:8443/filmasia/AteNKk4dm9/165",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
+     "name": "TRUE FILM ASIA ",
+      "image": "https://wacth.officebk.co/uploads/tv_image/true-film-asia.png",              
+      "url": "https://fo1iptv.com/tv-player/true-film-asia.html","referer": "https://fo1iptv.com/"
+},
+ { 
+     "name": "TRUE MOVIE HITS ",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://www.we-play.tv/watching/tv/true-movie-hits","referer": "https://player.we-play.tv"
+},
+ { 
+     "name": "TRUE MOVIE HITS b",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://dogtoop.com:8443/truemoviehis/YjNvwyQPTm/689",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
+     "name": "TRUE SERIES",
+      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+      "url": "https://wacth.tv/tv-player/true-series.html","referer": "https://wacth.tv/"
+},
+ { 
+     "name": "TRUE SERIES",
+      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+      "url": "https://dogtoop.com:8443/series201/6k9EEkqskV/159",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
+     "name": "GEM",
+      "image": "http://cms.dmpcdn.com/livetv/2019/01/24/ad22f352-d7dc-4f05-88e2-9ad89b42b314.png",              
+      "url": "https://fo1iptv.com/tv-player/gem-tv.html","referer": "https://fo1iptv.com/"
+},
+ { 
+     "name": "GEM b",
+      "image": "http://cms.dmpcdn.com/livetv/2019/01/24/ad22f352-d7dc-4f05-88e2-9ad89b42b314.png",              
+      "url": "https://dogtoop.com:8443/gem/DKW2guCrmU/1017",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
+     "name": "THE MOVIES b",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/162106095883_movie_image.jpg",              
+      "url": "https://dogtoop.com:8443/live/movie1/DZ8eMtM69g/1030.ts",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+
+},
+ {
+     "name": "KBS World HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",
+       "import": false
+
+},
+  {
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+  {
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
+     "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Paramount Channel b",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "https://dogtoop.com:8443/para/TAFaAEBTjC/183",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+},
+ {
+     "name": "Paramount Channel",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Paramount Channel",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "https://embed-dev.blackboxsys.net/player.php?channel=paramount&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
+ },
+ {
+     "name": "CCM b",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+     "url": "https://dogtoop.com:8443/live/foxfamilyth/sUgZzjUgKv/119.ts",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+
+},
+ {
+     "name": "CCM",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+     "url": "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8",
+     "import": false
+
+},
+  {
+     "name": "celestial movie",
+     "image": "https://pbs.twimg.com/profile_images/378800000730309303/77807b57979d5b121a47030e2bc462ae_400x400.jpeg",              
+     "url": "http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "CTB",
+     "image": "https://www.doohdbox.com/assets/20170709090502720443899.jpg",              
+     "url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8",
+     "import": false
+},
+ { 
+      "name": "AXN HD b",
+      "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
+      "url": "https://dogtoop.com:8443/axn/73daA4t9bm/110",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
+      "name": "AXN HD",
+      "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
+       "url": "http://ip2121.com:8081/live/AXN_Y/chunks.m3u8",
+       "import": false
+},
+ { 
+      "name": "AXN HD",
+      "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
+       "url": "https://player.we-play.tv/channel.php?name=axn&cate=entertainment","referer": "https://player.we-play.tv"
+
+},
+ { 
+      "name": "Star Chinese Movies",
+      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+      "url": "http://119.161.100.50:8082/live/starchinesemovies/playlist.m3u8",
+      "import": false
+},
+ { 
+      "name": "Star Chinese Movies",
+      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "Thrill",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",              
+     "url": "http://203.154.177.124:8899/live/ch21/chunks.m3u8",
+     "userAgent": "ExoMedia 4.3.0",
+      "playInNatPlayer": "true"
+},
+ {
+     "name": "มังกร",
+     "image": "http://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",              
+     "url": "https://boxmovie-th.com/app-api-android/true/Mangorn/playlist.m3u8",
+     "import": false
+},
+  { 
+      "name": "Zeenung",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
+       "url": "https://cdn6.goprimetime.info//feed//chzeenung//index.m3u8",
+       "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {
+     "name": "MV ลาว",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/OpCwDn.png",              
+     "url": "https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8",
+     "import": false
+
+},
+  {
+     "name": "TVB ",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/OpPQuI.jpg",              
+     "url": "https://fo1iptv.com/tv-player/tvb.html","referer": "https://fo1iptv.com/"
+},
+  {
+     "name": "TVB ",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/OpPQuI.jpg",              
+     "url": "https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "MIX MAJOR",
+     "image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",              
+     "url": "https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8",
+     "import": false
+
+},
+  {
+     "name": "CHANNEL8",
+     "image": "https://sv1.picz.in.th/images/2020/10/09/OeRVVb.png",              
+     "url": "https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
+     "import": false
+
+},
+  {
+     "name": "Lakorn Thai",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcZ9E0PlYJdGLQ7B5J0keDN7X0N07fRhZRg&usqp=CAU",              
+     "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
+     "import": false
+
+},
+{"name":"FashionTV",
+"image":"http://thaiip.tv/tvlogo2/ftv.png",
+"url":"http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8"},
+{"name":"HD Fashion &Lifestyle",
+"image":"https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",
+"url":"http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"},
+
+{
+"name": "The Pet Collective",
+"image": "https://www.tubefilter.com/wp-content/uploads/2015/07/pet-collective.jpg",
+"url": "https://the-pet-collective-international-au.samsung.wurl.com/manifest/playlist.m3u8"},
+{"name":"Cartoon Club",
+"image":"https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",
+"url":"http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8"},
+{"name": "KETCHUP TV Kids",
+"image": "https://www.digitaltveurope.com/files/2018/10/about-ketchuptv-200x300.png",
+"url": " https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8"},
+
+
+]
+}
