@@ -179,7 +179,7 @@
     {
 "name":"foxth",
 "image":"https://we-play.live/uploads/posters/-poster1602704474.jpeg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMTA6NDA6MzIgQU0maGFzaF92YWx1ZT1rUWx6RFdOR3dWTXRnWllYbjdJSVJnPT0mdmFsaWRtaW51dGVzPTIw", 
+"url":"https://we-play.live/watching/tv/fox-thai", 
 "url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/chunks.ts?nimblesessionid=23440314&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMTA6NDA6MzIgQU0maGFzaF92YWx1ZT1rUWx6RFdOR3dWTXRnWllYbjdJSVJnPT0mdmFsaWRtaW51dGVzPTIw",
 "referer": "https://we-play.live/watching/tv/fox-thai", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
@@ -187,27 +187,27 @@
     {
 "name":"B3+",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113","url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113", 
+"url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113|http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113","url":"http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
     {
 "name":"B1",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163926.ts ","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163926.ts ",
+"url":"http://pn.tvott.info:80/307241010527/307241010527/163926|http://pn.tvott.info:80/307241010527/307241010527/163926 ","url":"http://pn.tvott.info:80/307241010527/307241010527/163926 ",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
     {
 "name":"B2",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163925.ts","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163925.ts",
+"url":"http://pn.tvott.info:80/307241010527/307241010527/163925|http://pn.tvott.info:80/307241010527/307241010527/163925","url":"http://pn.tvott.info:80/307241010527/307241010527/163925",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
     {
 "name":"B3",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163924.ts","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163924.ts",
+"url":"http://pn.tvott.info:80/307241010527/307241010527/163924|http://pn.tvott.info:80/307241010527/307241010527/163924","url":"http://pn.tvott.info:80/307241010527/307241010527/163924",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
   
@@ -215,7 +215,7 @@
      {
 "name":"B4",
 "image":"https://static-dfb-2021.b-cdn.net/chom/selfimgs/channelimg/20191108-105859-Thai%20PBS%20(TH).jpg",
-"url":"http://pn.tvott.info:80/live/307241010527/307241010527/163923.ts","url":"http://pn.tvott.info:80/live/307241010527/307241010527/163923.ts",
+"url":"http://pn.tvott.info:80/307241010527/307241010527/163923|http://pn.tvott.info:80/307241010527/307241010527/163923","url":"http://pn.tvott.info:80/307241010527/307241010527/163923",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
   autoStart: "nonstop",autoStart: "nonstop", desktop: "true"},
 
