@@ -798,10 +798,10 @@ http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://103.208.24.234:1935/thaisport/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",skysports-mainevent
-#EXTVLCOPT:http-referrer=http://160.119.77.116:8081/iptv/
-http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://160.119.77.116:8081/iptv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",gmm
+#EXTVLCOPT:http-referrer=https://www.gmm25.com/live.html
+https://www.dailymotion.com/cdn/live/video/x6rz4t7.m3u8?sec=nNitpFpQT3ZsGjdUQuj6iVpgmuWOAzmGUZMWoLQAH2nD8EjZr6eGx6cskMOfnwtCFlcmdWvJou9DPasXmhKvCw
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.gmm25.com/live.html
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",workpointtv
 #EXTVLCOPT:http-referrer=https://www.workpointtv.com/
@@ -809,6 +809,10 @@ https://www.dailymotion.com/cdn/live/video/x6g9qjj.m3u8?sec=Dy7luKxYb1-JKhrTkgqs
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.workpointtv.com/
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",gmm
+#EXTVLCOPT:http-referrer=https://www.gmm25.com/ 
+https://www.gmm25.com/live.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.gmm25.com/ 
 
 
 
