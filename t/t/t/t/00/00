@@ -799,19 +799,20 @@ http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",gmm
-https://www.dailymotion.com/cdn/live/video/x6rz4t7.m3u8?sec=nNitpFpQT3ZsGjdUQuj6iVpgmuWOAzmGUZMWoLQAH2nD8EjZr6eGx6cskMOfnwtCFlcmdWvJou9DPasXmhKvCw
+https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoplay=1&queue-enable=false  
  
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",workpointtv
-https://www.dailymotion.com/cdn/live/video/x6g9qjj.m3u8?sec=Dy7luKxYb1-JKhrTkgqsFeSVrpqWSW4gKkeIDfDwMFtQVt79wfb_Q0gtDB6cHkpp_26A0QQHntwbSFDrE7ky9A 
+https://www.dailymotion.com/embed/video/x6g9qjj?api=postMessage&autoplay=false&id=player&origin=https%3A%2F%2Fwww.workpointtv.com
  
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",gmm
-https://www.gmm25.com/live.html|User-Agent=.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",nation
+https://www.dailymotion.com/embed/video/x6eoldf?autoplay=1&mute=1&queue-enable=false&controls=true&sharing-enable=false
  
 
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",mcot
+https://www.dailymotion.com/embed/video/x74wlgj
 
 
 
