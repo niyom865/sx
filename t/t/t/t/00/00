@@ -757,6 +757,45 @@ https://www.ball24.tv/allchannel/?id=truesporthd
  https://www.ball24.tv/allchannel/?id=foxsporthd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsporthd
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2.png",foxsporthd2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport2
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport3.png",foxsporthd3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",epl2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",epl3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",epl4
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl4
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl4
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",epl5
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl5
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl5
+
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",bein2+
 #EXTVLCOPT:http-referrer=http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/112
@@ -831,16 +870,12 @@ http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #EXTVLCOPT:http://new-pro.tv:8080/
 http://new-pro.tv:8080/live/f8042ed57a17/U8Mfbl0886/8114.ts
 http://new-pro.tv:8080/live/f8042ed57a17/U8Mfbl0886/8114.ts
-http://new-pro.tv:8080/live/f8042ed57a17/U8Mfbl0886/8114.ts
-
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://new-pro.tv:8080/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",ve his
 #EXTVLCOPT:http-referrer=http://new-pro.tv:8080/
  http://new-pro.tv:8080/live/f8042ed57a17/U8Mfbl0886/8115.ts
  http://new-pro.tv:8080/live/f8042ed57a17/U8Mfbl0886/8115.ts
- http://new-pro.tv:8080/live/f8042ed57a17/U8Mfbl0886/8115.ts
- 
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://new-pro.tv:8080/
 
 
