@@ -856,6 +856,13 @@ https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSSaiL9BARsd_V9PnfX
 https://stream-01.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xgLSFx7Xvlvw0zHLVMcWAV0)/dm/3/x74wlgj/s/live-3.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",tpbs
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_live1.stream/playlist_w1076948721.m3u8?username=PXuPY53Nr3ylDtDwm32fmDyDXOUzV99z&password=Gw63PvsHrbHan5yFsszfXjIBzChplj9P
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",7hd
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_ch7hd_live1.stream/playlist_w1081224312.m3u8?username=4iW6r75R6xo7rhoIwWAzpGJH8xGbViGR&password=Cz41ITUreAWAlRsNY0kI6BQKFYMAIbm0
+
+
 
 
 
