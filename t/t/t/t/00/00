@@ -794,24 +794,24 @@ https://www.ball24.tv/allchannel/?id=epl4
 https://www.ball24.tv/allchannel/?id=epl5
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl5
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport1.png",epl5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport1.png",astrosupersport
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
 https://www.ball24.tv/allchannel/?id=astrosupersport
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport2.png",epl5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport2.png",astrosupersport2
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
 https://www.ball24.tv/allchannel/?id=astrosupersport2
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport3.png",epl5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport3.png",astrosupersport3
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
 https://www.ball24.tv/allchannel/?id=astrosupersport3
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport4.png",epl5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport4.png",astrosupersport4
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
 https://www.ball24.tv/allchannel/?id=astrosupersport4
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
