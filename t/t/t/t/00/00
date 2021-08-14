@@ -1079,18 +1079,18 @@ https://stream.warpballsod.tv:443/epl3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png",TPF4 
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://178.128.99.54:443/epl4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://stream.warpballsod.tv:443/epl4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 &Referer=https://www.warpballsod.tv/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-5.png",TPF5  
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://178.128.99.54:443/epl5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://stream.warpballsod.tv:443/epl5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 &Referer=https://www.warpballsod.tv/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://178.128.99.54:443/epl1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://stream.warpballsod.tv:443/epl1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 &Referer=https://www.warpballsod.tv/
 
 
