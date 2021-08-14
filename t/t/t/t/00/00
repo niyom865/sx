@@ -3,9 +3,21 @@
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
 https://stream.warpballsod.tv/epl1.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIxIDExOjQ1OjMxIEFNJmhhc2hfdmFsdWU9cmJlNFJmZDNGeG94c1M3V3ZCL2VFQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF8xMTQ2MA==
+|User-Agent=exoplayer_video&Referer=https://wacth.tv/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIxIDExOjUwOjIxIEFNJmhhc2hfdmFsdWU9bUJ0b3BQOUdqbGUybmlaRS9VRU5xQT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yOCZpZD1jaF85NjEyMw==
+|User-Agent=exoplayer_video&Referer=https://fo1iptv.com/
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",TPF1  
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/tpf1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",TPF2
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
