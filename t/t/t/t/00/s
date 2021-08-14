@@ -84,6 +84,13 @@
  "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
 },	
 {
+
+"name":"Premiere 1",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+"url":"https://www.ball24.tv/allchannel/?id=epl1",
+ "referer": "https://www.ball24.tv/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
 "name":"Premiere 1",
 "image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
 "url":"https://365liveball.com/True-Premier-HD?channel=epl1",
