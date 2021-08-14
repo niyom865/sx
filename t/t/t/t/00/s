@@ -1,0 +1,3889 @@
+{
+"name": "Sports",
+"author": "royrover",
+"image": "https://dl.dropbox.com/s/s70bnrdharn6o0y/NUTV.png",
+"url": "https://dl.dropbox.com/s/fwms0ouzqnynogs/Sports.w3u?dl=0",
+"info": "", "stations": 
+[ 
+{
+"name":"โปรแกรมฟุตบอล",
+"image":"https://dl.dropbox.com/s/w0xka3wudzipfxs/program%20football.png",
+"url":"https://www.chklive.com/",
+"webviewType": "chrome",
+"embed": true
+},	
+{
+"name":"โปรแกรมฟุตบอล",
+"image":"https://dl.dropbox.com/s/w0xka3wudzipfxs/program%20football.png",
+"url":"https://www.ball24.tv/program/",
+"embed": true
+},	
+{
+"name":"DOOFOOTBALL",
+"image":"https://dl.dropbox.com/s/xf4rhug1tcu04uq/doofootball.png",
+"url":"https://www.doofootball.com/",
+"webviewType": "chrome",
+"embed": true
+},	
+{
+"name":"DOONUNG1234",
+"image":"https://dl.dropbox.com/s/s0judkslcjbuyd7/doonung1234-.png",
+"url":"https://www.doonung1234.com/match",
+"webviewType": "chrome",
+"embed": true
+},	
+{
+"name":"DOOBALL66",
+"image":"https://dl.dropbox.com/s/1g96socwqyq4lgj/dooball66.png",
+"url":"https://dooball66.com/",
+"webviewType": "chrome",
+"embed": true
+},	
+{
+"name":"HDFOOTBALL",
+"image":"https://dl.dropbox.com/s/ze39ctclliwvosk/HDFootball.png",
+"url":"https://hdfootball.net/",
+"webviewType": "chrome",
+"embed": true
+},	
+{
+
+"name":"ZONEDOOBALL",
+"image":"https://dl.dropbox.com/s/tnlnj1c4fzlkgez/zonedoo.png",
+"url":"https://www.zonedooball.com/",
+"webviewType": "chrome",
+"embed": true
+},	
+{
+"name":"livesod88",
+"image":"https://dl.dropbox.com/s/ou5r3kqbdx50rl7/livesod88.png",
+"url":"https://livesod88.com/",
+"webviewType": "chrome",
+"embed": true
+},
+{
+
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.doofree88.com/live/premier-football-hd-1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1 (50fps)",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl1&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://365liveball.com/True-Premier-HD?channel=epl1",
+"referer": "https://wacth.tv/"
+},	
+{
+
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://wacth.tv/tv-player/true-premuim-1-vkd80p04jvr0.html",
+"referer": "https://wacth.tv/"
+},	
+{
+
+
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+
+
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/tpf1",
+"referer": "https://dooballmovie.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 2 (50fps)",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl2&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f&ref=none",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://www.doofree88.com/live/premier-football-hd-2",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://wacth.tv/tv-player/true-premuim-2-iyrpacvc8lk1.html",
+"referer": "https://freetvdd.com/"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://365liveball.com/True-Premier-HD?channel=epl2",
+"referer": "https://freetvdd.com/"
+},	
+{
+
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+
+
+
+
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/tpf2",
+"referer": "https://365liveball.com/",
+"playInNatPlayer": "true"
+
+},	
+{
+"name":"Premiere 3 (50fps)",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl3&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f&ref=none",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://365liveball.com/True-Premier-HD?channel=epl3",
+"desktop":"true"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://wacth.tv/tv-player/true-premuim-3.html",
+"referer": "https://freetvdd.com/"
+},	
+{
+
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+
+
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/tpf3",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 4 (50fps)",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl4&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f&ref=none",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://365liveball.com/True-Premier-HD?channel=epl4",
+"desktop":"true"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+
+
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://wacth.tv/tv-player/true-premuim-4.html",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/tpf4",
+"referer": "https://365liveball.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl5&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f&ref=none",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/tpf5",
+"referer": "https://freetvdd.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://365liveball.com/True-Premier-HD?channel=epl5",
+"referer": "https://freetvdd.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+
+
+
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/beinsport1",
+"referer": "https://365liveball.com/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://www.doofree88.com/live/bein-sports-1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url": "https://www.doofree88.com/live/bein-sports-2",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url": "https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/beinsport2",
+"referer": "https://365liveball.com/"
+},	
+{
+"name":"Bein Sports Extra",
+"image":"https://dl.dropbox.com/s/uf7l0cuy7iawaac/XTRA_2.png",
+"url":"https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8",
+"referer": "https://photocall.tv/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports Extra",
+"image":"https://dl.dropbox.com/s/uf7l0cuy7iawaac/XTRA_2.png",
+"url":"https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8",
+"referer": "https://photocall.tv/",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Bein Sports 1 AR",
+"image":"https://dl.dropbox.com/s/2keah0p1sgij01h/tv-station--752.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+
+"name":"Bein Sports 1 AR",
+"image":"https://dl.dropbox.com/s/2keah0p1sgij01h/tv-station--752.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 2 AR",
+"image":"https://dl.dropbox.com/s/x42913xfsoc20py/tv-station--753.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 2 AR",
+"image":"https://dl.dropbox.com/s/x42913xfsoc20py/tv-station--753.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinsportsarabia2hd",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 3 AR",
+"image":"https://dl.dropbox.com/s/x42913xfsoc20py/tv-station--753.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 3 AR",
+"image":"https://dl.dropbox.com/s/x42913xfsoc20py/tv-station--753.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinsportsarabia3hd",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 4 AR",
+"image":"https://dl.dropbox.com/s/h6hdrsuh7f4rl6p/tv-station--755.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein4&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 5 AR",
+"image":"https://dl.dropbox.com/s/k5xg4mllw73l45f/tv-station--756.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+
+"name":"Bein Sports 6 AR",
+"image":"https://dl.dropbox.com/s/e6rpak6ni4saiw4/tv-station--758.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 7 AR",
+"image":"https://dl.dropbox.com/s/lmc8gdu75mwoy07/tv-station--759.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 8 AR",
+"image":"https://dl.dropbox.com/s/lmc8gdu75mwoy07/tv-station--759.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 9 AR",
+"image":"https://dl.dropbox.com/s/1ali9es9xlkzk1g/tv-station--760.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 10 AR",
+"image":"https://dl.dropbox.com/s/42jcnvyum6lx6n0/tv-station--761.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 11 AR",
+"image":"https://dl.dropbox.com/s/1bskv9pywep8q6w/Be11.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein Sports 12 AR",
+"image":"https://dl.dropbox.com/s/v6mv85avxa5z6o7/be12.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein 1 France",
+"image":"https://dl.dropbox.com/s/3cpj8k45t7domhm/a400.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein 1 France",
+"image":"https://dl.dropbox.com/s/3cpj8k45t7domhm/a400.png",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=fr-bein1hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 2 France",
+"image":"https://dl.dropbox.com/s/esb1kitk2subn5f/a401.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein 2 France",
+"image":"https://dl.dropbox.com/s/esb1kitk2subn5f/a401.png",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=fr-bein2hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 3 France",
+"image":"https://dl.dropbox.com/s/5ygxg8p0yjnfed0/a402.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Bein 3 France",
+"image":"https://dl.dropbox.com/s/5ygxg8p0yjnfed0/a402.png",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=fr-bein3hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 4 Max",
+"image":"https://dl.dropbox.com/s/rwe9z3dsow3im0z/tv-station--403.png",
+"url":"https://www.doofootball.com/dootv/live/beinmax4fr#main_dootv",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Bein 5 Max",
+"image":"https://dl.dropbox.com/s/owh9i0pkr5gs2va/tv-station--404.png",
+"url":"https://www.doofootball.com/dootv/live/beinmax5fr#main_dootv",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Bein 6 Max",
+"image":"https://dl.dropbox.com/s/usy5y91pqty01te/tv-station--405.png",
+"url":"https://www.doofootball.com/dootv/live/beinmax5fr#main_dootv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd1&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/thd1",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://wacth.tv/tv-player/true-sport-1hd.html",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://fo1iptv.com/tv-player/true-sport-1hd.html",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truesporthd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd2&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://www.doofree88.com/live/sport-hd-2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truesporthd2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/truesporthd2",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/thd2",
+"referer": "https://ballnaka.tv/"
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd3&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png",
+"url":"https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truesporthd3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd3",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/thd3",
+"referer": "https://ballnaka.tv/"
+},	
+{
+
+"name":"True Sport HD4",
+"image":"https://dl.dropbox.com/s/4qvx6d6ct2tg9uh/tsphd4.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"True Sport HD4",
+"image":"https://dl.dropbox.com/s/4qvx6d6ct2tg9uh/tsphd4.png",
+"url":"https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD4",
+"image":"https://dl.dropbox.com/s/4qvx6d6ct2tg9uh/tsphd4.png",
+"url":"http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 2",
+"image":"https://dl.dropbox.com/s/smelrruii18xqdw/tsp2.png",
+"url":"https://www.liveballsod.com/tv-online/ch037/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 2",
+"image":"https://dl.dropbox.com/s/smelrruii18xqdw/tsp2.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truesport2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 2",
+"image":"https://dl.dropbox.com/s/smelrruii18xqdw/tsp2.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesport2",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"True Sport 2",
+"image":"https://dl.dropbox.com/s/smelrruii18xqdw/tsp2.png",
+"url":"https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 2",
+"image":"https://dl.dropbox.com/s/smelrruii18xqdw/tsp2.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tsp2",
+"referer": "https://ballnaka.tv/"
+},	
+{
+"name":"True Sport 5",
+"image":"https://dl.dropbox.com/s/6rditrw1w4v440b/tsp5.png",
+"url":"https://www.liveballsod.com/tv-online/ch039/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 5",
+"image":"https://dl.dropbox.com/s/6rditrw1w4v440b/tsp5.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truesport5",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 5",
+"image":"https://dl.dropbox.com/s/6rditrw1w4v440b/tsp5.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesport5",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"True Sport 5",
+"image":"https://dl.dropbox.com/s/6rditrw1w4v440b/tsp5.png",
+"url":"https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 5",
+"image":"https://dl.dropbox.com/s/6rditrw1w4v440b/tsp5.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tsp5",
+"referer": "https://ballnaka.tv/"
+},	
+{
+"name":"True Sport 6",
+"image":"https://dl.dropbox.com/s/dbddojlstku1adl/tsp6.png",
+"url":"https://www.liveballsod.com/tv-online/ch040/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 6",
+"image":"https://dl.dropbox.com/s/dbddojlstku1adl/tsp6.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truesport6",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 6",
+"image":"https://dl.dropbox.com/s/dbddojlstku1adl/tsp6.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesport6",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 6",
+"image":"https://dl.dropbox.com/s/dbddojlstku1adl/tsp6.png",
+"url":"https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"True Sport 6",
+"image":"https://dl.dropbox.com/s/dbddojlstku1adl/tsp6.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tsp6",
+"playInNatPlayer": "true"
+},	
+{
+
+
+"name":"True Sport 7",
+"image":"https://dl.dropbox.com/s/3wzl03qm2bygqpp/tsp7.png",
+"url":"https://www.liveballsod.com/tv-online/ch041/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 7",
+"image":"https://dl.dropbox.com/s/3wzl03qm2bygqpp/tsp7.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truesport7",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 7",
+"image":"https://dl.dropbox.com/s/3wzl03qm2bygqpp/tsp7.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesport7",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 7",
+"image":"https://dl.dropbox.com/s/3wzl03qm2bygqpp/tsp7.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tsp7",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 7",
+"image":"https://dl.dropbox.com/s/3wzl03qm2bygqpp/tsp7.png",
+"url":"https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"  
+},	
+{
+
+"name":"T-Sport",
+"image":"https://dl.dropbox.com/s/7xp7jhc26w5gt22/T-sport.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+
+"name":"T-Sport",
+"image":"https://dl.dropbox.com/s/7xp7jhc26w5gt22/T-sport.png",
+"url":"https://livesod88.com/?id=333332&ch=tsports",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"True Tennis HD",
+"image":"https://dl.dropbox.com/s/mq99fpc8aues1ra/tennis.png",
+"url":"https://www.we-play.tv/watching/tv/true-tennis",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://dl.dropbox.com/s/mq99fpc8aues1ra/tennis.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truetennis",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://dl.dropbox.com/s/mq99fpc8aues1ra/tennis.png",
+"url":"https://www.ball24.tv/allchannel/?id=truetennis",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://dl.dropbox.com/s/mq99fpc8aues1ra/tennis.png",
+"url":"https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8",
+"referer":"https://www.doo2you.com/"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://dl.dropbox.com/s/mq99fpc8aues1ra/tennis.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tennis",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://dl.dropbox.com/s/mq99fpc8aues1ra/tennis.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Tennis Channel",
+"image":"https://dl.dropbox.com/s/lnatwxgn25nmxeq/Tennis%20Channel.png",
+"url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Tennis Channel",
+"image":"https://dl.dropbox.com/s/lnatwxgn25nmxeq/Tennis%20Channel.png",
+"url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000",
+"playInNatPlayer": "true"
+},	
+{
+"name":"WTA Tennis HD1",
+"image":"https://dl.dropbox.com/s/mtsb7n3yt4maymz/WTA.png",
+"url":"https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"WTA Tennis HD2",
+"image":"https://dl.dropbox.com/s/mtsb7n3yt4maymz/WTA.png",
+"url":"https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
+"playInNatPlayer": "true"  
+},	
+{
+"name":"One Golf",
+"image":"https://dl.dropbox.com/s/6ssx00oujfbmsjx/one%20golf.png",
+"url":"http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"One Golf",
+"image":"https://dl.dropbox.com/s/6ssx00oujfbmsjx/one%20golf.png",
+"url":"http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Golf Channel",
+"image":"https://dl.dropbox.com/s/st7lmnyvwunjc9e/golf.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=golfchannel",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Golf Channel",
+"image":"https://dl.dropbox.com/s/st7lmnyvwunjc9e/golf.png",
+"url":"https://www.ball24.tv/allchannel/?id=golfchannel",
+"referer": "https://www.ball24.tv/"
+},	
+{
+
+"name":"Golf Channel",
+"image":"https://dl.dropbox.com/s/st7lmnyvwunjc9e/golf.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Golf Channel",
+"image":"https://dl.dropbox.com/s/st7lmnyvwunjc9e/golf.png",
+"url":"https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"NBA HD",
+"image":"https://dl.dropbox.com/s/7ceyldo1hslu8np/nba.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=truenba",
+"referer": "https://365liveball.com/"
+},	
+{
+"name":"NBA HD",
+"image":"https://dl.dropbox.com/s/7ceyldo1hslu8np/nba.png",
+"url":"https://www.ball24.tv/allchannel/?id=truenba",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"NBA HD",
+"image":"https://dl.dropbox.com/s/7ceyldo1hslu8np/nba.png",
+"url":"https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8",
+"desktop":"true"
+},	
+{
+"name":"NBA HD",
+"image":"https://dl.dropbox.com/s/7ceyldo1hslu8np/nba.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/nba",
+"referer": "https://ballnaka.tv/"
+},	
+{
+"name":"NBA HD",
+"image":"https://dl.dropbox.com/s/7ceyldo1hslu8np/nba.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"NFL Network",
+"image":"https://dl.dropbox.com/s/fffsfd7jtiwjbwn/nfl.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/nfl",
+"referer": "https://ballnaka.tv/"
+},	
+{
+"name":"NFL Network",
+"image":"https://dl.dropbox.com/s/fffsfd7jtiwjbwn/nfl.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-nfl&api_key=hmcb4rf66f&ref=none",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url":"https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url":"https://365liveball.com/Fox-Sports?channel=foxsporthd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url":"https://www.ball24.tv/allchannel/?id=foxsporthd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/fox1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url":"https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url":"https://www.ball8k.com/channel?ch=foxsport2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/fox2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url":"https://www.liveballsod.com/tv-online/ch046/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url":"https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url":"https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url":"https://365liveball.com/Fox-Sports?channel=foxsport2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url":"https://www.ball24.tv/allchannel/?id=foxsport2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports2",
+"image":"https://dl.dropbox.com/s/auz6mitk6jo2c1x/foxsport2.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Fox Sports3",
+"image":"https://dl.dropbox.com/s/x0eald5esfi9wng/foxsport3.png",
+"url":"https://www.ball8k.com/channel?ch=foxsport3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports3",
+"image":"https://dl.dropbox.com/s/x0eald5esfi9wng/foxsport3.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/fox3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports3",
+"image":"https://dl.dropbox.com/s/x0eald5esfi9wng/foxsport3.png",
+"url":"https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Fox Sports3",
+"image":"https://dl.dropbox.com/s/x0eald5esfi9wng/foxsport3.png",
+"url":"https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports3",
+"image":"https://dl.dropbox.com/s/x0eald5esfi9wng/foxsport3.png",
+"url":"https://365liveball.com/Fox-Sports?channel=foxsport3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports3",
+"image":"https://dl.dropbox.com/s/x0eald5esfi9wng/foxsport3.png",
+"url":"https://www.ball24.tv/allchannel/?id=foxsport3",
+"playInNatPlayer": "true"  
+},	
+{
+"name":"Fox Sport 1NL",
+"image":"https://dl.dropbox.com/s/gjqn39qcddgdexn/tv-station--241.png",
+"url":"https://www.ball8k.com/channel?ch=foxsport1nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 1NL",
+"image":"https://dl.dropbox.com/s/gjqn39qcddgdexn/tv-station--241.png",
+"url":"https://www.doonung1234.com/match/view/13692/foxsport1nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 2NL",
+"image":"https://dl.dropbox.com/s/8nhi6m52yqxc9tm/tv-station--242.png",
+"url":"https://www.ball8k.com/channel?ch=foxsport2nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 2NL",
+"image":"https://dl.dropbox.com/s/8nhi6m52yqxc9tm/tv-station--242.png",
+"url":"https://www.doonung1234.com/match/view/13692/foxsport2nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 3NL",
+"image":"https://dl.dropbox.com/s/57vmgdf1twb8kqt/tv-station--243.png",
+"url":"https://www.ball8k.com/channel?ch=foxsport3nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 3NL",
+"image":"https://dl.dropbox.com/s/57vmgdf1twb8kqt/tv-station--243.png",
+"url":"https://www.doonung1234.com/match/view/13692/foxsport3nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 4NL",
+"image":"https://dl.dropbox.com/s/rgw6h69a8u66lvw/tv-station--244.png",
+"url":"https://www.ball8k.com/channel?ch=foxsport4nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 4NL",
+"image":"https://dl.dropbox.com/s/rgw6h69a8u66lvw/tv-station--244.png",
+"url":"https://www.doonung1234.com/match/view/13692/foxsport4nl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT ESPN",
+"image":"https://dl.dropbox.com/s/ky9zvmm7ymc4cy0/BT%20ESPN.png",
+"url":"https://www.ball8k.com/channel?ch=btsportespn",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT ESPN",
+"image":"https://dl.dropbox.com/s/ky9zvmm7ymc4cy0/BT%20ESPN.png",
+"url":"https://www.liveballsod.com/tv-online/ch091/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT ESPN",
+"image":"https://dl.dropbox.com/s/ky9zvmm7ymc4cy0/BT%20ESPN.png",
+"url":"https://www.doofootball.com/live/streaming/btsportespn/593662",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT ESPN",
+"image":"https://dl.dropbox.com/s/ky9zvmm7ymc4cy0/BT%20ESPN.png",
+"url":"https://365liveball.com/beIN-SPORTS?channel=btsportespn",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 1",
+"image":"https://dl.dropbox.com/s/20rcqt3re8tirhf/btsport1.png",
+"url":"https://www.ball8k.com/channel?ch=btsport1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 1",
+"image":"https://dl.dropbox.com/s/20rcqt3re8tirhf/btsport1.png",
+"url":"https://www.we-play.tv/watching/tv/bt-sport-1-hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 1",
+"image":"https://dl.dropbox.com/s/20rcqt3re8tirhf/btsport1.png",
+"url":"https://365liveball.com/beIN-SPORTS?channel=btsport1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 1",
+"image":"https://dl.dropbox.com/s/20rcqt3re8tirhf/btsport1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hdbkp&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"BT Sports 1",
+"image":"https://dl.dropbox.com/s/20rcqt3re8tirhf/btsport1.png",
+"url":"https://www.liveballsod.com/tv-online/ch088/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 1",
+"image":"https://dl.dropbox.com/s/20rcqt3re8tirhf/btsport1.png",
+"url":"https://www.ball24.tv/allchannel/?id=btsport1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 2",
+"image":"https://dl.dropbox.com/s/jcjtwfrej8obtg4/btsport2.png",
+"url":"https://www.ball8k.com/channel?ch=btsport2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 2",
+"image":"https://dl.dropbox.com/s/jcjtwfrej8obtg4/btsport2.png",
+"url":"https://www.we-play.tv/watching/tv/bt-sport-2-hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 2",
+"image":"https://dl.dropbox.com/s/jcjtwfrej8obtg4/btsport2.png",
+"url":"https://365liveball.com/beIN-SPORTS?channel=btsport2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 2",
+"image":"https://dl.dropbox.com/s/jcjtwfrej8obtg4/btsport2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hdbkp&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"BT Sports 2",
+"image":"https://dl.dropbox.com/s/jcjtwfrej8obtg4/btsport2.png",
+"url":"https://www.liveballsod.com/tv-online/ch089/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 2",
+"image":"https://dl.dropbox.com/s/jcjtwfrej8obtg4/btsport2.png",
+"url":"https://www.ball24.tv/allchannel/?id=btsport2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 3",
+"image":"https://dl.dropbox.com/s/gc9ulbsnseunqlw/btsport3.png",
+"url":"https://www.ball8k.com/channel?ch=btsport3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 3",
+"image":"https://dl.dropbox.com/s/gc9ulbsnseunqlw/btsport3.png",
+"url":"https://www.we-play.tv/watching/tv/bt-sport-3-hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 3",
+"image":"https://dl.dropbox.com/s/gc9ulbsnseunqlw/btsport3.png",
+"url":"https://365liveball.com/beIN-SPORTS?channel=btsport3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 3",
+"image":"https://dl.dropbox.com/s/gc9ulbsnseunqlw/btsport3.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hdbkp&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"BT Sports 3",
+"image":"https://dl.dropbox.com/s/gc9ulbsnseunqlw/btsport3.png",
+"url":"https://www.liveballsod.com/tv-online/ch090/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports 3",
+"image":"https://dl.dropbox.com/s/gc9ulbsnseunqlw/btsport3.png",
+"url":"https://www.ball24.tv/allchannel/?id=btsport3",
+"playInNatPlayer": "true"
+},	
+{
+
+
+"name":"Arena Sports 1",
+"image":"https://dl.dropbox.com/s/5u1a7lc0l0igr90/arenasport1serbia.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=arenasport1serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 1",
+"image":"https://dl.dropbox.com/s/5u1a7lc0l0igr90/arenasport1serbia.png",
+"url":"https://www.ball24.tv/allchannel/?id=arenasport1serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 1",
+"image":"https://dl.dropbox.com/s/5u1a7lc0l0igr90/arenasport1serbia.png",
+"url":"https://www.liveballsod.com/tv-online/ch287/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 1",
+"image":"https://dl.dropbox.com/s/5u1a7lc0l0igr90/arenasport1serbia.png",
+"url":"https://www.doonung1234.com/match/view/13689/arenasport1serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 1",
+"image":"https://dl.dropbox.com/s/5u1a7lc0l0igr90/arenasport1serbia.png",
+"url":"https://www.ball8k.com/channel?ch=arenasport1serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 2",
+"image":"https://dl.dropbox.com/s/u6ue19trht5c98m/arenasport2serbia.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=arenasport2serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 2",
+"image":"https://dl.dropbox.com/s/u6ue19trht5c98m/arenasport2serbia.png",
+"url":"https://www.liveballsod.com/tv-online/ch288/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 2",
+"image":"https://dl.dropbox.com/s/u6ue19trht5c98m/arenasport2serbia.png",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 2",
+"image":"https://dl.dropbox.com/s/u6ue19trht5c98m/arenasport2serbia.png",
+"url":"https://www.ball8k.com/channel?ch=arenasport2serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 2",
+"image":"https://dl.dropbox.com/s/u6ue19trht5c98m/arenasport2serbia.png",
+"url":"https://www.ball24.tv/allchannel/?id=arenasport2serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 2",
+"image":"https://dl.dropbox.com/s/u6ue19trht5c98m/arenasport2serbia.png",
+"url":"https://www.doonung1234.com/match/view/13689/arenasport2serbia",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Arena Sports 3",
+"image":"https://dl.dropbox.com/s/sgelp2u1vplvdsw/arenasport3serbia.png",
+"url":"https://www.liveballsod.com/tv-online/ch289/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 3",
+"image":"https://dl.dropbox.com/s/sgelp2u1vplvdsw/arenasport3serbia.png",
+"url":"https://www.ball8k.com/channel?ch=arenasport3serbia",
+"playInNatPlayer": "true"
+},	
+{
+
+
+
+
+"name":"Arena Sports 3",
+"image":"https://dl.dropbox.com/s/sgelp2u1vplvdsw/arenasport3serbia.png",
+"url":"https://www.ball24.tv/allchannel/?id=arenasport3serbia",
+"playInNatPlayer": "true"
+},	
+{
+
+
+
+
+"name":"Arena Sports 3",
+"image":"https://dl.dropbox.com/s/sgelp2u1vplvdsw/arenasport3serbia.png",
+"url":"https://www.doonung1234.com/match/view/13689/arenasport3serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 4",
+"image":"https://dl.dropbox.com/s/cv9t2m2fbvp36lb/arenasport4serbia.png?dl=0",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-4",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 4",
+"image":"https://dl.dropbox.com/s/cv9t2m2fbvp36lb/arenasport4serbia.png",
+"url":"https://www.ball8k.com/channel?ch=arenasport4serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 4",
+"image":"https://dl.dropbox.com/s/cv9t2m2fbvp36lb/arenasport4serbia.png",
+"url":"https://www.ball24.tv/allchannel/?id=arenasport4serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Arena Sports 4",
+"image":"https://dl.dropbox.com/s/cv9t2m2fbvp36lb/arenasport4serbia.png",
+"url":"https://www.doonung1234.com/match/view/13689/arenasport4serbia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports",
+"image":"https://dl.dropbox.com/s/pyvwc107dv3z9ai/Astro_ASSP1.png?dl=0",
+"url": "https://www.liveballsod.com/tv-online/ch087/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports",
+"image":"https://dl.dropbox.com/s/pyvwc107dv3z9ai/Astro_ASSP1.png?dl=0",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport#main_dootv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports",
+"image":"https://dl.dropbox.com/s/pyvwc107dv3z9ai/Astro_ASSP1.png?dl=0",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=my-asp1hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 2",
+"image":"https://dl.dropbox.com/s/cvxuphn2mcugnsj/Astro_ASSP2.png?dl=0",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport2#main_dootv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 2",
+"image":"https://dl.dropbox.com/s/cvxuphn2mcugnsj/Astro_ASSP2.png?dl=0",
+"url": "https://www.liveballsod.com/tv-online/ch396/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 2",
+"image":"https://dl.dropbox.com/s/cvxuphn2mcugnsj/Astro_ASSP2.png?dl=0",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=my-asp2hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 3",
+"image":"https://dl.dropbox.com/s/ukpb11nhhg4x4yj/Astro_ASSP3.png?dl=0",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport3#main_dootv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 3",
+"image":"https://dl.dropbox.com/s/ukpb11nhhg4x4yj/Astro_ASSP3.png?dl=0",
+"url": "https://www.liveballsod.com/tv-online/ch397/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 3",
+"image":"https://dl.dropbox.com/s/ukpb11nhhg4x4yj/Astro_ASSP3.png?dl=0",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=my-asp3hd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 4",
+"image":"https://dl.dropbox.com/s/f9n5iowhtwdrdss/Astro_ASSP4.png?dl=0",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport4#main_dootv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 4",
+"image":"https://dl.dropbox.com/s/f9n5iowhtwdrdss/Astro_ASSP4.png?dl=0",
+"url": "https://www.liveballsod.com/tv-online/ch398/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports 4",
+"image":"https://dl.dropbox.com/s/f9n5iowhtwdrdss/Astro_ASSP4.png?dl=0",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=my-asp4",
+"referer": "http://totalsport.me/"
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url":"https://www.ball8k.com/channel?ch=sporttv1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url":"https://www.we-play.tv/watching/tv/sport-tv-1",
+"referer": "https://we-play.tv/"
+},	
+{
+
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url":"https://www.doonung1234.com/match/view/13674/sporttv1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url":"http://runnel.ir/tv/tv/sport.tv-1-1.php",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url": "https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/sportv",
+"playInNatPlayer": "true"
+
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url":"https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url":"https://www.liveballsod.com/tv-online/ch093/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"https://www.ball8k.com/channel?ch=sporttv2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"https://www.doonung1234.com/match/view/13674/sporttv2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"https://www.we-play.tv/watching/tv/sport-tv-2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"https://www.ball24.tv/allchannel/?id=sporttv2",
+"playInNatPlayer": "true"
+},	
+{
+
+
+
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
+"referer": "https://ball8k.com/"
+},	
+{
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"http://runnel.ir/tv/tv/sport.tv-1-2.php",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/sporttv2",
+"referer": "https://ball8k.com/"
+},	
+{
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"https://www.ball8k.com/channel?ch=sporttv3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"https://www.doonung1234.com/match/view/13674/sporttv3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"https://www.we-play.tv/watching/tv/sport-tv-3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"http://runnel.ir/tv/tv/sport.tv-1-3.php",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"https://www.ball24.tv/allchannel/?id=sporttv3",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
+"referer": "https://ball8k.com/"
+},	
+{
+
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/sporttv2",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"https://www.ball8k.com/channel?ch=sporttv3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"https://www.doonung1234.com/match/view/13674/sporttv4",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"https://www.we-play.tv/watching/tv/sport-tv-4",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"https://www.ball24.tv/allchannel/?id=sporttv4",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"http://runnel.ir/tv/tv/sport.tv-1-4.php",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8",
+"referer":"https://www.doomovie-hd.com/"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/sporttv3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV5",
+"image":"https://dl.dropbox.com/s/nrv6y986eiv1v0n/tv-station--454.png",
+"url":"http://runnel.ir/tv/tv/sport.tv-1-5.php",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV5",
+"image":"https://dl.dropbox.com/s/nrv6y986eiv1v0n/tv-station--454.png",
+"url":"http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
+"referer":"https://www.doomovie-hd.com/"
+},	
+{
+"name":"SPORTTV5",
+"image":"https://dl.dropbox.com/s/nrv6y986eiv1v0n/tv-station--454.png",
+"url":"https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV5",
+"image":"https://dl.dropbox.com/s/nrv6y986eiv1v0n/tv-station--454.png",
+"url":"https://dooballmovie.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/sporttv4",
+"playInNatPlayer": "true"
+},	
+{
+"name": "TSN 1",  
+"image": "https://dl.dropbox.com/s/xj0kqig3rdiud8a/ca-tsn1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 1",  
+"image": "https://dl.dropbox.com/s/xj0kqig3rdiud8a/ca-tsn1.png",  
+"url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 2",  
+"image": "https://dl.dropbox.com/s/87qqmsxvjlhgkhl/ca-tsn2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 2",  
+"image": "https://dl.dropbox.com/s/87qqmsxvjlhgkhl/ca-tsn2.png",  
+"url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn2",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 3",  
+"image": "https://dl.dropbox.com/s/831ck5e6bnx2zvs/ca-tsn3.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 3",  
+"image": "https://dl.dropbox.com/s/831ck5e6bnx2zvs/ca-tsn3.png",  
+"url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn3",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 4",  
+"image": "https://dl.dropbox.com/s/m0l9455z06e7qdm/ca-tsn4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 4",  
+"image": "https://dl.dropbox.com/s/m0l9455z06e7qdm/ca-tsn4.png",  
+"url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn4",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 5",  
+"image": "https://dl.dropbox.com/s/qfo52cx3njq7bwp/ca-tsn5.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name": "TSN 5",  
+"image": "https://dl.dropbox.com/s/qfo52cx3njq7bwp/ca-tsn5.png",  
+"url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn5",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"11",
+"image":"https://dl.dropbox.com/s/s276wgt5btojjox/11.png",
+"url":"https://www.doonung1234.com/match/view/13694/canal11pt",
+"playInNatPlayer": "true"
+},	
+{
+"name":"11",
+"image":"https://dl.dropbox.com/s/s276wgt5btojjox/11.png",
+"url":"https://www.ball8k.com/channel?ch=canal11pt",
+"playInNatPlayer": "true"
+},	
+{
+"name":"C MORE FOTBOLL",
+"image":"https://dl.dropbox.com/s/9hqyobjsekog8dz/C%20more%20fotboll.png",
+"url":"https://www.doonung1234.com/match/view/10635/cmorefootball",
+"playInNatPlayer": "true"
+},	
+{
+"name":"C MORE FOTBOLL",
+"image":"https://dl.dropbox.com/s/9hqyobjsekog8dz/C%20more%20fotboll.png",
+"url":"https://www.ball8k.com/channel?ch=cmorefootball",
+"playInNatPlayer": "true"
+},	
+{
+"name":"C MORE Live HD",
+"image":"https://dl.dropbox.com/s/j3afk3zdexn5be3/C%20more%20live.png",
+"url":"https://www.doonung1234.com/match/view/10635/cmorelivehd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"C MORE Live HD",
+"image":"https://dl.dropbox.com/s/j3afk3zdexn5be3/C%20more%20live.png",
+"url":"https://www.ball8k.com/channel?ch=cmorelivehd",
+"playInNatPlayer": "true"
+},	
+{
+"name":"CANAL9",
+"image":"https://dl.dropbox.com/s/4g51efybbzwst37/canal%209.png",
+"url":"https://www.ball8k.com/channel?ch=canal9denmark&jwsource=cl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"CANAL9",
+"image":"https://dl.dropbox.com/s/4g51efybbzwst37/canal%209.png",
+"url":"https://www.doonung1234.com/match/view/13698/canal9denmark",
+"playInNatPlayer": "true"
+},	
+{
+"name":"CANAL9",
+"image":"https://dl.dropbox.com/s/4g51efybbzwst37/canal%209.png",
+"url":"https://365liveball.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C?channel=canal9denmark",
+"playInNatPlayer": "true"
+},	
+{
+"name":"ELEVEN SPORT 1",
+"image":"https://dl.dropbox.com/s/tjrmqpq5cv3mqvy/Eleven%201.png",
+"url":"https://www.doonung1234.com/match/view/13692/elevensports1pt",
+"playInNatPlayer": "true"
+},	
+{
+"name":"ELEVEN SPORT 1",
+"image":"https://dl.dropbox.com/s/tjrmqpq5cv3mqvy/Eleven%201.png",
+"url":"https://www.ball8k.com/channel?ch=elevensports1pt",
+"playInNatPlayer": "true"
+},	
+{
+"name":"FreeSport",
+"image":"https://dl.dropbox.com/s/391kduvv119j6ff/free%20sport.png",
+"url":"https://www.doonung1234.com/match/view/13692/freesportuk",
+"playInNatPlayer": "true"
+},	
+{
+"name":"FreeSport",
+"image":"https://dl.dropbox.com/s/391kduvv119j6ff/free%20sport.png",
+"url":"https://www.ball8k.com/channel?ch=freesportuk",
+"playInNatPlayer": "true"
+},	
+{
+"name":"GOL",
+"image":"https://dl.dropbox.com/s/tmmno94x0pnabkw/gol.png",
+"url":"https://www.ball8k.com/channel?ch=gol",
+"playInNatPlayer": "true"
+},	
+{
+"name":"GOL",
+"image":"https://dl.dropbox.com/s/tmmno94x0pnabkw/gol.png",
+"url":"https://www.doonung1234.com/match/view/13694/gol",
+"playInNatPlayer": "true"
+},	
+{
+"name":"NOVA SPORT",
+"image":"https://dl.dropbox.com/s/ialc6t6oqkiz268/Nava%20Sport.png",
+"url":"https://www.ball8k.com/channel?ch=novasport",
+"playInNatPlayer": "true"
+},	
+{
+"name":"NOVA SPORT",
+"image":"https://dl.dropbox.com/s/ialc6t6oqkiz268/Nava%20Sport.png",
+"url":"https://www.doonung1234.com/match/view/13694/novasport",
+"playInNatPlayer": "true"
+},	
+{
+"name":"PFC",
+"image":"https://dl.dropbox.com/s/1rknllp65wa8d23/PFC.png",
+"url":"https://livesod88.com/?id=682464&ch=pfc",
+"playInNatPlayer": "true"
+},	
+{
+"name":"PFC",
+"image":"https://dl.dropbox.com/s/1rknllp65wa8d23/PFC.png",
+"url":"https://www.ball8k.com/channel?ch=pfc",
+"playInNatPlayer": "true"
+},	
+{
+"name":"PFC",
+"image":"https://dl.dropbox.com/s/1rknllp65wa8d23/PFC.png",
+"url":"https://www.doonung1234.com/match/view/13694/pfc",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premier Sports 1",
+"image":"https://dl.dropbox.com/s/xeg0mhtnn85hxn4/premier%20sport%201.png",
+"url":"https://www.doonung1234.com/match/view/10640/premiersports1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premier Sports 1",
+"image":"https://dl.dropbox.com/s/xeg0mhtnn85hxn4/premier%20sport%201.png",
+"url":"https://www.ball8k.com/channel?ch=premiersports1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SK 1",
+"image":"https://dl.dropbox.com/s/h42ngm0dvm3i3a4/sk1.png",
+"url":"https://livesod88.com/?id=689329&ch=sportklub1slovenia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SK 1",
+"image":"https://dl.dropbox.com/s/h42ngm0dvm3i3a4/sk1.png",
+"url":"https://www.ball8k.com/channel?ch=sportklub1slovenia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SK 2",
+"image":"https://dl.dropbox.com/s/f7zryd0y0uijq6t/sk2.png",
+"url":"https://livesod88.com/?id=689329&ch=sportklub2slovenia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SK 2",
+"image":"https://dl.dropbox.com/s/f7zryd0y0uijq6t/sk2.png",
+"url":"https://www.ball8k.com/channel?ch=sportklub2slovenia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SK 3",
+"image":"https://dl.dropbox.com/s/1wyc0xjshpm01mc/sk3.png",
+"url":"https://livesod88.com/?id=689329&ch=sportklub3slovenia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SK 3",
+"image":"https://dl.dropbox.com/s/1wyc0xjshpm01mc/sk3.png",
+"url":"https://www.ball8k.com/channel?ch=sportklub3slovenia",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"SK 4",
+"image":"https://dl.dropbox.com/s/prh2ubgt5huxue1/sk4.png",
+"url":"https://livesod88.com/?id=689329&ch=sportklub4slovenia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SK 4",
+"image":"https://dl.dropbox.com/s/prh2ubgt5huxue1/sk4.png",
+"url":"https://www.ball8k.com/channel?ch=sportklub4slovenia",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sport Digital",
+"image":"https://dl.dropbox.com/s/bu6q2o9dp8cbwc2/sport%20digital.png",
+"url":"https://www.ball8k.com/channel?ch=sportdigital",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sport Digital",
+"image":"https://dl.dropbox.com/s/bu6q2o9dp8cbwc2/sport%20digital.png",
+"url":"https://www.doonung1234.com/match/view/10633/sporttal",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTV",
+"image":"https://dl.dropbox.com/s/2yndnzlm3yg2g0j/Sportv.png",
+"url":"https://www.ball8k.com/channel?ch=sportv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTV",
+"image":"https://dl.dropbox.com/s/2yndnzlm3yg2g0j/Sportv.png",
+"url":"https://livesod88.com/?id=689330&ch=sportv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTV",
+"image":"https://dl.dropbox.com/s/2yndnzlm3yg2g0j/Sportv.png",
+"url":"https://www.doonung1234.com/match/view/13693/sportv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Super Sport 1",
+"image":"https://dl.dropbox.com/s/uket52z3c1tjo73/S1.png",
+"url":"https://www.ball8k.com/channel?ch=supersport1al",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Super Sport 1",
+"image":"https://dl.dropbox.com/s/uket52z3c1tjo73/S1.png",
+"url":"https://www.doonung1234.com/match/view/13698/supersport1al",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Super Sport 2",
+"image":"https://dl.dropbox.com/s/n7zhiuvcl16qw0x/S2.png",
+"url":"https://www.ball8k.com/channel?ch=supersport2al",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Super Sport 2",
+"image":"https://dl.dropbox.com/s/n7zhiuvcl16qw0x/S2.png",
+"url":"https://www.doonung1234.com/match/view/13698/supersport2al",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TELEKOM SPORT 1",
+"image":"https://dl.dropbox.com/s/aygi0tswkif2x4w/telekom1.png",
+"url":"https://www.liveballsod.com/tv-online/ch385/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TELEKOM SPORT 1",
+"image":"https://dl.dropbox.com/s/aygi0tswkif2x4w/telekom1.png",
+"url":"https://www.doonung1234.com/match/view/10638/telekomsport1ro",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TV3 MAX",
+"image":"https://dl.dropbox.com/s/pe41cl6lukrj2o4/3max.png",
+"url":"https://www.doonung1234.com/match/view/10642/tv3max",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TV3 MAX",
+"image":"https://dl.dropbox.com/s/pe41cl6lukrj2o4/3max.png",
+"url":"https://www.ball8k.com/channel?ch=tv3max",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TV3 Sport 1",
+"image":"https://dl.dropbox.com/s/oa7bpy4pb8kdmlm/3%20sport%201.png",
+"url":"https://www.ball24.tv/allchannel/?id=tv3sport1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TV3 Sport 1",
+"image":"https://dl.dropbox.com/s/oa7bpy4pb8kdmlm/3%20sport%201.png",
+"url":"https://www.doonung1234.com/match/view/10636/tv3sport1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"V Sport Football",
+"image":"https://dl.dropbox.com/s/02g943zpvatl3qt/viasat%20fotboll.png",
+"url":"https://www.doonung1234.com/match/view/10626/viasatfotboll?jwsource=cl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"V Sport Football",
+"image":"https://dl.dropbox.com/s/02g943zpvatl3qt/viasat%20fotboll.png",
+"url":"https://www.ball8k.com/channel?ch=viasatfotboll",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Ziggo Sport",
+"image":"https://dl.dropbox.com/s/rclgw9b93ao3j1y/ziggo.png",
+"url":"https://www.ball24.tv/allchannel/?id=ziggosportselect",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Ziggo Sport",
+"image":"https://dl.dropbox.com/s/rclgw9b93ao3j1y/ziggo.png",
+"url":"https://www.doonung1234.com/match/view/10639/ziggosportselect",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/unn3xh714j2k5eq/LFC.png",
+"url":"https://www.ball24.tv/allchannel/?id=lfctv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/unn3xh714j2k5eq/LFC.png",
+"url":"https://www.ball8k.com/channel?ch=lfctv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/unn3xh714j2k5eq/LFC.png",
+"url":"https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/unn3xh714j2k5eq/LFC.png",
+"url":"https://www.doofree88.com/live/lfc-tv",
+"playInNatPlayer": "true"
+},	
+{
+
+
+
+"name":"MUTV",
+"image":"https://dl.dropbox.com/s/ae1bifpstkfedjq/MUTV1.png",
+"url":"https://www.ball24.tv/allchannel/?id=mutv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MUTV",
+"image":"https://dl.dropbox.com/s/ae1bifpstkfedjq/MUTV1.png",
+"url":"https://www.ball8k.com/channel?ch=mutv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MUTV",
+"image":"https://dl.dropbox.com/s/ae1bifpstkfedjq/MUTV1.png",
+"url":"https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"MUTV",
+"image":"https://dl.dropbox.com/s/ae1bifpstkfedjq/MUTV1.png",
+"url":"https://www.doofree88.com/live/mutv",
+"playInNatPlayer": "true"
+},	
+{
+"name":"FC Bayern TV",
+"image":"https://dl.dropbox.com/s/lnq6x34tztvlxxl/bayern.png",
+"url":"http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8",
+"playInNatPlayer": "true"
+
+},	
+{
+"name":"FC Bayern TV",
+"image":"https://dl.dropbox.com/s/lnq6x34tztvlxxl/bayern.png",
+"url":"https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8",
+"playInNatPlayer": "true" 
+
+},	
+{
+
+"name":"Digisport1",
+"image":"https://dl.dropbox.com/s/qtdj189zqjf99bj/digi%201.png",
+"url":"https://www.doonung1234.com/match/view/13556/digisport1romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport1",
+"image":"https://dl.dropbox.com/s/qtdj189zqjf99bj/digi%201.png",
+"url":"https://www.ball8k.com/channel?ch=digisport1romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport1",
+"image":"https://dl.dropbox.com/s/qtdj189zqjf99bj/digi%201.png",
+"url":"https://www.ball24.tv/allchannel/?id=digisport1romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport2",
+"image":"https://dl.dropbox.com/s/c57ycz7d772p725/digi%202.png",
+"url":"https://www.doonung1234.com/match/view/13556/digisport2romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport2",
+"image":"https://dl.dropbox.com/s/c57ycz7d772p725/digi%202.png",
+"url":"https://www.ball8k.com/channel?ch=digisport2romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport2",
+"image":"https://dl.dropbox.com/s/c57ycz7d772p725/digi%202.png",
+"url":"https://www.ball24.tv/allchannel/?id=digisport2romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport3",
+"image":"https://dl.dropbox.com/s/kqidtiyojflble5/digi%203.png",
+"url":"https://www.doonung1234.com/match/view/13556/digisport3romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport3",
+"image":"https://dl.dropbox.com/s/kqidtiyojflble5/digi%203.png",
+"url":"https://www.ball8k.com/channel?ch=digisport3romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport3",
+"image":"https://dl.dropbox.com/s/c57ycz7d772p725/digi%202.png",
+"url":"https://www.ball24.tv/allchannel/?id=digisport4romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport4",
+"image":"https://dl.dropbox.com/s/pkdg2d3voz2hbt1/digi%204.png",
+"url":"https://www.doonung1234.com/match/view/13556/digisport4romania",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Digisport4",
+"image":"https://dl.dropbox.com/s/pkdg2d3voz2hbt1/digi%204.png",
+"url":"https://www.ball8k.com/channel?ch=digisport4romania",
+"playInNatPlayer": "true"
+},	
+{
+
+
+"name":"Digisport4",
+"image":"https://dl.dropbox.com/s/pkdg2d3voz2hbt1/digi%204.png",
+"url":"https://www.ball24.tv/allchannel/?id=digisport4romania",
+"playInNatPlayer": "true"
+},	
+{
+
+
+"name":"Sky Sports Premier League",
+"image":"https://dl.dropbox.com/s/envlya6phddsejo/Sky%20sport%20premier.png",
+"url":"https://www.ball8k.com/channel?ch=skysportpremiere",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Premier League",
+"image":"https://dl.dropbox.com/s/envlya6phddsejo/Sky%20sport%20premier.png",
+"url": "https://www.ball24.tv/allchannel/?id=skysportpremiere",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Bundesliga",
+"image":"https://dl.dropbox.com/s/q3xpv8xge7lehyf/Sky%20sport%20bundesliga.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Sky Sports News",
+"image":"https://dl.dropbox.com/s/6weurm4kqyxi2o5/Sky%20sport%20news.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Sky Sports News",
+"image":"https://dl.dropbox.com/s/6weurm4kqyxi2o5/Sky%20sport%20news.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79887&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Mix",
+"image":"https://dl.dropbox.com/s/bdifvfsqvh6to63/Sky%20sport%20mix.png",
+"url":"https://www.ball8k.com/channel?ch=skysportmix",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Mix",
+"image":"https://dl.dropbox.com/s/bdifvfsqvh6to63/Sky%20sport%20mix.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Sky Sports Main Event",
+"image":"https://dl.dropbox.com/s/38uaajhe8q6jea0/Sky%20sport%20event.png",
+"url":"https://www.ball8k.com/channel?ch=skysportmainevent",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Main Event",
+"image":"https://dl.dropbox.com/s/38uaajhe8q6jea0/Sky%20sport%20event.png",
+"url":"https://www.streamlive.to/embedplayer.php?channel=79892&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name": "Sky Sports Cricket",
+"image": "https://dl.dropbox.com/s/f2wz9byn2vjh8ow/Sky%20sport%20cricket.png",
+"url": "https://www.ball8k.com/channel?ch=skysportclicket",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Cricket",
+"image": "https://dl.dropbox.com/s/f2wz9byn2vjh8ow/Sky%20sport%20cricket.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79899&autostart=true",
+"playInNatPlayer": "true"
+},
+{
+"name":"Sky Sports Golf",
+"image":"https://dl.dropbox.com/s/u9xgrq71387ej4a/Sky%20sport%20golf.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79894&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Golf",
+"image":"https://dl.dropbox.com/s/u9xgrq71387ej4a/Sky%20sport%20golf.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Sky Sports Football",
+"image":"https://dl.dropbox.com/s/aa9zgzt4493g2il/Sky%20sport%20football.png",
+"url": "https://www.doonung1234.com/match/view/13674/skysportfootball",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Football",
+"image":"https://dl.dropbox.com/s/aa9zgzt4493g2il/Sky%20sport%20football.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79896&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Football",
+"image":"https://dl.dropbox.com/s/aa9zgzt4493g2il/Sky%20sport%20football.png",
+"url": "https://www.ball8k.com/channel?ch=skysportfootball",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Football",
+"image":"https://dl.dropbox.com/s/aa9zgzt4493g2il/Sky%20sport%20football.png",
+"url":"https://www.ball24.tv/allchannel/?id=skysportfootball",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Sky Sports F1",
+"image":"https://dl.dropbox.com/s/vtm8sztq8sss3fw/Sky%20sport%20F1.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79897&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports F1",
+"image":"https://dl.dropbox.com/s/vtm8sztq8sss3fw/Sky%20sport%20F1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysportsf1bkp&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Sky Sports Arena",
+"image":"https://dl.dropbox.com/s/uq1x9c0wh3qd4c0/Sky%20sport%20arena.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Sky Sports Arena",
+"image":"https://dl.dropbox.com/s/uq1x9c0wh3qd4c0/Sky%20sport%20arena.png",
+"url":"https://www.doonung1234.com/match/view/10635/skysportarena",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Arena",
+"image":"https://dl.dropbox.com/s/uq1x9c0wh3qd4c0/Sky%20sport%20arena.png",
+"url":"https://www.ball8k.com/channel?ch=skysportarena",
+"playInNatPlayer": "true"
+},	
+{
+"name": "Sky Sports Action",
+"image": "https://dl.dropbox.com/s/7v55tpwb94khcea/Sky%20sport%20action.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Skynet Sport HD",
+"image":"https://dl.dropbox.com/s/yrwxyy9a3ovlh7h/skynet%20hd.png",
+"url":"https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport HD",
+"image":"https://dl.dropbox.com/s/yrwxyy9a3ovlh7h/skynet%20hd.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-hd/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Skynet Sport 1",
+"image":"https://dl.dropbox.com/s/d2urtpim2ch6coo/skynetsport1.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 1",
+"image":"https://dl.dropbox.com/s/d2urtpim2ch6coo/skynetsport1.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-1/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Skynet Sport 2",
+"image":"https://dl.dropbox.com/s/2p6apsgq9e9u17h/skynetsport2.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 2",
+"image":"https://dl.dropbox.com/s/2p6apsgq9e9u17h/skynetsport2.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-2/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Skynet Sport 3",
+"image":"https://dl.dropbox.com/s/n3hvgz6luwansc1/skynetsport3.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 3",
+"image":"https://dl.dropbox.com/s/n3hvgz6luwansc1/skynetsport3.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-3/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Skynet Sport 4",
+"image":"https://dl.dropbox.com/s/9katl1i0dn4dxm5/skynetsport4.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 4",
+"image":"https://dl.dropbox.com/s/9katl1i0dn4dxm5/skynetsport4.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-4/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Skynet Sport 5",
+"image":"https://dl.dropbox.com/s/jy4lflx3e6p7jcl/skynetsport5.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 5",
+"image":"https://dl.dropbox.com/s/jy4lflx3e6p7jcl/skynetsport5.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-5/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Skynet Sport 6",
+"image":"https://dl.dropbox.com/s/12lk2bpvrup4myt/skynetsport6.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 6",
+"image":"https://dl.dropbox.com/s/12lk2bpvrup4myt/skynetsport6.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-6/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TRACE SPORT STARS",
+"image":"https://dl.dropbox.com/s/rityet39qr5jr3h/trace.png",
+"url":"http://203.154.177.124:8899/live/ch10/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Eurosport-1",
+"image":"https://dl.dropbox.com/s/vz50xghrmjmy92m/E1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Eurosport-1",
+"image":"https://dl.dropbox.com/s/vz50xghrmjmy92m/E1.png",
+"url":"https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8",
+"referer":"https://www.doo2you.com/"
+},	
+{
+"name":"Eurosport-1",
+"image":"https://dl.dropbox.com/s/vz50xghrmjmy92m/E1.png",
+"url":"http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Eurosport-2",
+"image":"https://dl.dropbox.com/s/75bglybclyedy73/E2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"Eurosport-2",
+"image":"https://dl.dropbox.com/s/75bglybclyedy73/E2.png",
+"url":"https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8",
+"referer":"https://www.doo2you.com/"
+},	
+{
+"name":"Eurosport-2",
+"image":"https://dl.dropbox.com/s/75bglybclyedy73/E2.png",
+"url":"http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"ESPN NEWS",
+"image":"https://dl.dropbox.com/s/0x0lldwub9ogi71/enpnews.png",
+"url":"https://gma2.blab.email/espnews.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"ESPN U",
+"image":"https://dl.dropbox.com/s/dtk23f79snwjpy6/ESPNU-1.png",
+"url":"https://gma2.blab.email/espnu.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"ESPN 2",
+"image":"https://dl.dropbox.com/s/jqamvvb9ogzaw9c/ESPN2.png",
+"url":"https://gma2.blab.email/espn2.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Red Bull TV",
+"image":"https://dl.dropbox.com/s/deue9v07ckxwza0/redbull.png",
+"url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Motor Visions",
+"image":"https://dl.dropbox.com/s/fgpdrqrxds19337/motor.png",
+"url":"https://www.we-play.tv/watching/tv/motor-vision",
+"referer": "https://www.we-play.tv/"
+},	
+{
+"name":"Motor Visions",
+"image":"https://dl.dropbox.com/s/fgpdrqrxds19337/motor.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/motor-vision",
+"referer": "https://ballnaka.tv/"
+},	
+{
+"name":"Motor Visions",
+"image":"https://dl.dropbox.com/s/fgpdrqrxds19337/motor.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-motorvision&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Adventure Sports TV",
+"image":"https://dl.dropbox.com/s/jnmt74yqa9ncwr8/Adventure.png",
+"url":"https://giz.poppo.tv/channellivev3/live/master.m3u8?channel=275",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fast&Fun Box",
+"image":"https://dl.dropbox.com/s/8gmkhs124vsayli/Fast%20fun.png",
+"url":"http://203.154.177.124:8899/live/ch1/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fight Box",
+"image":"https://dl.dropbox.com/s/i9ewwkuvgdbgy4n/fight%20box.png",
+"url":"http://203.154.177.124:8899/live/ch4/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fight Sport",
+"image":"https://dl.dropbox.com/s/zd2xjvbkkk43ojs/fightsport.png",
+"url":"http://203.154.177.124:8899/live/ch22/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fight Sport",
+"image":"https://dl.dropbox.com/s/zd2xjvbkkk43ojs/fightsport.png",
+"url":"http://27.254.130.62/feed/LC36/tracks-v1a1/mono.m3u8",
+"desktop":"true"
+},	
+{
+"name":"Fight Sport",
+"image":"https://dl.dropbox.com/s/zd2xjvbkkk43ojs/fightsport.png",
+"url":"http://27.254.130.62/feed/LC36/index.m3u8",
+"desktop":"true"
+},	
+{
+
+"name":"WWE Network",
+"image":"https://dl.dropbox.com/s/gflhx14kncn6693/WWE.png",
+"url":"https://siamtv88.co/index.php?a=live_details&channel_code=us-wwe",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"WWE Network",
+"image":"https://dl.dropbox.com/s/gflhx14kncn6693/WWE.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+"name":"WWE Network",
+"image":"https://dl.dropbox.com/s/gflhx14kncn6693/WWE.png",
+"url":"https://ustvgo.tv/wwe-network/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCTV5",
+"image": "https://dl.dropbox.com/s/rla0xrfkswr1ymn/cctv5.png",
+"url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8 ",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCTV5 1080P",
+"image": "https://dl.dropbox.com/s/rla0xrfkswr1ymn/cctv5.png",
+"url": "http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCTV5+",
+"image": "https://dl.dropbox.com/s/0c9rohllvn2u7mg/cctv5%2B.png",
+"url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCTV5+ 1080P",
+"image": "https://dl.dropbox.com/s/0c9rohllvn2u7mg/cctv5%2B.png",
+"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+
+"name": "NBCSN SPORTS ",
+"image": "https://dl.dropbox.com/s/hu73z6cunc26ncb/NBC.png",
+"url": "http://www.totalsportek.tv/watch/nbc-sports-network/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+}]
+
+},	
+]
+}
+https://siamtv88.co/index.php?a=live_details&channel_code=us-wwe
+
+
+
+"name":"Chelsea TV",
+"image":"https://dl.dropbox.com/s/226b0rx7f2omgoz/chelseatv.png?dl=0",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-chelseatv.stream/chunks.m3u8",
+"referer": "https://beinthai.com/"
+},	
+{
+"name":"Skynet Sport HD",
+"image":"https://dl.dropbox.com/s/yrwxyy9a3ovlh7h/skynet%20hd.png",
+"url":"https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 1",
+"image":"https://dl.dropbox.com/s/d2urtpim2ch6coo/skynetsport1.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 2",
+"image":"https://dl.dropbox.com/s/2p6apsgq9e9u17h/skynetsport2.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 3",
+"image":"https://dl.dropbox.com/s/n3hvgz6luwansc1/skynetsport3.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 4",
+"image":"https://dl.dropbox.com/s/9katl1i0dn4dxm5/skynetsport4.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 5",
+"image":"https://dl.dropbox.com/s/jy4lflx3e6p7jcl/skynetsport5.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Skynet Sport 6",
+"image":"https://dl.dropbox.com/s/12lk2bpvrup4myt/skynetsport6.png",
+"url":"https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+
+
+
+
+
+
+
+
+
+"name":"TVS Boxing",
+"image":"https://dl.dropbox.com/s/39q7chmjeaywaep/TVS.png?dl=0",
+"url":"https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TVS Classic Sports",
+"image":"https://dl.dropbox.com/s/39q7chmjeaywaep/TVS.png?dl=0",
+"url":"https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TVS Sports",
+"image":"https://dl.dropbox.com/s/39q7chmjeaywaep/TVS.png?dl=0",
+"url":"https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.doofree88.com/live/premier-football-hd-1",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-premier-football/",
+"referer": "https://freetvdd.com/"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.doo2you.com/true-premier-hd-1/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://www.doo2you.com/true-premier-hd-2-backup/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-2",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url": "https://bettopfivemovie.com/true-premier-football-hd-2/",
+"referer": "https://bettopfivemovie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-3",
+"referer": "https://beinthai.com/"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://www.doofree88.com/live/premier-football-hd-3",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://www.doo2you.com/true-premier-hd-3/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-3",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-3",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url": "https://bettopfivemovie.com/true-premier-football-hd-3/",
+"referer": "https://bettopfivemovie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-4",
+"referer": "https://beinthai.com/"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://www.doofree88.com/live/premier-football-hd-4",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url": "https://bettopfivemovie.com/true-premier-football-hd-4/",
+"referer": "https://bettopfivemovie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://www.doo2you.com/true-premier-hd-4/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://www.doo2you.com/true-premier-hd-4-backup/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-4",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-5",
+"referer": "https://beinthai.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url": "https://bettopfivemovie.com/true-premier-football-hd-5/",
+"referer": "https://bettopfivemovie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://www.doofree88.com/live/premier-football-hd-5",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f&ref=none",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://www.movie24h.com/live/premier-football-hd-5",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"https://www.doo2you.com/true-premier-hd-5/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://dl.dropbox.com/s/yui4qkgwzqmtw32/EPL5.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url":"https://www.movie24h.com/live/bein-sports-2",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url": "https://bettopfivemovie.com/bein-sports-1/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url":"https://www.movie24h.com/live/bein-sports-2",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url":"https://www.doo2you.com/bein-sport-2/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports Extra",
+"image":"https://sport-tv-guide.live/images/stations/a1967.png",
+"url":"https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"T-Sport",
+"image":"https://dl.dropbox.com/s/o1l2e5akvthhz40/Rounded_20201111_113016.png?dl=0",
+"url":"https://www.doofree88.com/live/t-sports",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url": "https://bettopfivemovie.com/bein-sports-2/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Bein Sports 1 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",
+"url":"http://160.119.77.117/iptv/hd-bein1.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"NBA HD",
+"image":"https://dl.dropbox.com/s/7ceyldo1hslu8np/nba.png?dl=0",
+"url":"http://160.119.77.117/iptv/hd-nba.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/jfv90zx2kfapfik/lfctv.png?dl=0",
+"url":"https://www.movie24h.com/live/lfc-tv",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/jfv90zx2kfapfik/lfctv.png?dl=0",
+"url":"https://www.doofree88.com/live/lfc-tv",
+"referer": "https://www.doofree88.com/"
+},	
+{
+
+"name":"MUTV",
+"image":"https://dl.dropbox.com/s/2z9bvp41go2hf9k/mutv.png?dl=0",
+"url":"https://www.movie24h.com/live/mutv",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png?dl=0",
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png?dl=0",
+"url":"https://www.doo2you.com/true-sport-hd-1/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png?dl=0",
+"url":"https://www.doo2you.com/true-sport-hd-2/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png?dl=0",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer": "https://beinthai.com/"
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png?dl=0",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer": "https://beinthai.com/"
+},	
+{
+"name":"True Sport HD4",
+"image":"https://dl.dropbox.com/s/4qvx6d6ct2tg9uh/tsphd4.png?dl=0",
+"url":"https://www.doofree88.com/live/sport-hd-4",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"NFL Network",
+"image":"https://dl.dropbox.com/s/fffsfd7jtiwjbwn/nfl.png?dl=0",
+"url":"https://laos-tech-live.b-cdn.net/hd-nfl_720/index.m3u8",
+"referer": "https://www.movie24h.com/"
+},	
+{
+"name":"NFL Network",
+"image":"https://dl.dropbox.com/s/fffsfd7jtiwjbwn/nfl.png?dl=0",
+"url":"https://www.doofree88.com/live/nfl-tv",
+"referer": "https://www.doofree88.com/"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/jfv90zx2kfapfik/lfctv.png?dl=0",
+"url":"https://ball8k.com/m/player.php?stream=6e2dea1c0a3daf2ffc34d85330752e7b",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Racing",
+"image":"https://dl.dropbox.com/s/q5cw3qjdlxy7sjr/Rounded_20210123_110327.png?dl=0",
+"url":"https://www.doo2you.com/sky-sports-racing/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://dl.dropbox.com/s/z68h9x126joqsfy/tsphd2.png?dl=0",
+"url":"http://160.119.77.117/iptv/hd-tsport2.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 2",
+"image":"https://dl.dropbox.com/s/smelrruii18xqdw/tsp2.png?dl=0",
+"url":"http://160.119.77.117/iptv/sd-tsport2.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 3 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--754.png",
+"url":"http://160.119.77.117/iptv/hd-bein3.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 2 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--753.png",
+"url":"http://160.119.77.117/iptv/hd-bein2.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://dl.dropbox.com/s/mq99fpc8aues1ra/tennis.png?dl=0",
+"url":"http://160.119.77.117/iptv/hd-tennis.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 4 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--755.png",
+"url":"http://160.119.77.117/iptv/hd-bein4.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/jfv90zx2kfapfik/lfctv.png?dl=0",
+"url":"http://160.119.77.117/iptv/uk-lfctv.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD4",
+"image":"https://dl.dropbox.com/s/4qvx6d6ct2tg9uh/tsphd4.png?dl=0",
+"url":"http://160.119.77.117/iptv/hd-tsport4.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 7 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--758.png",
+"url":"http://160.119.77.117/iptv/hd-bein7.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD3",
+"image":"https://dl.dropbox.com/s/6frencaog3x6gk8/tsphd3.png?dl=0",
+"url":"http://160.119.77.117/iptv/hd-tsport3.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 5 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--756.png",
+"url":"http://160.119.77.117/iptv/hd-bein5.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 7",
+"image":"https://dl.dropbox.com/s/3wzl03qm2bygqpp/tsp7.png?dl=0",
+"url":"http://160.119.77.117/iptv/sd-tsport7.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport 5",
+"image":"https://dl.dropbox.com/s/6rditrw1w4v440b/tsp5.png?dl=0",
+"url":"http://160.119.77.117/iptv/sd-tsport5.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Golf Channel",
+"image":"https://dl.dropbox.com/s/st7lmnyvwunjc9e/golf.png?dl=0",
+"url":"http://160.119.77.117/iptv/hd-golf.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premier Sports 1",
+"image":"https://sport-tv-guide.live/images/stations/a95.png",
+"url":"http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 3 France",
+"image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png",
+"url":"http://160.119.77.117/iptv/fr-bein3hd.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 8 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--759.png",
+"url":"http://160.119.77.117/iptv/hd-bein8.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro Super Sports",
+"image":"https://dl.dropbox.com/s/pyvwc107dv3z9ai/Astro_ASSP1.png?dl=0",
+"url":"https://bettopfivemovie.com/astro-supersport-1-hd/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Astro Super Sports 2",
+"image":"https://dl.dropbox.com/s/cvxuphn2mcugnsj/Astro_ASSP2.png?dl=0",
+"url":"https://bettopfivemovie.com/astro-supersport-2-hd/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Astro Super Sports 3",
+"image":"https://dl.dropbox.com/s/ukpb11nhhg4x4yj/Astro_ASSP3.png?dl=0",
+"url":"https://bettopfivemovie.com/astro-supersport-3-hd/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Astro Super Sports 4",
+"image":"https://dl.dropbox.com/s/f9n5iowhtwdrdss/Astro_ASSP4.png?dl=0",
+"url":"https://bettopfivemovie.com/astro-supersport-4-hd/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png?dl=0",
+"url":"https://bettopfivemovie.com/sport-tv-1/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"SPORTTV2",
+"image":"https://dl.dropbox.com/s/0inmp8h240gdlla/tv-station--451.png?dl=0",
+"url":"https://bettopfivemovie.com/sport-tv-2/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Chelsea TV",
+"image":"https://dl.dropbox.com/s/226b0rx7f2omgoz/chelseatv.png?dl=0",
+"url":"https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/chelsea-tv/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV3",
+"image":"https://dl.dropbox.com/s/wr6co4mzcjlwtfo/tv-station--452.png?dl=0",
+"url":"https://bettopfivemovie.com/sport-tv-3/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"SPORTTV4",
+"image":"https://dl.dropbox.com/s/feo9o14flo9bzmx/tv-station--453.png?dl=0",
+"url":"https://bettopfivemovie.com/sport-tv-4/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"SPORTTV5",
+"image":"https://dl.dropbox.com/s/7b6lz8wosz5ec7x/tv-station-sport-tv-5-454.png?dl=0",
+"url":"https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sporttv5/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+
+
+
+
+"name":"SPORTTV5",
+"image":"https://dl.dropbox.com/s/7b6lz8wosz5ec7x/tv-station-sport-tv-5-454.png?dl=0",
+"url":"https://bettopfivemovie.com/sport-tv-5/",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url": "https://mediasv.online/live7f/truepl1Fallback/playlist.m3u8",
+"referer": "https://bettopfivemovie.com/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url": "https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/beinsport1_480p/chunks.m3u8",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url": "https://www.doo2you.com/bein-sport-1/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 2 UK",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url": "https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Bein Sports 2 UK",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=19",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Barca",
+"image":"https://dl.dropbox.com/s/tn5hr1court4iih/Barca.png",
+"url":"https://photocall.tv/r3sg/fcb?ch=en",
+"playInNatPlayer": "true",
+"desktop":"true"
+},
+{
+"name":"WWE Network",
+"image":"https://dl.dropbox.com/s/rfa33gt67evn2ia/Rounded_20201117_113717.png?dl=0",
+"url":"http://supersonictv.live:25461/903310/034806/22185",
+"playInNatPlayer": "true"
+},
+{
+
+"name":"Chelsea TV",
+"image":"https://dl.dropbox.com/s/226b0rx7f2omgoz/chelseatv.png?dl=0",
+"url":"https://www.livedoomovie.com/02_ChelseaTV_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+
+
+},	
+{
+"name":"Real Madrid TV",
+"image":"https://dl.dropbox.com/s/qtxrv3mbtxbc5a3/Rounded_20210202_164110.png?dl=0",
+"url":"http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"ID Station",
+"image":"https://dl.dropbox.com/s/7pej79gh7lghjll/idstation.png",
+"url":"https://tv.trueid.net/embed/idstation?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+
+},
+{
+"name":"Del-Sport 1",
+"image":"https://dl.dropbox.com/s/0yl8e5tqrkmk80s/Del-Sport%201.png?dl=0",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Del-Sport 2",
+"image":"https://dl.dropbox.com/s/h76emkvplq6wlx2/Del-Sport%202.png?dl=0",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Del-Sport 3",
+"image":"https://dl.dropbox.com/s/j29la97oowqahj8/Del-Sport%203.png?dl=0",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Del-Sport 4",
+"image":"https://dl.dropbox.com/s/t0msgib818k8jjn/Del-Sport%204.png?dl=0",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Del-Sport 5",
+"image":"https://dl.dropbox.com/s/xj10ma1kq281o91/Del-Sport%205.png?dl=0",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Del-Sport 6",
+"image":"https://dl.dropbox.com/s/ltwhjbx4qx1b5ik/Del-Sport%206.png?dl=0",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport6&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MY SPORTS 1",
+"image":"https://dl.dropbox.com/s/gy4v15yg86vgrei/my%20sport.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MY SPORTS 2",
+"image":"https://dl.dropbox.com/s/gy4v15yg86vgrei/my%20sport.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MY SPORTS 3",
+"image":"https://dl.dropbox.com/s/gy4v15yg86vgrei/my%20sport.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MY SPORTS 4",
+"image":"https://dl.dropbox.com/s/gy4v15yg86vgrei/my%20sport.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports Extra",
+"image":"https://dl.dropbox.com/s/c8e6xrdqnkrsqfz/BSx.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra1&api_key=hmcb4rf66f&ref=none",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports Extra 2",
+"image":"https://dl.dropbox.com/s/dnvapby4i76o02e/BTx2.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra2&api_key=hmcb4rf66f&ref=none",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports Extra 3",
+"image":"https://dl.dropbox.com/s/p9qdqqecwqrlsr0/BTx3.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra3&api_key=hmcb4rf66f&ref=none",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"BT Sports Extra 4",
+"image":"https://dl.dropbox.com/s/hy2vdrnjmpl3sg6/BTx4.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra4&api_key=hmcb4rf66f&ref=none",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1/",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd2/",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd3/",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+
+"name":"Premiere 4",
+"image":"https://dl.dropbox.com/s/vq8yerpa8m08wfc/EPL4.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd4/",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/unn3xh714j2k5eq/LFC.png",
+"url":"https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/unn3xh714j2k5eq/LFC.png",
+"url":"https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MUTV",
+"image":"https://dl.dropbox.com/s/ae1bifpstkfedjq/MUTV1.png",
+"url":"https://www.doofootball.com/live/streaming/mutv/588666",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"T-Sport",
+"image":"https://dl.dropbox.com/s/7xp7jhc26w5gt22/T-sport.png",
+"url":"https://www.ijube.com/channel-tsports/",
+"referer": "https://www.ijube.com/"
+},	
+{
+"name":"T-Sport",
+"image":"https://dl.dropbox.com/s/7xp7jhc26w5gt22/T-sport.png",
+"url":"https://www.ijube.com/channel-tsports/",
+"referer": "https://www.ijube.com/"
+},	
+{
+"name":"T-Sport",
+"image":"https://dl.dropbox.com/s/7xp7jhc26w5gt22/T-sport.png",
+"url":"https://www.doofootball.com/live/streaming/tsports/999999",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+
+"name":"3BB SPORTS 1",
+"image":"https://dl.dropbox.com/s/rehnecwrzvgyhue/3bb.png",
+"url":"https://we-play.tv/watching/tv/3bb-sports-1",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Golf Channel",
+"image":"https://dl.dropbox.com/s/st7lmnyvwunjc9e/golf.png",
+"url":"https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8",
+"referer": "https://www.doo2you.com/"
+},	
+{
+
+"name":"Golf Channel",
+"image":"https://dl.dropbox.com/s/st7lmnyvwunjc9e/golf.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/golf",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.doofootball.com/live/streaming/epl1backup/552903",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.ball8k.com/channel?ch=epl1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.doofootball.com/live/streaming/epl1/650694",
+"playInNatPlayer": "true"
+},	
+{
+"name":"LFCTV",
+"image":"https://dl.dropbox.com/s/unn3xh714j2k5eq/LFC.png",
+"url":"https://photocall.tv/fz0e/l1?ch=liverpool",
+"playInNatPlayer": "true"
+},	
+{
+"name":"3BB SPORTS 1",
+"image":"https://dl.dropbox.com/s/rehnecwrzvgyhue/3bb.png",
+"url":"https://dogtoop.com:8443/3bbsport/swjL5Wb8yd/163",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true" 
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true",
+"desktop":"true"
+
+},	
+{
+"name":"Premiere 3",
+"image":"https://dl.dropbox.com/s/tktjl6257ho30mq/EPL3.png",
+"url":"https://365liveball.com/True-Premier-HD?channel=epl3",
+"referer": "https://365liveball.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url":"https://www.doofootball.com/live/streaming/bein1/622765",
+"referer": "https://www.doofootball.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url":"https://www.doofootball.com/live/streaming/bein2/622765",
+"referer": "https://www.doofootball.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url":"https://www.doofootball.com/live/streaming/sporttv1/567958",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+
+"name":"SPORTTV1",
+"image":"https://dl.dropbox.com/s/nrsrz6cptg6dc64/tv-station--450.png",
+"url": "http://runnel.ir/tv/tv/sport.tv-1-1.php",
+"playInNatPlayer": "true"
+
+},	
+{
+"name":"MM88BALL",
+"image":"https://dl.dropbox.com/s/l3qf6w2qoso25eq/mm88ball.png",
+"url": "https://mm88ball.com/ดูบอลสด/",
+"webviewType": "chrome",
+"embed": true
+},	
+{
+"name":"Bein 1 France",
+"image":"https://dl.dropbox.com/s/3cpj8k45t7domhm/a400.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 2 France",
+"image":"https://dl.dropbox.com/s/esb1kitk2subn5f/a401.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Bein 3 France",
+"image":"https://dl.dropbox.com/s/5ygxg8p0yjnfed0/a402.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Premier League",
+"image":"https://dl.dropbox.com/s/envlya6phddsejo/Sky%20sport%20premier.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Premier League",
+"image":"https://dl.dropbox.com/s/envlya6phddsejo/Sky%20sport%20premier.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79889&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Bundesliga",
+"image":"https://dl.dropbox.com/s/q3xpv8xge7lehyf/Sky%20sport%20bundesliga.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Austria",
+"image":"https://dl.dropbox.com/s/7s53c309jgwcowa/Sky%20sport%20austria.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=de-skysportaustria&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports News",
+"image":"https://dl.dropbox.com/s/6weurm4kqyxi2o5/Sky%20sport%20news.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports News",
+"image":"https://dl.dropbox.com/s/6weurm4kqyxi2o5/Sky%20sport%20news.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79887&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Mix",
+"image":"https://dl.dropbox.com/s/bdifvfsqvh6to63/Sky%20sport%20mix.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Main Event",
+"image":"https://dl.dropbox.com/s/38uaajhe8q6jea0/Sky%20sport%20event.png",
+"url":"https://www.streamlive.to/embedplayer.php?channel=79892&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name": "Sky Sports Cricket",
+"image": "https://dl.dropbox.com/s/f2wz9byn2vjh8ow/Sky%20sport%20cricket.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79899&autostart=true",
+"playInNatPlayer": "true"
+},
+{
+"name":"Sky Sports Golf",
+"image":"https://dl.dropbox.com/s/u9xgrq71387ej4a/Sky%20sport%20golf.png",
+"url": "https://www.ball8k.com/channel?ch=skysportgolf",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Golf",
+"image":"https://dl.dropbox.com/s/u9xgrq71387ej4a/Sky%20sport%20golf.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79894&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Golf",
+"image":"https://dl.dropbox.com/s/u9xgrq71387ej4a/Sky%20sport%20golf.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Football",
+"image":"https://dl.dropbox.com/s/aa9zgzt4493g2il/Sky%20sport%20football.png",
+"url": "https://www.doonung1234.com/match/view/13674/skysportfootball",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Football",
+"image":"https://dl.dropbox.com/s/aa9zgzt4493g2il/Sky%20sport%20football.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79896&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Football",
+"image":"https://dl.dropbox.com/s/aa9zgzt4493g2il/Sky%20sport%20football.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports F1",
+"image":"https://dl.dropbox.com/s/vtm8sztq8sss3fw/Sky%20sport%20F1.png",
+"url": "https://www.streamlive.to/embedplayer.php?channel=79897&autostart=true",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports F1",
+"image":"https://dl.dropbox.com/s/vtm8sztq8sss3fw/Sky%20sport%20F1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysportsf1bkp&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports Arena",
+"image":"https://dl.dropbox.com/s/uq1x9c0wh3qd4c0/Sky%20sport%20arena.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name": "Sky Sports Action",
+"image": "https://dl.dropbox.com/s/7v55tpwb94khcea/Sky%20sport%20action.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Sky Sports F1",
+"image":"https://dl.dropbox.com/s/vtm8sztq8sss3fw/Sky%20sport%20F1.png",
+"url": "https://www.ball8k.com/channel?ch=skysportf1",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://fifa55u.com/ballsod/ch373/?jwsource=cl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://365liveball.com/True-Premier-HD?jwsource=cl",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.liveballsod.com/tv-online/ch373/?jwsource=cl",
+"referer": "https://www.liveballsod.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 2",
+"image":"https://dl.dropbox.com/s/q8bazclmyju8ehw/EPL2.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd2/",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Bein 1 TU",
+"image":"https://dl.dropbox.com/s/g86o2xh1ay0ua2t/tv-station--640.png",
+"url":"https://www.ball8k.com/channel?ch=beinsports1tu",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 1 TU",
+"image":"https://dl.dropbox.com/s/g86o2xh1ay0ua2t/tv-station--640.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinsports1tu",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 2 TU",
+"image":"https://dl.dropbox.com/s/mqoouyw7icuilvj/tv-station--641.png",
+"url":"https://www.ball8k.com/channel?ch=beinsports2tu",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 2 TU",
+"image":"https://dl.dropbox.com/s/mqoouyw7icuilvj/tv-station--641.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinsports2tu",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro EURO 1",
+"image":"https://dl.dropbox.com/s/hof4wmosqjuv2i8/Astro%20Euro1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=my-euro1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Astro EURO 2",
+"image":"https://dl.dropbox.com/s/nj63w22fl1a86pk/Astro%20Euro2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=my-euro2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://dl.dropbox.com/s/4oq1o33yj89w5tq/EPL1.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://www.ball24.tv/allchannel/?id=bein1",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://www.ball24.tv/?id=bein1",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://livesod88.com/?id=639139&ch=bein1",
+"referer": "https://livesod88.com/"
+},	
+{
+
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://www.we-play.tv/watching/tv/bein-sports-1",
+"referer": "https://www.we-play.tv/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url":"https://www.liveballsod.com/tv-online/ch026b/",
+"referer": "https://www.liveballsod.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://dl.dropbox.com/s/os3m0u1gp5xcanh/Bein%20S1.png",
+"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/beinsport1/",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url": "https://www.ball24.tv/?id=bein2",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/beinsport2/",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+
+
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url":"https://www.liveballsod.com/tv-online/ch027/",
+"referer": "https://www.liveballsod.com/",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://dl.dropbox.com/s/ieep1aamfwf94tp/Bein%20S2.png",
+"url": "https://livesod88.com/?id=654071&ch=bein2",
+"referer": "https://livesod88.com/"
+},	
+{
+"name":"Bein 1 France",
+"image":"https://dl.dropbox.com/s/3cpj8k45t7domhm/a400.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinsport1fr",
+"playInNatPlayer": "true"
+},	
+{
+
+"name":"Bein 1 France",
+"image":"https://dl.dropbox.com/s/3cpj8k45t7domhm/a400.png",
+"url":"https://www.doonung1234.com/match/view/13690/beinsport1fr",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 2 France",
+"image":"https://dl.dropbox.com/s/esb1kitk2subn5f/a401.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinsport2fr",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 2 France",
+"image":"https://dl.dropbox.com/s/esb1kitk2subn5f/a401.png",
+"url":"https://www.doonung1234.com/match/view/13690/beinsport2fr",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 3 France",
+"image":"https://dl.dropbox.com/s/5ygxg8p0yjnfed0/a402.png",
+"url":"https://www.doonung1234.com/match/view/13690/beinsport3fr",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Bein 4 Max",
+"image":"https://dl.dropbox.com/s/rwe9z3dsow3im0z/tv-station--403.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinmax4fr",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"Bein 4 Max",
+"image":"https://dl.dropbox.com/s/rwe9z3dsow3im0z/tv-station--403.png",
+"url":"https://www.ball8k.com/channel?ch=beinmax4fr",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 5 Max",
+"image":"https://dl.dropbox.com/s/owh9i0pkr5gs2va/tv-station--404.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinmax5fr",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"Bein 5 Max",
+"image":"https://dl.dropbox.com/s/owh9i0pkr5gs2va/tv-station--404.png",
+"url":"https://www.ball8k.com/channel?ch=beinmax5fr",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 6 Max",
+"image":"https://dl.dropbox.com/s/usy5y91pqty01te/tv-station--405.png",
+"url":"https://www.ball8k.com/channel?ch=beinmax6fr",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 6 Max",
+"image":"https://dl.dropbox.com/s/usy5y91pqty01te/tv-station--405.png",
+"url":"https://www.ball24.tv/allchannel/?id=beinmax6fr",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd",
+"referer": "https://www.ball24.tv/"
+},	
+{
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/", "embed": "true", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+},	
+{
+
+
+"name":"True Sport HD",
+"image":"https://dl.dropbox.com/s/1dsl9gz98vvia75/tsphd1.png",
+"url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/thd1",
+"referer": "https://ballnaka.tv/"
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url":"https://www.ball8k.com/channel?ch=foxsport1",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://dl.dropbox.com/s/pro6m3yevvqsguu/foxsport1.png",
+"url":"https://www.liveballsod.com/tv-online/ch045/",
+"playInNatPlayer": "true"
+},	
+{
