@@ -1063,7 +1063,7 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_tv5hd_liv
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://https://178.128.99.54:443/epl1.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+https://https://stream.warpballsod.tv/epl1.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png",TPF2  
