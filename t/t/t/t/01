@@ -176,7 +176,26 @@ https://www.andaman888th.com/ดูบอลออนไลน์/btsport2
 https://www.andaman888th.com/ดูบอลออนไลน์/btsport3
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.andaman888th.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/bEin-Sports-1-(TU).png",bEin 1-(TU)
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/beinsports1tu#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/bEin-Sports-2-(TU).png",bEin 2-(TU)
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/beinsports2tu#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/bEin-Sports-1-(AU).png",bEin 1-(AU)
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/beinsports1au#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/bEin-Sports-2-(AU).png",bEin 2-(AU)
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/beinsports2au#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/sporttv1.jpg",sporttv1
