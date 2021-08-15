@@ -1,0 +1,439 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/epl1#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",epl2
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/epl2#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",epl3
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/epl3#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",epl4
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/epl4#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",epl5
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/epl5#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",epl2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",epl3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl3
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",epl4
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl4
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl4
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",epl5
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=epl5
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl5
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport1.png",astrosupersport
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=astrosupersport
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport2.png",astrosupersport2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=astrosupersport2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport3.png",astrosupersport3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=astrosupersport3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport4.png",astrosupersport4
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=astrosupersport4
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",bein1
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=bein1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",bein2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=bein2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsport1.png",btsport1
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=btsport1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsport2.png",btsport2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=btsport2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsport3.png",btsport3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=btsport3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsportespn.png",btsportespn
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=btsportespn
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/sporttv1.jpg",sporttv1
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sporttv1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/sporttv2.jpg",sporttv2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sporttv2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/sporttv3.jpg",sporttv3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sporttv3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/sporttv4.jpg",sporttv4
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sporttv4
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truespor5.png",sport5
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truespor5
+ https://www.ball24.tv/allchannel/?id=truesport5
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesport5
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",sport7
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesport7
+ https://www.ball24.tv/allchannel/?id=truesport7
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesport7
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",sporthd3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd3
+ https://www.ball24.tv/allchannel/?id=truesporthd3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd3
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",sporthd2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd2
+ https://www.ball24.tv/allchannel/?id=truesporthd2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd2
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",sporthd1
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd
+https://www.ball24.tv/allchannel/?id=truesporthd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsporthd.png",foxsporthd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+ https://www.ball24.tv/allchannel/?id=foxsporthd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsporthd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2.png",foxsporthd2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport2
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport2
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport3.png",foxsporthd3
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportmainevent.png",skysportmainevent
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportmainevent
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportfootball.png",skysportfootball
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportfootball
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportpremiere.png",skysportpremiere
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportpremiere
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportmix.png",skysportmix
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportmix
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportaction.png ",skysportaction
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportaction
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportarena.png",skysportarena
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportarena
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportgolf.png",skysportgolf
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportgolf
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/skysportclicket.png",skysportclicket
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=skysportclicket
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=foxsport3
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/foxsport1nl.jpg",foxsport1nl
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport1nl
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/foxsport2nl.jpg",foxsport2nl
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport2nl
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/foxsport3nl.jpg",foxsport3nl
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport3nl
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/foxsport4nl.jpg",foxsport4nl
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport4nl
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/foxsport5nl.jpg",foxsport5nl
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsport5nl
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/digisport1romania.png",digisport1romania
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=digisport1romania
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/digisport1romania.png",digisport2romania
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=digisport2romania
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/digisport1romania.png",digisport3romania
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=digisport3romania
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/digisport1romania.png",digisport4romania
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=digisport4romania
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/arenasport1serbia.png",arenasport1serbia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=arenasport1serbia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/arenasport1serbia.png",arenasport2serbia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=arenasport2serbia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/arenasport3serbia.png",arenasport1serbia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=arenasport3serbia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/arenasport4serbia.png",arenasport1serbia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=arenasport4serbia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sportklub1slovenia.png",sportklub1slovenia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sportklub1slovenia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sportklub1slovenia.png",sportklub2slovenia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sportklub2slovenia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sportklub1slovenia.png",sportklub3slovenia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sportk3ub1slovenia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sportklub1slovenia.png",sportkub4slovenia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sportklub4slovenia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sportklub1slovenia.png",sportkub4slovenia
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sportklub4slovenia
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/espnbrazil.png",espnbrazil
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=espnbrazil
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/espnbrazil.png",espnbrazil
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=espnbrazil
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/espnus.png",espnus
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=espnus
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/foxsports1usa.jpg",foxsports1usa
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=foxsports1usa
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/foxsports2usa.jpg",foxsports2usa
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.doofootball.com/dootv/live/foxsports2usa#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/beinsport1fr.png",beinsport1fr
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=beinsport1fr
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/beinsport2fr.png",beinsport2fr
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=beinsport2fr
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/cmorefootball.png",cmorefootball
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=cmorefootball
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/cmorelivehd.png",cmorelivehd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=cmorelivehd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/ziggosportvoetbal.png",ziggosportvoetbal
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=ziggosportvoetbal
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/ziggosportselect.png",ziggosportselect
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=ziggosportselect
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/niyom865/niyom865/blob/main/mz/sp/beinsportsarabia1hd.png",beinsportsarabia1hd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/niyom865/niyom865/blob/main/mz/sp/beinsportsarabia1hd.png",beinsportsarabia2hd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=beinsportsarabia2hd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/niyom865/niyom865/blob/main/mz/sp/beinsportsarabia1hd.png",beinsportsarabia3hd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=beinsportsarabia3hd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sportdigital.png",sportdigital
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sportdigital
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/tv3max.png",tv3max
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=tv3max
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/tv3sport1.png",tv3sport1
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=tv3sport1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sportv.png",sportv
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=sportv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/pfc.png",pfc
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=pfc
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/gol.png",gol
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=gol
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+
+
+
