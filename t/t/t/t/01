@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacth.tv/tv-player/true-premuim-1-vkd80p04jvr0.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://wacth.tv/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/true-premuim-1-vkd80p04jvr0.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
@@ -132,12 +141,12 @@ https://www.ball24.tv/allchannel/?id=sporttv4
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truespor5.png",sport5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sd-tsport5.png",sport5
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truespor5
  https://www.ball24.tv/allchannel/?id=truesport5
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesport5
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",sport7
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/sd-tsport7.png",sport7
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesport7
  https://www.ball24.tv/allchannel/?id=truesport7
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesport7
@@ -382,17 +391,17 @@ https://www.ball24.tv/allchannel/?id=ziggosportvoetbal
 https://www.ball24.tv/allchannel/?id=ziggosportselect
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/niyom865/niyom865/blob/main/mz/sp/beinsportsarabia1hd.png",beinsportsarabia1hd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/beinsportsarabia1hd.png",beinsportsarabia1hd
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
 https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/niyom865/niyom865/blob/main/mz/sp/beinsportsarabia1hd.png",beinsportsarabia2hd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/beinsportsarabia2hd.png.png",beinsportsarabia2hd
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
 https://www.ball24.tv/allchannel/?id=beinsportsarabia2hd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/niyom865/niyom865/blob/main/mz/sp/beinsportsarabia1hd.png",beinsportsarabia3hd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/beinsportsarabia3hd.png",beinsportsarabia3hd
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
 https://www.ball24.tv/allchannel/?id=beinsportsarabia3hd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
