@@ -602,3 +602,205 @@ https://www.doofootball.com/dootv/live/freesportuk#main_dootv
 https://www.doofootball.com/dootv/live/telekomsport1ro#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/3hd.png",3hd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=3hd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/7hd.png",7hd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=7hd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/thairath.png",thairath
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=thairath
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/workpoint.png",workpoint
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=workpoint
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/pptv.png,pptv
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=pptv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/mono29.png",mono29
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=mono29
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/amarin.png",amarin
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=amarin
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/thaipbs.png",thaipbs
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=thaipbs
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/ch8.png",ch8
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=ch8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/gmm25.png",gmm25
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=gmm25
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/onehd.png",onehd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=onehd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/true4u.png",true4u
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=true4u
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/voicetv.png",voicetv
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=voicetv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/newtv.png",newtv
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=newtv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/nbt.png",nbt
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=nbt
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/5hd.png",5hd
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=5hd
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/nation.png",nation
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=nation
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/tnn.png",tnn
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=tnn
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/bal24/tv/mcot.png",mcot
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/ 
+https://www.ball24.tv/allchannel/?id=mcot
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",bbc-earth
+#EXTVLCOPT:http-referrer=https://www.doofree88.com/
+https://www.doofree88.com/live/bbc-earth
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofree88.com/
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",bbc-lifestyle
+#EXTVLCOPT:http-referrer=https://www.doofree88.com/
+https://www.doofree88.com/live/bbc-lifestyle
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofree88.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history2.png",history2
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ilike-movie.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tvsmagazine.com/images/channels/lrg_EXPW.jpg",expwild
+#EXTVLCOPT:http-referrer=https://siamtv88.co/index.php
+https://siamtv88.co/index.php?a=live_details&channel_code=th-expwild
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://siamtv88.co/index.php
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-explife.png",explife
+#EXTVLCOPT:http-referrer=https://siamtv88.co/index.php
+https://siamtv88.co/index.php?a=live_details&channel_code=th-explife
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://siamtv88.co/index.php
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-expsci.png",expsci
+#EXTVLCOPT:http-referrer=https://siamtv88.co/index.php
+https://center.beinsport.biz//assets/images/channel_new/sd-expsci
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://siamtv88.co/index.php
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051509-discovery-channel.png",discovery
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/discovery#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051526-Discovery-asia.png",Discovery-asia
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/discoveryasia#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051547-national-geographic.png",natgeo
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/natgeo#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051608-national-geo-WILD.png",natgeowild
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/natgeowild#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051622-animalplanet.png",animalplanet
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/animalplanet#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051634-CLONE.png",history
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/history#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052119-TLC.png",TLC
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/tlc#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/11sport.png",11sport
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/discovery#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/11sport.png",11sport
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/
+https://www.doofootball.com/dootv/live/discovery#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
