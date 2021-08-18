@@ -814,11 +814,158 @@ https://wacth.tv/tv-player/national-geographic.html
 
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/discovery-hd.png",discovery-hd
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/discovery-hd.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/discovery-asia.png",discovery-asia
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/discovery-asia.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/tlc-hd.png",tlc-hd
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/tlc-hd.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/animal-planet.png",animal-planet
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/animal-planet.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/nat-geo-wild-hd.png",wild
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/nat-geo-wild-hd.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
 
 
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-asia.png",hbo-asia
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/hbo-asia.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-hits.png",hbo-hits
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/hbo-hits.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-signature.png",hbo-signature
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/hbo-signature.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-family.png",hbo-family
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/hbo-family.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/cinemax-hd.png",cinemax-hd
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/cinemax-hd.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-action-movies.png",fox-action
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/fox-action-movies.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-life-hd.png",fox-life
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/fox-life-hd.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-thai.png",fox-thai
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/fox-thai.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051856-FOX-premium.png",cinemax-hd
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/foxmovie#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052011-foxfamily.png",foxfamily
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/foxmovie#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052213-blue-ant-MEDIA.png",blue
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/blueant#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052218-blueant-extreme.png",blueant-extreme
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/blueantextream#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051909-wb-TV.png",wbtv
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/wbtv#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/paramount.png",paramount
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/paramount.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/axn-hd.png",axn-hd
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/axn-hd.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-asia.png",film-asia
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/true-film-asia.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tfilm.jpg",film-hd
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/true-film-hd.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-hd2.png",film-hd2
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/true-film-hd2.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/asian-series.png",asian-series
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/asian-series.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/tvb.png",tvb
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/tvb.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-series-1shsz3dbbp36.png",true-series
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/true-series-1shsz3dbbp36.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-hd-bk2gdt2o7xnj.png",film-hd
+#EXTVLCOPT:http-referrer=https://fo1iptv.com/
+https://fo1iptv.com/tv-player/true-film-hd-ibonsbo810rk.html
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://fo1iptv.com/
 
 
 
