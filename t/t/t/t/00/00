@@ -1419,4 +1419,12 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast76_mchannel_live1
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 
 
+#EXTINF:-1,hbo
+#EXTVLCOPT:http-referrer=https://we-play.live/
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hbo-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6MDg6NDggQU0maGFzaF92YWx1ZT1rMGcwTXd4cXd5cUlmbUMya0U5UHJnPT0mdmFsaWRtaW51dGVzPTIw
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=4083428&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6MDg6NDggQU0maGFzaF92YWx1ZT1rMGcwTXd4cXd5cUlmbUMya0U5UHJnPT0mdmFsaWRtaW51dGVzPTIw
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=4083534&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6MDg6NDggQU0maGFzaF92YWx1ZT1rMGcwTXd4cXd5cUlmbUMya0U5UHJnPT0mdmFsaWRtaW51dGVzPTIw
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://we-play.live/
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
+
 
