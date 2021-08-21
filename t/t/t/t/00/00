@@ -1336,15 +1336,15 @@ https://stream.warpballsod.tv/beinsport2fr.m3u8|User-Agent=exoplayer_video&Refer
 
 #EXTINF:-1,mono29
 #EXTVLCOPT:http-referrer=http://cloudtv.3bb.co.th/
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza60_mono29_live1.stream/playlist.m3u8?username=dLueBjLrtDZhHl8sAtxuQthjp1auAVsB&password=ye4GFE1SlQgOpT3UIBC3YbGjpxUJ80Rn
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mono29_live1.stream/playlist.m3u8?username=0K45A7cHxjNYd1BhCl539pdWbG9g9e8X&password=AZrNCV0jUmW6Iccoue7n6B9lh5GeU02i
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 #EXTINF:-1,thairathtvhd
 #EXTVLCOPT:http-referrer=http://cloudtv.3bb.co.th/
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_thairathtvhd_live1.stream/playlist.m3u8?username=dLueBjLrtDZhHl8sAtxuQthjp1auAVsB&password=ye4GFE1SlQgOpT3UIBC3YbGjpxUJ80Rn
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_thairathtvhd_live1.stream/playlist.m3u8?username=0K45A7cHxjNYd1BhCl539pdWbG9g9e8X&password=AZrNCV0jUmW6Iccoue7n6B9lh5GeU02i
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 #EXTINF:-1,pptvhd
 #EXTVLCOPT:http-referrer=http://cloudtv.3bb.co.th/
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_pptvhd_live1.stream/playlist.m3u8?username=dLueBjLrtDZhHl8sAtxuQthjp1auAVsB&password=ye4GFE1SlQgOpT3UIBC3YbGjpxUJ80Rn
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_pptvhd_live1.stream/playlist.m3u8?username=0K45A7cHxjNYd1BhCl539pdWbG9g9e8X&password=AZrNCV0jUmW6Iccoue7n6B9lh5GeU02i
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 #EXTINF:-1,ch7hd
 #EXTVLCOPT:http-referrer=http://cloudtv.3bb.co.th/
@@ -1380,7 +1380,7 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_onehd_liv
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_ch3hd_live1.stream/playlist.m3u8?username=dLueBjLrtDZhHl8sAtxuQthjp1auAVsB&password=ye4GFE1SlQgOpT3UIBC3YbGjpxUJ80Rn
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 
-#EXTINF:-1workpoint
+#EXTINF:-1,workpoint
 #EXTVLCOPT:http-referrer=http://cloudtv.3bb.co.th/
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_workpoint_live1.stream/playlist.m3u8?username=dLueBjLrtDZhHl8sAtxuQthjp1auAVsB&password=ye4GFE1SlQgOpT3UIBC3YbGjpxUJ80Rn
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
