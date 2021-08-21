@@ -983,6 +983,12 @@ https://www.ball24.tv/allchannel/?id=epl1
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=epl1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
+#EXTVLCOPT:http-referrer=https://ball365.co/ 
+https://ball365.co/channel/?id=epl1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://ball365.co/channel/?id=epl1
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
 #EXTVLCOPT:http-referrer=https://www.warpfootball.games/
 https://www.warpfootball.games/live/?ch=epl1
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.warpfootball.games/live/?ch=epl1
