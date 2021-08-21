@@ -1407,14 +1407,16 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_li
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 #EXTINF:-1,nbt
 #EXTHTML:http-referrer=http://cloudtv.3bb.co.th/
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/playlist.m3u8?username=3Iwm893MAw6Q7VcmODltIZ0jTttZIQHC&password=V1txBbFYGnzAivjnTr9YrH74kqqwzYll
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/chunklist_w893929577.m3u8?username=3Iwm893MAw6Q7VcmODltIZ0jTttZIQHC&password=V1txBbFYGnzAivjnTr9YrH74kqqwzYll
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/playlist.m3u8?username=HcVxHYfZxRwSg6jtDUjsZtaqyNuIVh4r&password=Jn0ROPJUrgxh5bbjqpc6FYeNkQXULVXk
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
+
+
 #EXTINF:-1,tv5hd
 #EXTHTML:http-referrer=http://cloudtv.3bb.co.th/
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_tv5hd_live1.stream/playlist.m3u8?username=XC1M4OKTywLSIjmtRX9N6V0AU7FFusfi&password=4kcWxBYBZ2ZcerCAEdjMPVv6cvibQRQL
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_tv5hd_live1.stream/chunklist_w1699544602.m3u8?username=XC1M4OKTywLSIjmtRX9N6V0AU7FFusfi&password=4kcWxBYBZ2ZcerCAEdjMPVv6cvibQRQL
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_tv5hd_live1.stream/playlist.m3u8?username=dLueBjLrtDZhHl8sAtxuQthjp1auAVsB&password=ye4GFE1SlQgOpT3UIBC3YbGjpxUJ80Rn
+ 
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
+
 #EXTINF:-1,mchannel
 #EXTVLCOPT:http-referrer=http://cloudtv.3bb.co.th/
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast76_mchannel_live1.stream/playlist.m3u8?username=gIgVj5BepDONwv0MTXAGGO0srSFZtnDz&password=lFyk9d2BItcSXkIYzyV2uiFHEO4l36Eh
@@ -1425,14 +1427,13 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast76_mchannel_live1
  
 #EXTINF:-1,arenasport4serbia
 #EXTVLCOPT:http-referrer=https://www.liveballsod.com/
-https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/arenasport4serbia/chunks.m3u8?nimblesessionid=36566900&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDE6MDU6NDQgQU0maGFzaF92YWx1ZT1lZ2hnNHRUSGI5cFoyMUN0QWJBdThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjUxNT 
+https://www.liveballsod.com/tv-online/ch365/
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.liveballsod.com/
 
 
 #EXTINF:-1,arenasport4serbia2
 #EXTVLCOPT:class=auto_start_download&title=auto start download 
-https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/arenasport4serbia/chunks.m3u8?nimblesessionid=36566900&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDE6MDU6NDQgQU0maGFzaF92YWx1ZT1lZ2hnNHRUSGI5cFoyMUN0QWJBdThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjUxNTAw
-https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/arenasport4serbia/chunks.m3u8?nimblesessionid=36566900&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDE6MDU6NDQgQU0maGFzaF92YWx1ZT1lZ2hnNHRUSGI5cFoyMUN0QWJBdThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjUxNT 
+https://www.liveballsod.com/tv-online/ch365/ 
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.liveballsod.com/
 
 
