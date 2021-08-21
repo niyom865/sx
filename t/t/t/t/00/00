@@ -1421,20 +1421,18 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast76_mchannel_live1
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 
 
-#EXTINF:-1,disasia
-#EXTHTML:http-referrer=https://we-play.live/
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6NDE6NDUgQU0maGFzaF92YWx1ZT02bmRZZUFHSVU4N2NOUUd5d2JRK2VRPT0mdmFsaWRtaW51dGVzPTIw 
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/chunks.m3u8?nimblesessionid=4090239&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6NDE6NDUgQU0maGFzaF92YWx1ZT02bmRZZUFHSVU4N2NOUUd5d2JRK2VRPT0mdmFsaWRtaW51dGVzPTIw 
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/chunks.m3u8?nimblesessionid=4090354&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6NDE6NDUgQU0maGFzaF92YWx1ZT02bmRZZUFHSVU4N2NOUUd5d2JRK2VRPT0mdmFsaWRtaW51dGVzPTIw 
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://we-play.live/
- 
-#EXTINF:-1,paramount
-#EXTHTML:http-referrer=https://we-play.live/
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6MjI6NTYgQU0maGFzaF92YWx1ZT1qNHVjMGZ2L1E3M0JDS1h0QU9aU0V3PT0mdmFsaWRtaW51dGVzPTIw
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/paramount/chunks.m3u8?nimblesessionid=4086142&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6MjI6NTYgQU0maGFzaF92YWx1ZT1qNHVjMGZ2L1E3M0JDS1h0QU9aU0V3PT0mdmFsaWRtaW51dGVzPTIw
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/paramount/chunks.m3u8?nimblesessionid=4086243&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDI6MjI6NTYgQU0maGFzaF92YWx1ZT1qNHVjMGZ2L1E3M0JDS1h0QU9aU0V3PT0mdmFsaWRtaW51dGVzPTIw
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://we-play.live/
  
  
+#EXTINF:-1,arenasport4serbia
+#EXTVLCOPT:http-referrer=https://www.liveballsod.com/
+https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/arenasport4serbia/chunks.m3u8?nimblesessionid=36566900&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDE6MDU6NDQgQU0maGFzaF92YWx1ZT1lZ2hnNHRUSGI5cFoyMUN0QWJBdThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjUxNT 
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.liveballsod.com/
+
+
+#EXTINF:-1,arenasport4serbia2
+#EXTVLCOPT:class=auto_start_download&title=auto start download 
+https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/arenasport4serbia/chunks.m3u8?nimblesessionid=36566900&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDE6MDU6NDQgQU0maGFzaF92YWx1ZT1lZ2hnNHRUSGI5cFoyMUN0QWJBdThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjUxNTAw
+https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/arenasport4serbia/chunks.m3u8?nimblesessionid=36566900&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDE6MDU6NDQgQU0maGFzaF92YWx1ZT1lZ2hnNHRUSGI5cFoyMUN0QWJBdThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjUxNT 
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.liveballsod.com/
 
 
