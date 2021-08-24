@@ -1387,10 +1387,10 @@ https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r4/beinsports2au/chunk
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
 
 
-#EXTINF:-1,files
-#EXTVLCOPT:http-referrer=https://tv.trueid.net/
-https://cdn025.stm.trueid.net/live11/094_w_auto_tidapp.smil/manifest_w448726828_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZ1aWQ9OTY4NTQxMjYmZGlkPU1USTNNekUyTkRreE5TNHhOVGsxTURBd01URTUmc2lkPTIxMDIxNTExOTcmcnQ9MTYyOTc2OTI2MCZ0az1UaVZhT2ZheEp4SkpoZm1CYnRPUFBadTNFZ0s2UThXMVVuczJZNnNidUg0.mpd
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://tv.trueid.net/
+#EXTINF:-1,foxsportasia2
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r4/foxsportasia2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIxIDE6NDY6MDUgUE0maGFzaF92YWx1ZT1TbXpneUpmeG5EdXlxak9BWThaY1NnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjgmaWQ9NzMxODMx
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
 
 
 #EXTINF:-1,files
