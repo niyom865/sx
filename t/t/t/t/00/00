@@ -1394,7 +1394,8 @@ https://cdn025.stm.trueid.net/live11/094_w_auto_tidapp.smil/manifest_w448726828_
 
 
 #EXTINF:-1,files
-#EXTVLCOPT:http-referrer=https://tv.trueid.net/http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/
+https://tv.trueid.net/http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://tv.trueid.net/
 
 
