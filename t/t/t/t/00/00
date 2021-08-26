@@ -1366,6 +1366,10 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast76_peopletv_live1
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://cloudtv.3bb.co.th/
 
 
+#EXTINF:-1,arenasport3serbia
+#EXTVLCOPT:http-referrer=https://www.liveballsod.com/
+https://www.liveballsod.com/tv-online/ch364/
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.liveballsod.com/
 
 
  
@@ -1374,35 +1378,39 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcast76_peopletv_live1
 https://www.liveballsod.com/tv-online/ch365/
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.liveballsod.com/
 
+#EXTINF:-1,pl1
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/epl5#main_dootv
+https://www.doofootball.com/dootv/live/epl1#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
 
-#EXTINF:-1,arenasport4serbia2
-#EXTVLCOPT:class=auto_start_download&title=auto start download 
-https://www.liveballsod.com/tv-online/ch365/ 
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.liveballsod.com/
+
+#EXTINF:-1,pl2
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/epl5#main_dootv
+https://www.doofootball.com/dootv/live/epl2#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
+
+ 
+#EXTINF:-1,pl3
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/epl5#main_dootv
+https://www.doofootball.com/dootv/live/epl3#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
+
+#EXTINF:-1,pl4
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/epl5#main_dootv
+https://www.doofootball.com/dootv/live/epl4#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
 
 
+ 
 #EXTINF:-1,pl5
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/live/streaming/epl5/721086
-https://raw.githubusercontent.com/nangnongning/new/main/sz/pl/pl5.m3u8
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/live/streaming/epl5/721086
-
-#EXTINF:-1,pl55
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/epl5#main_dootv
 https://www.doofootball.com/dootv/live/epl5#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
 
 
 
-#EXTINF:-1,epl5
-#EXTVLCOPT:http-referrer=http://iptvhit.com/player?https://www.doofootball.com/dootv/live/epl5#main_dootv
-http://iptvhit.com/player?https://www.doofootball.com/dootv/live/epl5#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http://iptvhit.com/player?https://www.doofootball.com/dootv/live/epl5#main_dootv
-
-#EXTINF:-1,pl5
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/dootv/live/epl5#main_dootv
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r1/trueepl5_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDIxIDEwOjI1OjA0IEFNJmhhc2hfdmFsdWU9WmNwbjBKUkgxNHBjNmdSaG5pR2pIdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPTc1NzkzNA==
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
-
+ 
+ 
 
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
