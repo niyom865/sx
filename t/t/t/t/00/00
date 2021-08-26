@@ -898,6 +898,16 @@ https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/chunks.m3u8|User-A
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein1.png",ukepl1
+#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
+https://doofootball.livestream-cdn.com/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein2.png",ukepl2
+#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
+https://doofootball.livestream-cdn.com/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport1fr.png",fr-bein1hd
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/fr-bein1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
@@ -905,6 +915,13 @@ https://doofootball.livestream-cdn.com/iptv/fr-bein1hd.stream/chunks.m3u8|User-A
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport2fr.png",fr-bein2hd
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/fr-bein2hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport2fr.png",fr-bein3hd
+#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
+https://doofootball.livestream-cdn.com/iptv/fr-bein3hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+
+
+
 
  #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport1
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
@@ -948,6 +965,13 @@ https://doofootball.livestream-cdn.com/iptv/uk-skysports-mix.stream/chunks.m3u8|
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportaction.png",skysportaction
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",sporthd2
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd3
+ https://www.ball24.tv/allchannel/?id=truesporthd3
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd3
+
+ 
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",sporthd2
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd2
@@ -1039,12 +1063,12 @@ https://www.ball24.tv/allchannel/?id=astrosupersport4
 
 
  
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",tnn 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/tnn.png",tnn 
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/play-channel
  https://stream.warpballsod.tv/tnn.m3u8
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.warpballsod.tv/play-channel
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",true4u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/true4u.png",true4u
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/play-channel 
 https://stream.warpballsod.tv/true4u.m3u8
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.warpballsod.tv/play-channel
@@ -1055,7 +1079,7 @@ https://stream.warpballsod.tv/true4u.m3u8
  
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", dis
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-discovery.png", dis
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|User-Agent=mxplayer_video&Referer=https://livescorethai.net/
 
@@ -1066,13 +1090,7 @@ https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|User-
 
  
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",tpbs
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_tpbshd_live1.stream/playlist.m3u8?username=ABrFzsVHeTummdfv8jH4Wv4Le9KTwNXW&password=NoqQMJmQOsMGZE8xNwGnetk4u89juxv2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",one
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_onehd_live1.stream/playlist.m3u8?username=ABrFzsVHeTummdfv8jH4Wv4Le9KTwNXW&password=NoqQMJmQOsMGZE8xNwGnetk4u89juxv2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",5hd
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_tv5hd_live1.stream/playlist.m3u8?username=ABrFzsVHeTummdfv8jH4Wv4Le9KTwNXW&password=NoqQMJmQOsMGZE8xNwGnetk4u89juxv2
-
+ 
 
 
 
