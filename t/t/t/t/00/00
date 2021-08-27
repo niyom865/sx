@@ -1426,42 +1426,27 @@ https://www.doofootball.com/dootv/live/epl5#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
 
 
+#EXTINF:-1,pptv
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://www.warpballsod.tv/play-channel/?id=pptv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.warpballsod.tv/
+
+
+#EXTINF:-1,thairath
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://www.warpballsod.tv/play-channel/?id=thairath
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.warpballsod.tv/
 
  
  
+#EXTINF:-1,89782
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+https://www.inwiptv.com/player_demo.php?channel=89782
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.inwiptv.com/
 
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
-http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
-http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-http://39.134.155.185/PLTV/88888888/224/3221225600/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+ #EXTINF:-1,89781
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+https://www.inwiptv.com/player_demo.php?channel=89781
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.inwiptv.com/
+
  
-
