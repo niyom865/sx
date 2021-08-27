@@ -1426,17 +1426,7 @@ https://www.doofootball.com/dootv/live/epl5#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/dootv/live/epl5#main_dootv
 
 
-#EXTINF:-1,pptv
-#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://www.warpballsod.tv/play-channel/?id=pptv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.warpballsod.tv/
-
-
-#EXTINF:-1,thairath
-#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://www.warpballsod.tv/play-channel/?id=thairath
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.warpballsod.tv/
-
+ 
  
  
 #EXTINF:-1,89782
@@ -1459,9 +1449,9 @@ https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8?ck
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8?ckdVditGdCsrNnpjRkVOVzRycEtwbTJTd0VmZkYrUVIvSVNFOS90dS9mVVZpY2EvaUg5WXNRUm04Nk5aZHo3YjIxWVRaQ01VT2FPTGpUbi9oTm5rU1p5QzFzM1NkUXRNMisxbHNYYXhKTkU9,bb4bd27195ce9889e45057d1a7643cbb
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.inwiptv.com/
 
-#EXTINF:-1,discoveryasia
+#EXTINF:-1,fhd-cinemax
 #EXTVLCOPT:http-referrer=https://www.inwiptv.com/
-https://freelive2.inwstream.com:1936/freelive-edge/discovery-asia/playlist.m3u8?ckdVditGdCsrNnpjRkVOVzRycEtwbTJTd0VmZkYrUVIvSVNFOS90dS9mVVZpY2EvaUg5WXNRUm04Nk5aZHo3YjIxWVRaQ01VT2FPTGpUbi9oTm5rU1p5QzFzM1NkUXRNMisxbHNYYXhKTkU9,bb4bd27195ce9889e45057d1a7643cbb
+https://freelive2.inwstream.com:1936/freelive-edge/fhd-cinemax/playlist.m3u8?ckdVditGdCsrNnpjRkVOVzRycEtwbTJTd0VmZkYrUVIvSVNFOS90dS9mVVZpY2EvaUg5WXNRUm04Nk5aZHo3YjIxWVRaQ01VT2FPTGpUbi9oTm5rU1p5QzFzM1NkUXRNMisxbHNYYXhKTkU9,bb4bd27195ce9889e45057d1a7643cbb
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.inwiptv.com/
 
 
