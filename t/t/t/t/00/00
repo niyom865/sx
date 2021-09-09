@@ -1455,20 +1455,9 @@ https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8?ckdVditG
 http://pelicanhosting.xyz/live/gfqonnad/7685216494/5930.m3u8|User-Agent=iptv extreme pro/101.0,advanced player pro/10.0&Referer=http://pelicanhosting.xyz/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport1
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport2
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport3
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport3
-#EXTVLCOPT:http-referrer=http://160.119.77.50/iptv
-http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=http://160.119.77.50/iptv
-
+#EXTINF:-1,ch5
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0&Referer=https://www.chomfootball.com/
+https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8
+#EXTINF:-1,ch3
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0&Referer=https://www.chomfootball.com/
+https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8
