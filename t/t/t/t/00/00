@@ -1458,6 +1458,8 @@ http://pelicanhosting.xyz/live/gfqonnad/7685216494/5930.m3u8|User-Agent=iptv ext
 #EXTINF:-1,ch5
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0&Referer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8
+user-agent=okhttp/3.10.0&Referer=https://www.chomfootball.com/
 #EXTINF:-1,ch3
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0&Referer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8
+user-agent=okhttp/3.10.0&Referer=https://www.chomfootball.com/
