@@ -1385,4 +1385,10 @@ https://ilike.livedoomovie.com:4432/02_PremierHD5_720p/chunklist.m3u8
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http-referrer=https://ilike.livedoomovie.com/
 
 
- 
+#EXTINF:-1,ch3   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r2/3hd_480p/chunks.m3u8?nimblesessionid=5247732&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMSA0OjA3OjM3IEFNJmhhc2hfdmFsdWU9bGxWejNyeUw2NUF2NEdmRDNsMlFXQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIzJmlkPTI2NzY3OA==
+#EXTINF:-1,pl1   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+https://ilike.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
