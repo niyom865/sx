@@ -1385,8 +1385,8 @@ https://ilike.livedoomovie.com:4432/02_PremierHD5_720p/chunklist.m3u8
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=http-referrer=https://ilike.livedoomovie.com/
 
 
-#EXTINF:-1,THD33   
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36&Referer=http-referrer=https://www.andaman888th.com/
+#EXTINF:-1,THD3   
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/piaylist.m3u8&User-Agent=vlc&Referer=https://nj2yx-gbi9-cdf5.googlecdncontent.com/playlist.m3u8
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/truesporthd3/sport/truesporthd3/chunks.m3u8
 #EXTINF:-1,pl1   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
