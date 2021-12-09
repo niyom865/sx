@@ -37,7 +37,7 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/tpf5/playlist.m3
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png", epl-1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png", epl-2
@@ -176,15 +176,15 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport_inter/sporttv5/p
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch7.png",  ch7
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_digitaltv/ch7/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_digitaltv/ch7hd/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch5.png",  ch5
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_digitaltv/ch5/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_digitaltv/ch5hd/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch3.png",  ch3
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_digitaltv/ch3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_digitaltv/ch3hd/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch8.png",  ch8
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
@@ -1392,3 +1392,6 @@ https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_sport/truesporthd3/spo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
 https://ilike.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png", epl-1
+#EXTVLCOPT:http-referrer=https://livescorethai.net&User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8
