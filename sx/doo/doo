@@ -1,0 +1,126 @@
+#EXTM3U
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",NBT
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",TPBS
+https://freelive2.inwstream.com:1936/freelive-edge/thaipbs/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",TPBS 
+http://bit.ly/2mB15nj
+#EXTINF:-1 group-title="ฟรีทีวี",NEW 18TV
+http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist_w1906188811.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",Workpoint23
+http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist_w1265339050.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",Workpoint23
+https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",True4U 24
+https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",GMM25
+http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/chunklist_w2135572054.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",CH8 27
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",MONO 29
+https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",MCOT 30
+https://freelive2.inwstream.com:1936/freelive-edge/mcothd/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",MCOT 30
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",ONE 31
+https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",ONE 31
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",THAIRATH32 
+https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",THAIRATH32 
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",CH3
+http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist_w1814553337.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",CH3
+https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",AMARIN34 
+https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",CH7 
+https://freelive2.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",PPTV36
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
+
+-----------ทีวีดาวเทียม
+
+#EXTINF:-1 group-title="ทีวีดาวเทียม", TOPNews
+http://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",GBN
+http://live1.gbnus.com/live/dhamma_high/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",Yateem TV
+https://vdo.plathong.net:443/muslimonair1/live/chunklist_w458759626.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",ลาไวท์ Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",NEW TM
+https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",SBTV หลวงตามหาบัว
+http://202.142.203.28:1935/live/smil:sbt_tv_aac.smil/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",News1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",Voice TV
+https://bit.ly/3nejVe3
+#EXTINF:-1 group-title="ทีวีดาวเทียม",TOP LINE
+https://cdn-th-vip.login.in.th/ToplineChannel/ToplineChannel/chunklist_w610371745.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",Policetv
+https://cdn-th-vip.login.in.th:443/policetv/policetv/chunklist_w837590154.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",THAI CCTV 123
+https://p1.cdn.vet/live/ch28/i/ch28i.m3u8?sid=bjeMjk2MmFlYjEyNDdkZjUyNTI4YwNjgxMmNiMzRmOGFhMDg3
+#EXTINF:-1 group-title="ทีวีดาวเทียม",Mix Major Channel
+https://edge6a.v2h-cdn.com:443/appt7/Mix_major.stream_720p/chunklist_w593324990.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",13สยามไทย
+https://live-api.24livetv.net:443/rtmp/13wDt2b6g4/chunklist_w2129852895.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",CAT HD
+https://cdn6.goprimetime.info/feed/CAT/index.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",V2H9
+https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",V2H11
+https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",สยาม
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",ลิโด้
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",สกาล่า
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",ราม่า
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",Thailand: Smart SME Channel
+https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="ทีวีดาวเทียม",บุญนิยม ทีวี
+http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
+
+
+-----MOVIES--- 
+
+
+#EXTINF:-1 group-title="MOVIE Real Time",ทดลองออกอากาศ
+http://stream-x.xyz/api.php?channel=kitfreetv
+#EXTINF:-1 group-title="MOVIE Real Time",SUN
+https://tvonlineappitv.shortcm.li/san_kit.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Samura
+https://tvonlineappitv.shortcm.li/samurai_kit.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Boxfilm
+https://tvonlineappitv.shortcm.li/boxfilm_kit.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Sanook
+https://tvonlineappitv.shortcm.li/sanook_kit.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",MOVIE 1
+https://tvonlineappitv.shortcm.li//fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",MOVIE 2
+https://tvonlineappitv.shortcm.li/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",MOVIE 3
+https://tvonlineappitv.shortcm.li/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Movie 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Movie 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Series 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Series 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
+#EXTINF:-1 group-title="SPORT",วัวชน
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
