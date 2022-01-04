@@ -98,8 +98,12 @@ http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
 -----MOVIES--- 
 
 
-#EXTINF:-1 group-title="MOVIE Real Time",ทดลองออกอากาศ
-http://stream-x.xyz/api.php?channel=kitfreetv
+#EXTINF:-1 group-title="MOVIE ON-AIR"tvg-logo=https://www.inwiptv.com/postor/20200512164154fwmov.jpg",FW MOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE ON-AIR"tvg-logo=https://www.inwiptv.com/postor/20200512164154fwmov.jpg",FW SOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE ON-AIR"tvg-logo=https://www.inwiptv.com/postor/20200512164154fwmov.jpg",FW TOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE Real Time",SUN
 https://tvonlineappitv.shortcm.li/san_kit.m3u8
 #EXTINF:-1 group-title="MOVIE Real Time",Samura
