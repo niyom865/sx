@@ -1,37 +1,34 @@
-#EXTM3U
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch373/" tvg-name="https://fifa55u.com/ballsod/ch373/" parent-code="https://fifa55u.com/ballsod/ch373/" audio-track="https://fifa55u.com/ballsod/ch373/" tvg-logo="https://fifa55u.com/images/icon/ch373.png" ,pl1
-https://fifa55u.com/ballsod/ch373/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch374/" tvg-name="https://fifa55u.com/ballsod/ch374/" parent-code="https://fifa55u.com/ballsod/ch374/" audio-track="https://fifa55u.com/ballsod/ch374/" tvg-logo="https://fifa55u.com/images/icon/ch374.png" ,pl2
-https://fifa55u.com/ballsod/ch374/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch375/" tvg-name="https://fifa55u.com/ballsod/ch375/" parent-code="https://fifa55u.com/ballsod/ch375/" audio-track="https://fifa55u.com/ballsod/ch375/" tvg-logo="https://fifa55u.com/images/icon/ch375.png" ,pl3
-https://fifa55u.com/ballsod/ch375/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch376/" tvg-name="https://fifa55u.com/ballsod/ch376/" parent-code="https://fifa55u.com/ballsod/ch376/" audio-track="https://fifa55u.com/ballsod/ch376/" tvg-logo="https://fifa55u.com/images/icon/ch376.png" ,pl4
-https://fifa55u.com/ballsod/ch376/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch377/" tvg-name="https://fifa55u.com/ballsod/ch377/" parent-code="https://fifa55u.com/ballsod/ch377/" audio-track="https://fifa55u.com/ballsod/ch377/" tvg-logo="https://fifa55u.com/ballsod/ch377/" ,pl5
-https://fifa55u.com/ballsod/ch377/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch026/" tvg-name="https://fifa55u.com/ballsod/ch026/" parent-code="https://fifa55u.com/ballsod/ch026/" audio-track="https://fifa55u.com/ballsod/ch026/" tvg-logo="https://fifa55u.com/images/icon/beinsporthd1.png" ,be1
-https://fifa55u.com/ballsod/ch026/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch027/" tvg-name="https://fifa55u.com/ballsod/ch027/" parent-code="https://fifa55u.com/ballsod/ch027/" audio-track="https://fifa55u.com/ballsod/ch027/" tvg-logo="https://fifa55u.com/images/icon/beinsporthd2.png" ,be2
-https://fifa55u.com/ballsod/ch027/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch032/" tvg-name="https://fifa55u.com/ballsod/ch032/" parent-code="https://fifa55u.com/ballsod/ch032/" audio-track="https://fifa55u.com/ballsod/ch032/" tvg-logo="https://fifa55u.com/images/icon/2sporthd1.png" ,thd1
-https://fifa55u.com/ballsod/ch032/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch033/" tvg-name="https://fifa55u.com/ballsod/ch033/" parent-code="https://fifa55u.com/ballsod/ch033/" audio-track="https://fifa55u.com/ballsod/ch033/" tvg-logo="https://fifa55u.com/images/icon/2sporthd2.png" ,thd2
-https://fifa55u.com/ballsod/ch033/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch034/" tvg-name="https://fifa55u.com/ballsod/ch034/" parent-code="https://fifa55u.com/ballsod/ch034/" audio-track="https://fifa55u.com/ballsod/ch034/" tvg-logo="https://fifa55u.com/images/icon/2sporthd3.png" ,thd3
-https://fifa55u.com/ballsod/ch034/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch039/" tvg-name="https://fifa55u.com/ballsod/ch039/" parent-code="https://fifa55u.com/ballsod/ch039/" audio-track="https://fifa55u.com/ballsod/ch039/" tvg-logo="https://fifa55u.com/images/icon/TrueSport5.png" ,t5
-https://fifa55u.com/ballsod/ch039/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch040/" tvg-name="https://fifa55u.com/ballsod/ch040/" parent-code="https://fifa55u.com/ballsod/ch040/" audio-track="https://fifa55u.com/ballsod/ch040/" tvg-logo="https://fifa55u.com/images/icon/TrueSport6.png" ,t6
-https://fifa55u.com/ballsod/ch040/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch042/" tvg-name="https://fifa55u.com/ballsod/ch042/" parent-code="https://fifa55u.com/ballsod/ch042/" audio-track="https://fifa55u.com/ballsod/ch042/" tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" ,tennis
-https://fifa55u.com/ballsod/ch042/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch043/" tvg-name="https://fifa55u.com/ballsod/ch043/" parent-code="https://fifa55u.com/ballsod/ch043/" audio-track="https://fifa55u.com/ballsod/ch043/" tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" ,nba
-https://fifa55u.com/ballsod/ch043/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch044/" tvg-name="https://fifa55u.com/ballsod/ch044/" parent-code="https://fifa55u.com/ballsod/ch044/" audio-track="https://fifa55u.com/ballsod/ch044/" tvg-logo="https://fifa55u.com/images/icon/GolfChannel.png" ,GolfChannel
-https://fifa55u.com/ballsod/ch044/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch083/" tvg-name="https://fifa55u.com/ballsod/ch083/" parent-code="https://fifa55u.com/ballsod/ch083/" audio-track="https://fifa55u.com/ballsod/ch083/" tvg-logo="https://fifa55u.com/images/icon/SkySportsFootball.png" ,SkySportsFootball
-https://fifa55u.com/ballsod/ch083/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch091/" tvg-name="https://fifa55u.com/ballsod/ch091/" parent-code="https://fifa55u.com/ballsod/ch091/" audio-track="https://fifa55u.com/ballsod/ch091/" tvg-logo="https://fifa55u.com/images/icon/BTSportESPN.png" ,BTSportESPN
-https://fifa55u.com/ballsod/ch091/
-#EXTINF:0 group-title="sport" tvg-id="https://fifa55u.com/ballsod/ch016/" tvg-name="https://fifa55u.com/ballsod/ch016/" parent-code="https://fifa55u.com/ballsod/ch016/" audio-track="https://fifa55u.com/ballsod/ch016/" tvg-logo="https://fifa55u.com/images/icon/true4u.png" ,true4u
-https://fifa55u.com/ballsod/ch016/
+{
+"name": "fifa",
+"author": "FERNADO",
+"image": "https://fifa55u.com/images/logo-1.png",
+"url": "",
+"info": "", "stations": 
+[ 
+{
+
+
+
+
+
+"name":"pl1",
+"image":"https://fifa55u.com/images/icon/ch373.png",
+"url":"https://fifa55u.com/ballsod/ch373/",
+"referer": "https://fifa55u.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+
+{
+
+"name":"pl1",
+"image":"https://fifa55u.com/images/icon/2sporthd2.png",
+"url":"https://fifa55u.com/ballsod/ch033/",
+"referer": "https://fifa55u.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+} 
+]
+}
+]
+}
