@@ -531,7 +531,7 @@ https://streaming.livescorethai.net/iptv/uk-freesports.stream/playlist.m3u8|User
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-bein1.png", hd-bein1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/sd-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-bein2.png", hd-bein2
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
@@ -661,8 +661,9 @@ https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/playlist.m3u8|Us
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeowild.jpg", natgeowild
-#EXTVLCOPT:http-referrer=https://fo1iptv.com/
-https://github.com/niyom865/sx/raw/main/t/t/t/t/f01/NCO%20W.m3u8|User-Agent=exoplayer_video&Referer=https://fo1iptv.com/
+#EXTVLCOPT:http-referrer=https://we-play.live/
+https://we-play.live/watching/tv/national-geographic
+|User-Agent=exoplayer_video&Referer=https://we-play.live/
 
 
 
@@ -671,8 +672,9 @@ https://github.com/niyom865/sx/raw/main/t/t/t/t/f01/NCO%20W.m3u8|User-Agent=exop
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-history2.png", history2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-referrer=https://we-play.live/
+https://we-play.live/watching/tv/history-h2
+|User-Agent=exoplayer_video&Referer=https://we-play.live/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-discovery.png", hd-discovery
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
@@ -680,30 +682,35 @@ https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|User-
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-discovery.png", sd-discovery
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/sd-discovery.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTVLCOPT:http-referrer=https://we-play.live/tv
+https://we-play.live/watching/tv/discovery-channel
+|User-Agent=exoplayer_video&Referer=https://we-play.live/tv
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/animal-planet.png", animal planet
-#EXTVLCOPT:http-referrer=https://fo1iptv.com/
-https://github.com/niyom865/sx/raw/main/t/t/t/t/f01/animal%20planet.m3u8|User-Agent=exoplayer_video&Referer=https://fo1iptv.com/
+#EXTVLCOPT:http-referrer=https://we-play.live/tv
+https://we-play.live/watching/tv/animal-planet
+|User-Agent=exoplayer_video&Referer=https://we-play.live/tv
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/tlc-hd.png", tlc
-#EXTVLCOPT:http-referrer=https://fo1iptv.com/
-https://github.com/niyom865/sx/raw/main/t/t/t/t/f01/TLC.m3u8|User-Agent=exoplayer_video&Referer=https://fo1iptv.com/
+#EXTVLCOPT:http-referrer=https://we-play.live/tv
+https://we-play.live/watching/tv/tlc-hd
+|User-Agent=exoplayer_video&Referer=https://we-play.live/tv
 
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", expwild
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://www.streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://www.streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
+|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", sd-explife
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://www.streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-expwild.png", sd-expwild
+#EXTVLCOPT:http-referrer=https://overseer.blackboxsys.net/
+https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f
+|User-Agent=exoplayer_video&Referer=https://overseer.blackboxsys.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", sd-expsci
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
