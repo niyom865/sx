@@ -190,7 +190,7 @@ http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1306560506.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch3.png",  ch3
 #EXTVLCOPT:http-referrer=https://ch3plus.com/live
-https://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1643196990&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=pStMM3JjjvYwcL6BBgLCBw
+https://ch3plus.com/live?jwsource=cl 
 |User-Agent=vlc&Referer=https://ch3plus.com/live
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch8.png",  ch8
@@ -220,9 +220,9 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access
 |User-Agent=vlc&Referer=https://thaipbs-live.cdn.byteark.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-mcot.png",mcot
-#EXTVLCOPT:http-referrer=https://stream-01.sg1.dailymotion.com/
-https://stream-01.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xlQL2MT4JEZ1B3ASIfBPepY)/dm/3/x74wlgj/s/live-2.m3u8#cell=lsg1
-|User-Agent=vlc&Referer=https://stream-01.sg1.dailymotion.com/
+#EXTVLCOPT:http-referrer=https://tv.mcot.net/mcothd
+https://tv.mcot.net/mcothd
+|User-Agent=vlc&Referer=https://tv.mcot.net/mcothd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nbt.png",nbt
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
