@@ -189,9 +189,9 @@ http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1306560506.m3u8
 |User-Agent=vlc&Referer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch3.png",  ch3
-#EXTVLCOPT:http-referrer=https://ch3plus.com/live
-https://ch3plus.com/live?jwsource=cl 
-|User-Agent=vlc&Referer=https://ch3plus.com/live
+#EXTVLCOPT:http-referrer=https://we-play.live/watching/tv/ch3-hd
+https://we-play.live/watching/tv/ch3-hd
+|User-Agent=vlc&Referer=https://we-play.live/watching/tv/ch3-hd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch8.png",  ch8
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
@@ -220,9 +220,9 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access
 |User-Agent=vlc&Referer=https://thaipbs-live.cdn.byteark.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-mcot.png",mcot
-#EXTVLCOPT:http-referrer=https://tv.mcot.net/mcothd
-https://tv.mcot.net/mcothd
-|User-Agent=vlc&Referer=https://tv.mcot.net/mcothd
+#EXTVLCOPT:http-referrer=https://we-play.live/watching/tv/mcot-hd
+https://we-play.live/watching/tv/mcot-hd
+|User-Agent=vlc&Referer=https://we-play.live/watching/tv/mcot-hd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nbt.png",nbt
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
@@ -688,13 +688,13 @@ https://we-play.live/watching/tv/discovery-channel
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/animal-planet.png", animal planet
+#EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg", animal planet
 #EXTVLCOPT:http-referrer=https://we-play.live/tv
 https://we-play.live/watching/tv/animal-planet
 |User-Agent=exoplayer_video&Referer=https://we-play.live/tv
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/tlc-hd.png", tlc
+#EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg", tlc
 #EXTVLCOPT:http-referrer=https://we-play.live/tv
 https://we-play.live/watching/tv/tlc-hd
 |User-Agent=exoplayer_video&Referer=https://we-play.live/tv
@@ -1412,4 +1412,62 @@ https://ilike.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8
 |User-Agent=exoplayer_video&Referer=https://livescorethai.net
+
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704752.jpeg" ,film-hd
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/true-film-hd
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704607.jpeg" ,ccm
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/ccm 
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704657.jpeg" ,xzyte
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/true-xzyte
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704673.jpeg" ,thai-film
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/true-thai-film
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/true-movie-hits-poster.jpg" ,movie-hits
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/true-movie-hits
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/true-chinese-more-poster.jpg" ,chinese-more
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/true-chinese-more
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/true-asian-more-poster.jpg" ,asian-more
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/true-asian-more
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/true-korean-more-poster.jpg" ,korean-more
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/true-korean-more
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/fashion-tv-poster.jpg" ,fashion-tv
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/fashion-tv
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704689.jpeg" ,hits
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/hits
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704685.jpeg" ,hits-movies
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/hits-movies
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704632.jpeg" ,paramount-channel
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/paramount-channel
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704746.jpeg" ,warner-tv
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/warner-tv
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+#EXTINF:0 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704538.jpeg" ,axn-hd
+#EXTVLCOPT:http-referrer=https://www.we-play.live/
+https://www.we-play.live/watching/tv/axn-hd
+|User-Agent=exoplayer_video&Referer=https://www.we-play.live/
+
 
