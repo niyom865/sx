@@ -1476,7 +1476,7 @@ https://www.warpfootball.games/live/?ch=truesporthd2
 |User-Agent=exoplayer_video&Referer=https://www.warpfootball.games/
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png" ,truesporthd
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/truesporthd
-|User-Agent=exoplayer_video&Referer=https://www.doofootball.com/
+#EXTVLCOPT:http-referrer=https://ball365.co/
+https://ball365.co/channel/?id=truesporthd
+|User-Agent=exoplayer_video&Referer=https://ball365.co/
 
