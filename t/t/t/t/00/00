@@ -303,23 +303,20 @@ https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|User-Age
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",FoxSport HD  
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/foxsports1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",truesporthd1
+#EXTVLCOPT:http-referrer=https://livecdn.fptplay.net/
+https://livecdn.fptplay.net/qnetlive/truesporthd2_2000.stream/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://livecdn.fptplay.net/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd2.jpg",truesporthd2
+#EXTVLCOPT:http-referrer=https://livecdn.fptplay.net/
+https://livecdn.fptplay.net/qnetlive/truesporthd3_2000.stream/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://livecdn.fptplay.net/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",FoxSport HD  
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",FoxSport 2  
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",FoxSport 3  
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-
-
- #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210219104634_btsport1.jpg",btsport 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg",truesporthd3
+#EXTVLCOPT:http-referrer=https://livecdn.fptplay.net/
 https://livecdn.fptplay.net/qnetlive/truesporthd_2000.stream/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://livecdn.fptplay.net/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png",ch3
@@ -725,242 +722,335 @@ https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f
 https://www.streaming.livescorethai.net/iptv/sd-expsci.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/thaipbs.png", tpbs
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-tpbs.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/nbt.png", nbt
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
+#EXTVLCOPT:http-referrer=https://ilike.livedoomovie.com/
+https://ilike.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://ilike.livedoomovie.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/gmm25.png", gmmchannel
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png",TPF2  
+#EXTVLCOPT:http-referrer=https://sport.livedoomovie.com/
+https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://sport.livedoomovie.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/pptv.png", pptv
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png", thairath
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-thairath.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-3.png",TPF3  
+#EXTVLCOPT:http-referrer=https://sport.livedoomovie.com/
+https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://sport.livedoomovie.com/ 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-nbt.png", sd-nbt
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png",TPF4  
+#EXTVLCOPT:http-referrer=https://sport.livedoomovie.com/
+https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://sport.livedoomovie.com/ 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png", hd-amarin
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-5.png",TPF5  
+#EXTVLCOPT:http-referrer=https://sport.livedoomovie.com/
+https://sport.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://sport.livedoomovie.com/ 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch3.png", hd-ch3
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-ch3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/epl-bein1.png",bein1 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch5.png", hd-ch5
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png", hd-ch7
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-ch7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/epl-bein2.png",bein2 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png", hd-gmmone
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-gmmone.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport1.png",hd-tsport1 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mcot.png", hd-mcot
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png", hd-mono
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-thairath.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport2.png",hd-tsport2 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-nation.png", sd-nation
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-nation.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-new.png", sd-new
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-new.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport3.png",hd-tsport3 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tptv.png", sd-tptv
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-tptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport4.png",hd-tsport4 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tnn24.png", sd-tnn24
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png", sd-24u
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-tsport5.png",tsport5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-voice.png", sd-voice
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-voice.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png", hd-workpoint
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-workpoint.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-tsport7.png",tsport7
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-spotv1.png",spotv1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8 
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-spotv2.png",spotv2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tennis.png",tennis
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-discovery.png", discovery
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-golf.png",golf
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-discovery.png",sd discovery
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-nba.png",nba
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_nbahd_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-bbcearth.png",bbcearth
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/nfl-network.png",nfl
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_NFLNetwork_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-bbclifestyle.png",bbcearth
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/uk-btsport1.jpg",btsport1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-history.png",history
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/uk-btsport2.jpg",btsport2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-natgeo.png",hd-natgeo
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",sporthd3
-#EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd3
- https://www.ball24.tv/allchannel/?id=truesporthd3
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.ball24.tv/allchannel/?id=truesporthd3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-sporttv1.jpg",sporttv1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",epl1
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-sporttv2.jpg",sporttv2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/pptv.png",pptv
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-sporttv3.jpg",sporttv3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",epl2
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-sporttv4.jpg",sporttv4
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",epl3
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",epl4
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-sporttv5.jpg",sporttv5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",epl5
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-discovery.png",hd-discovery
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_DiscoveryHDWorld/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",truesporthd
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-discovery.png",discovery
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_DiscoveryChannel/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd2.png",truesporthd2
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd3.png",truesporthd3
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-animalplanet.png",animal
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",truesporthd4
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein1.png",ukepl1
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-history.png",history
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_HISTORYHD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein2.png",ukepl2
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-history2.png",history2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport1fr.png",fr-bein1hd
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/fr-bein1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-natgeowild.jpg",natgeowild
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_NatGeoWild_TH_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport2fr.png",fr-bein2hd
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/fr-bein2hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport2fr.png",fr-bein3hd
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/fr-bein3hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-natgeo.png",natgeo
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_NatGeoHD_TH_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-expwild.png",expwild
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://we-play.live/watching/tv/lovenature-4k
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
 
- #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport1
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052119-TLC.png",TLC
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://we-play.live/watching/tv/tlc-hd
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport2
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch3.png",3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_3HD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",btsport3
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
- #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportfootball.png",skysportfootball
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch5.png",5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
- #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportfootball.png",skysportfootball
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch7.png",7
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_7HD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png",skysportmainevent
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch8.png",8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_8HD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportpremiere.png",skysportpremiere
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-skysports-arena.png",skysportarena
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-mcot.png",mcot
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_MCOTHD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmix.png",skysportmix
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-mix.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportaction.png",skysportaction
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-nbt.png",nbt
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_NBTSD_480p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-tpbs.png",tpbs
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_THAIPBS_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-thairath.png",thairath
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_THAIRATH_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-pptv.png",pptv
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-amarin.png",amarin
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-gmmchannel.png",gmm
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_GMM_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-gmmone.png",one
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_GMMONE_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-workpoint.png",workpoint
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-tnn24.png",tnn24
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_TNN24_480p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-mono.png",mono 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_MONO_720p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-nation.png",nation
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://we-play.live/watching/tv/nationtv
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.topnews.co.th/2022/03/cropped-Logo-TOP-NEWS-100x100-1.jpg",TOP-NEWS
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://live.topnews.co.th/hls/topnews.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/JKN.png",JKN
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_JKN_480p/chunklist.m3u8
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-24u.png",24u
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://we-play.live/watching/tv/true4u
+|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",sporthd2
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/allchannel/?id=truesporthd3
