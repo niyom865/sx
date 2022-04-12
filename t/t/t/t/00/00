@@ -68,25 +68,25 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exo
  
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png", pl1
-#EXTVLCOPT:http-referrer=https://eiei.livedoomovie.com:4432/
-https://eiei.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://eiei.livedoomovie.com:4432/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/151/Premier-Football-HD-1-151/37937.html|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png", pl2
-#EXTVLCOPT:http-referrer=https://eiei.livedoomovie.com:4432/
-https://eiei.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://eiei.livedoomovie.com:4432/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/152/Premier-Football-HD-2-152/37939.html|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png", pl3
-#EXTVLCOPT:http-referrer=https://eiei.livedoomovie.com:4432/
-https://eiei.livedoomovie.com:4432/02_PremierHD3_720p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://eiei.livedoomovie.com:4432/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/153/Premier-Football-HD-3-153/37941.html|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png", pl4
-#EXTVLCOPT:http-referrer=https://eiei.livedoomovie.com:4432/
-https://eiei.livedoomovie.com:4432/02_PremierHD4_720p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://eiei.livedoomovie.com:4432/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/154/Premier-Football-HD-4-154/37943.html|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png", pl5
-#EXTVLCOPT:http-referrer=https://eiei.livedoomovie.com:4432/
-https://eiei.livedoomovie.com:4432/02_PremierHD5_720p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://eiei.livedoomovie.com:4432/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/155/Premier-Football-HD-5-155/37945.html|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",truesporthd1
@@ -178,10 +178,10 @@ https://we-play.live/watching/tv/astro-supersport-4|User-Agent=vlc&Referer=https
 http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1774381709.m3u8
 |User-Agent=vlc&Referer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch5.png",  ch7
-#EXTVLCOPT:http-referrer=https://bcovlive-a.akamaihd.net/
-https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_2/chunklist.m3u8
-|User-Agent=vlc&Referer=https://bcovlive-a.akamaihd.net/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch7.png",  ch7
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/3/CH7-HD-3/37806.html
+|User-Agent=vlc&Referer=https://www.ilike-movie.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch5.png",  ch5
 #EXTVLCOPT:http-referrer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
@@ -304,19 +304,25 @@ https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|User-Age
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",truesporthd1
-#EXTVLCOPT:http-referrer=https://livecdn.fptplay.net/
-https://livecdn.fptplay.net/qnetlive/truesporthd2_2000.stream/chunklist.m3u8
-|User-Agent=exoplayer_video&Referer=https://livecdn.fptplay.net/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/22/TRUE-SPORT-HD1-22/37825.html
+|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd2.jpg",truesporthd2
-#EXTVLCOPT:http-referrer=https://livecdn.fptplay.net/
-https://livecdn.fptplay.net/qnetlive/truesporthd3_2000.stream/chunklist.m3u8
-|User-Agent=exoplayer_video&Referer=https://livecdn.fptplay.net/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/23/TRUE-SPORT-HD2-23/37829.html
+|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg",truesporthd3
-#EXTVLCOPT:http-referrer=https://livecdn.fptplay.net/
-https://livecdn.fptplay.net/qnetlive/truesporthd_2000.stream/chunklist.m3u8
-|User-Agent=exoplayer_video&Referer=https://livecdn.fptplay.net/
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/24/TRUE-SPORT-HD3-24/37830.html
+|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-tsport4.png",truesporthd4
+#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
+https://www.ilike-movie.com/player/c/116/TRUE-SPORT-HD4-116/37907.html
+|User-Agent=exoplayer_video&Referer=https://www.ilike-movie.com/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png",ch3
