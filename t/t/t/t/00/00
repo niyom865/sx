@@ -1589,28 +1589,29 @@ https://www.warpfootball.games/live/?ch=truesporthd2
 https://ball365.co/channel/?id=truesporthd
 |User-Agent=exoplayer_video&Referer=https://ball365.co/
 
-#EXTINF:0 group-title="ดหนังอิอิ" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl1.png" ,tp1
+#EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl1.png" ,tp1
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
-https://www.ดูหนังอิอิ.com/player/c/151/Premier-Football-HD-1-151/37937.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+https://eiei.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36&Referer=https://www.ดูหนังอิอิ.com/
+
 
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl2.png" ,tp2
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
 https://www.ดูหนังอิอิ.com/player/c/152/Premier-Football-HD-2-152/37939.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+|User-Agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36&Referer=https://www.ดูหนังอิอิ.com/
 
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl3.png" ,tp3
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
 https://www.ดูหนังอิอิ.com/player/c/153/Premier-Football-HD-3-153/37941.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+|User-Agent=vlc&Referer=https://www.ดูหนังอิอิ.com/player/c/153/Premier-Football-HD-3-153/37941.html
 
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl4.png" ,tp4
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
 https://www.ดูหนังอิอิ.com/player/c/154/Premier-Football-HD-4-154/37943.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+|User-Agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36&Referer=https://www.ดูหนังอิอิ.com/
 
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl5.png" ,tp5
@@ -1621,26 +1622,27 @@ https://www.ดูหนังอิอิ.com/player/c/155/Premier-Football-HD-
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport1.png" ,THD1
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
-https://www.ดูหนังอิอิ.com/player/c/22/TRUE-SPORT-HD1-22/37825.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+https://eiei.livedoomovie.com:4432/02_2sporthd1_720p/chunklist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36&Referer=https://www.ดูหนังอิอิ.com/
 
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport2.png" ,THD2
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
-https://www.ดูหนังอิอิ.com/player/c/23/TRUE-SPORT-HD2-23/37829.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+https://eiei.livedoomovie.com:4432/02_2sporthd2_720p/chunklist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36&Referer=https://www.ดูหนังอิอิ.com/
 
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport3.png" ,THD3
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
-https://www.ดูหนังอิอิ.com/player/c/24/TRUE-SPORT-HD3-24/37830.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+https://eiei.livedoomovie.com:4432/02_2sporthd3_720p/chunklist.m3u8
+|User-Agent=vlc&Referer=https://eiei.livedoomovie.com:4432/03_2sporthd2_720p/chunklist.m3u8
 
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport4.png" ,THD4
 #EXTVLCOPT:http-referrer=https://www.ดูหนังอิอิ.com/
 https://www.ดูหนังอิอิ.com/player/c/116/TRUE-SPORT-HD4-116/37907.html
-|User-Agent=exoplayer_video&Referer=https://www.ดูหนังอิอิ.com/
+|User-Agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36&Referer=https://www.ดูหนังอิอิ.com/
+
 
 
 
