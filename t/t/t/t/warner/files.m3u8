@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:0
-#EXT-X-STREAM-INF:BANDWIDTH=2721872,RESOLUTION=1280x720,CODECS="avc1.42e01f"
-http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
