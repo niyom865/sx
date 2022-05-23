@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="tha",NAME="Thai",DEFAULT=YES,AUTOSELECT=YES,URI="https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b65536_ao_sltha_t64VGhhaQ==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="Original",DEFAULT=NO,AUTOSELECT=NO,URI="https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b65536_ao_sltha_t64VGhhaQ==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE"
-#EXT-X-STREAM-INF:BANDWIDTH=818380,NAME="Main",CODECS="avc1.42001e,mp4a.40.2",RESOLUTION=640x360,CLOSED-CAPTIONS=NONE,AUDIO="aac"
-https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b818380_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE
- 
+#EXT-X-MEDIA-SEQUENCE:432642
+#EXT-X-TARGETDURATION:8
+#EXTINF:8.080,
+https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b818380_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE 
+#EXTINF:8.000,
+https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b65536_ao_sltha_t64VGhhaQ==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE
