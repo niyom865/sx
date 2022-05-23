@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:94928
 #EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b818380_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE",KEYFORMATVERSIONS="1"
+#EXT-X-KEY:METHOD=AES-128,URI="https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b818380_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE 
 #EXTINF:4.0,
 https://cdn093.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w815374196_b818380_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e785dc828b&did=MTY1MzI3MTE0Mg&mpass=2uSxoyCLZep-UyhkGfK0m92Kxf4GHdcvBbxQWO7TJwbzGFBZ-eFjCWhqtNBUaK5nZviF9ncbiTeNLnf6aHO352E4p9w1eYjP-e9fInv7QeY6OoBNQY0IySyfCWhQPgRGTHI&sid=4e3d3ce58a&rt=1653271142&tk=-BXWVPd4-ewomDBwsBzjcRqmjEy2ygu5Js1nAQgVhLE
 #EXTINF:4.0,
