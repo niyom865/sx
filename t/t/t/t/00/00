@@ -183,30 +183,33 @@ https://live.andaman888th.com/live/foxsports2/playlist.m3u8|User-Agent=vlc&Refer
 https://live.andaman888th.com/live/foxsports3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095258_sporttv1.jpg",sporttv1
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/astro-supersport-1|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/sporttv1#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg",sporttv2
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/astro-supersport-2|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/sporttv2#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095347_sporttv3.jpg",sporttv 3
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/astro-supersport-3|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/sporttv3#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",sporttv 4
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/astro-supersport-4|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/sporttv4#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-sporttv5.jpg",sporttv 5
-#EXTVLCOPT:http-referrer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1774381709.m3u8
-|User-Agent=vlc&Referer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
+ 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch7.png",  ch7
-#EXTVLCOPT:http-referrer=https://www.ilike-movie.com/
-https://www.ilike-movie.com/player/c/3/CH7-HD-3/37806.html
-|User-Agent=vlc&Referer=https://www.ilike-movie.com/
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/7hd#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch5.png",  ch5
 #EXTVLCOPT:http-referrer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
@@ -214,79 +217,89 @@ http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1306560506.m3u8
 |User-Agent=vlc&Referer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch3.png",  ch3
-#EXTVLCOPT:http-referrer=https://we-play.live/watching/tv/ch3-hd
-https://we-play.live/watching/tv/ch3-hd
-|User-Agent=vlc&Referer=https://we-play.live/watching/tv/ch3-hd
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/3hd#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch8.png",  ch8
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/ch8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/ch8#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-workpoint.png",workpoint
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/workpoint|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/workpoint#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nation.png",nation
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/nationtv|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/nation#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-amarin.png",amarin
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://nj2yx-gbi9-cdf5.googlecdncontent.com/andaman888th_digitaltv/amarin/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/amarin#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-thairath.png",thairath
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/amarin-tv|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/thairath#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tpbs.png",tpbs
-#EXTVLCOPT:http-referrer=https://thaipbs-live.cdn.byteark.com/
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_id=fleet-37&x_ark_auth_type=ark-v2&x_ark_expires=1685842308&x_ark_path_prefix=%2F&x_ark_signature=x5mXvRW_TRflsKAf9m5Rvw
-|User-Agent=vlc&Referer=https://thaipbs-live.cdn.byteark.com/
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/thaipbs#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-mcot.png",mcot
-#EXTVLCOPT:http-referrer=https://we-play.live/watching/tv/mcot-hd
-https://we-play.live/watching/tv/mcot-hd
-|User-Agent=vlc&Referer=https://we-play.live/watching/tv/mcot-hd
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/mcot#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nbt.png",nbt
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/11-nbt|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/nbt#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-24u.png",true4u
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/true4u|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/true4u#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-24u.png",true4u
-#EXTVLCOPT:http-referrer=https://true4u.com/
-https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8|User-Agent=vlc&Referer=https://true4u.com/
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-pptv.png",pptv
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/pptv-hd|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/pptv#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-tnn24.png",tnn
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-tnn24.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",gmm25
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/gmm25|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052036-gmm25.png",gmm25
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/gmm25#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",one
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/one-hd|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",mono
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/mono29|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="hhttps://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052055-one31.png",one
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/onehd#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",new
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://we-play.live/watching/tv/jkn-18|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-124029-tv-station_Mono29.png",mono
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/mono29#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210730-015859-JKN18%20logo.png",new
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/newtv#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 
 
@@ -453,7 +466,7 @@ https://streaming.livescorethai.net/iptv/sd-tptv.stream/playlist.m3u8|User-Agent
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesporthd.png",true4u
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+https://streaming.livescorethai.net/iptv/sd-24u.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
  #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportfootball.png", skysports-football
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
@@ -688,52 +701,62 @@ https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/playlist.m3u8|Us
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeo.png", natgeo
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/natgeo#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeowild.jpg", natgeowild
-#EXTVLCOPT:http-referrer=https://we-play.live/
-https://we-play.live/watching/tv/national-geographic
-|User-Agent=exoplayer_video&Referer=https://we-play.live/
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/foodnetwork#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-history.png", history
-#EXTVLCOPT:http-referrer=https://we-play.live/
-https://we-play.live/watching/tv/history-hd|User-Agent=exoplayer_video&Referer=https://we-play.live/
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/history#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-history.png", history
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-history2.png", history2
-#EXTVLCOPT:http-referrer=https://we-play.live/
-https://we-play.live/watching/tv/history-h2
-|User-Agent=exoplayer_video&Referer=https://we-play.live/
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.livedoomovies.com/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-discovery.png", hd-discovery
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-discovery.png", hd-discovery
-#EXTVLCOPT:http-referrer=https://we-play.live/
-https://we-play.live/watching/tv/discovery-asia|User-Agent=exoplayer_video&Referer=https://we-play.live/
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/discoveryasia#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-discovery.png", sd-discovery
-#EXTVLCOPT:http-referrer=https://we-play.live/tv
-https://we-play.live/watching/tv/discovery-channel
-|User-Agent=exoplayer_video&Referer=https://we-play.live/tv
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/discovery#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg", animal planet
-#EXTVLCOPT:http-referrer=https://we-play.live/tv
-https://we-play.live/watching/tv/animal-planet
-|User-Agent=exoplayer_video&Referer=https://we-play.live/tv
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/animalplanet#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg", tlc
-#EXTVLCOPT:http-referrer=https://we-play.live/tv
-https://we-play.live/watching/tv/tlc-hd
-|User-Agent=exoplayer_video&Referer=https://we-play.live/tv
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/tlc#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
+
 
 
 
@@ -743,14 +766,18 @@ https://we-play.live/watching/tv/tlc-hd
 https://www.streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
 |User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-expwild.png", sd-expwild
-#EXTVLCOPT:http-referrer=https://overseer.blackboxsys.net/
-https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f
-|User-Agent=exoplayer_video&Referer=https://overseer.blackboxsys.net/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png", explore-sci
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/truesci#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png", sd-expsci
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://www.streaming.livescorethai.net/iptv/sd-expsci.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/sd-explife.png", sd-explife
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/truelife#main_dootv
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
