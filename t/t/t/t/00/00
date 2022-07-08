@@ -701,6 +701,11 @@ https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/playlist.m3u8|Us
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeo.png", natgeo
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeo.png", natgeo
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/
 https://www.doofootball.com/dootv/live/natgeo#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
