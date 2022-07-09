@@ -711,6 +711,11 @@ https://www.doofootball.com/dootv/live/natgeo#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeowild.jpg", natgeowild
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeowild.jpg", natgeowild
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/
 https://www.doofootball.com/dootv/live/foodnetwork#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
@@ -730,6 +735,11 @@ https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|User-Ag
 https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.livedoomovies.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-history2.png", history2
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-history2.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-discovery.png", hd-discovery
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
@@ -746,8 +756,15 @@ https://www.doofootball.com/dootv/live/discoveryasia#main_dootv
 https://www.doofootball.com/dootv/live/discovery#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-discovery.png", sd-discovery
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-discovery.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
 
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/hd-natgeopeople.jpg", natgeopeople
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg", animal planet
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/
@@ -1568,3 +1585,27 @@ https://www.doofootball.com/dootv/live/fashiontv#main_dootv
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/ 
 https://www.doofootball.com/dootv/live/afc#main_dootv
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&Referer=https://www.doofootball.com/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-hbo.jpg", hbo
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-hbohits.jpg", hbohit
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-hbohitseng.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-hbosignature.jpg", hbosig
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-hbosigeng.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-family.png", hbofam
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-hbofameng.stream/playlist.m3u8
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://streaming.livescorethai.net/
+
