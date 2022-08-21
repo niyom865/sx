@@ -42,14 +42,26 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png", epl-1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png", epl-1
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png", epl-2
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png", epl-2
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
  
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png", epl-3
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png", epl-3
@@ -148,20 +160,18 @@ https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport1.jpg",btsport1
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/btsport1#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport2.jpg",btsport2
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/btsport2#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg",btsport3
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/btsport3#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121213-tv-station_BT-Sport-ESPN-(UK).png",espn
 #EXTVLCOPT:http-referrer=https://www.doofootball.com/
