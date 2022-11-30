@@ -1,0 +1,529 @@
+{ "name": "https://niyom.com/",
+"image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/tv%20dijital2.png",
+"stations": [
+
+{ "name": "thairath", "image": "https://dl.dropbox.com/s/f3ivcme1v0p2xdb/thairath32.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27138","userAgent": "exoplayer_video"
+ },
+{
+"name":"thairath",
+"author": "",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I3eAiKpqFr4W-gI_myKaPgbBb7Mkge7-tEK5nBUBDkRWXY3StmoatZYgiJ-90UZj0RjnTH7ue4yLt59zMN4B39VZ4ea_7pbiwMPWqDAnIW5wErMoE1wfn0PgkL3ZM_mItv6lKpMvFZFnmKhJpwW8AvzPaqqbDd3MpBDE-12dDFmlNCB0jIK2iwcyWA/s1600/ช่องไทยรัฐ.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-thairath.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"thairath",
+"author": "",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I3eAiKpqFr4W-gI_myKaPgbBb7Mkge7-tEK5nBUBDkRWXY3StmoatZYgiJ-90UZj0RjnTH7ue4yLt59zMN4B39VZ4ea_7pbiwMPWqDAnIW5wErMoE1wfn0PgkL3ZM_mItv6lKpMvFZFnmKhJpwW8AvzPaqqbDd3MpBDE-12dDFmlNCB0jIK2iwcyWA/s1600/ช่องไทยรัฐ.png",
+"url":"https://www.doofootball.com/dootv/live/thairath#main_dootv",
+"referer": "https://streaming.livescorethai.net/","embed": "true"
+},
+{
+"name":"thairath",
+"author": "",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I3eAiKpqFr4W-gI_myKaPgbBb7Mkge7-tEK5nBUBDkRWXY3StmoatZYgiJ-90UZj0RjnTH7ue4yLt59zMN4B39VZ4ea_7pbiwMPWqDAnIW5wErMoE1wfn0PgkL3ZM_mItv6lKpMvFZFnmKhJpwW8AvzPaqqbDd3MpBDE-12dDFmlNCB0jIK2iwcyWA/s1600/ช่องไทยรัฐ.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-thairath&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "3 HD", "image": "https://sv1.picz.in.th/images/2021/02/14/oR6v31.md.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27137","userAgent": "exoplayer_video" 
+},
+{
+"name":"3 HD",
+"author": "",
+"image":"https://sv1.picz.in.th/images/2021/02/14/oR6v31.md.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-ch3.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"3 HD",
+"author": "",
+"image":"https://sv1.picz.in.th/images/2021/02/14/oR6v31.md.png",
+"url":"https://www.doofootball.com/dootv/live/3hd#main_dootv",
+"referer": "https://streaming.livescorethai.net/","embed": "true"
+},
+{
+"name":"3 HD",
+"author": "",
+"image":"https://sv1.picz.in.th/images/2021/02/14/oR6v31.md.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "amarin tv", "image": "https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27135","userAgent": "exoplayer_video" 
+},
+{
+"name":"amarin tv",
+"author": "",
+"image":"https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-amarin.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"amarin tv",
+"author": "",
+"image":"https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png",
+"url":"https://www.doofootball.com/dootv/live/amarin#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"amarin tv",
+"author": "",
+"image":"https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "7 HD", "image": "https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27132","userAgent": "exoplayer_video" 
+},
+{
+"name":"7 HD",
+"author": "",
+"image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-ch7.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"7 HD",
+"author": "",
+"image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png",
+"url":"https://www.doofootball.com/dootv/live/7hd#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"7 HD",
+"author": "",
+"image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-ch7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "mono29", "image": "https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27144","userAgent": "exoplayer_video"  
+},
+{
+"name":"mono29",
+"author": "",
+"image":"https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-mono.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"mono29",
+"author": "",
+"image":"https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png",
+"url":"https://www.doofootball.com/dootv/live/mono29#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"mono29",
+"author": "",
+"image":"https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-mono&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "mcot", "image": "https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27141","userAgent": "exoplayer_video"  
+},
+{
+"name":"mcot",
+"author": "",
+"image":"https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-mcot.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"mcot",
+"author": "",
+"image":"https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png",
+"url":"https://www.doofootball.com/dootv/live/mcot#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"mcot",
+"author": "",
+"image":"https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-mcot&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+
+{ "name": "one", "image": "https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27140","userAgent": "exoplayer_video"  
+},
+{
+"name":"one",
+"author": "",
+"image":"https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-gmmone.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"one",
+"author": "",
+"image":"https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png",
+"url":"https://www.doofootball.com/dootv/live/onehd#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"one",
+"author": "",
+"image":"https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+
+{ "name": "workkpoint", "image": "https://dl.dropbox.com/s/1mslk458kzyapvz/workpoint1.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27159","userAgent": "exoplayer_video"  
+},
+{
+"name":"workkpoint",
+"author": "",
+"image":"https://dl.dropbox.com/s/1mslk458kzyapvz/workpoint1.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-workpoint.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"workkpoint",
+"author": "",
+"image":"https://dl.dropbox.com/s/1mslk458kzyapvz/workpoint1.png",
+"url":"https://www.doofootball.com/dootv/live/workpoint#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"workkpoint",
+"author": "",
+"image":"https://dl.dropbox.com/s/1mslk458kzyapvz/workpoint1.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+
+{ "name": "true4u", "image": "https://dl.dropbox.com/s/yg2hq9y3s3nlo44/unnamed.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27156","userAgent": "exoplayer_video" 
+},
+{
+"name":"true4u",
+"author": "",
+"image":"https://dl.dropbox.com/s/yg2hq9y3s3nlo44/unnamed.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-24u.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"true4u",
+"author": "",
+"image":"https://dl.dropbox.com/s/yg2hq9y3s3nlo44/unnamed.png",
+"url":"https://www.doofootball.com/dootv/live/thaipbs#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"true4u",
+"author": "",
+"image":"https://dl.dropbox.com/s/yg2hq9y3s3nlo44/unnamed.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-24u&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "gmm 25", "image": "https://dl.dropbox.com/s/53vkdyekoyx2pnm/GMM25.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27153","userAgent": "exoplayer_video"  
+},
+{
+"name":"gmm 25",
+"author": "",
+"image":"https://dl.dropbox.com/s/53vkdyekoyx2pnm/GMM25.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-gmmchannel.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"gmm 25",
+"author": "",
+"image":"https://dl.dropbox.com/s/53vkdyekoyx2pnm/GMM25.png",
+"url":"https://www.doofootball.com/dootv/live/gmm25#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"gmm 25",
+"author": "",
+"image":"https://dl.dropbox.com/s/53vkdyekoyx2pnm/GMM25.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "ch 8", "image": "https://dl.dropbox.com/s/tnrkd91612f0iso/CH8-1.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27147","userAgent": "exoplayer_video" 
+},
+{
+"name":"ch 8",
+"author": "",
+"image":"https://dl.dropbox.com/s/tnrkd91612f0iso/CH8-1.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-ch8.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"ch 8",
+"author": "",
+"image":"https://dl.dropbox.com/s/tnrkd91612f0iso/CH8-1.png",
+"url":"https://www.doofootball.com/dootv/live/ch8#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"ch 8",
+"author": "",
+"image":"https://dl.dropbox.com/s/tnrkd91612f0iso/CH8-1.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "5 HD", "image": "https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27190","userAgent": "exoplayer_video"  
+},
+{
+"name":"5 HD",
+"author": "",
+"image":"https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-ch5.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"5 HD",
+"author": "",
+"image":"https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png",
+"url":"https://www.doofootball.com/dootv/live/5hd#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"5 HD",
+"author": "",
+"image":"https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"5 HD",
+"author": "",
+"image":"https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png",
+"url":"http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php",
+"referer": "http://tv5.co.th/",
+playInNatPlayer: "true"
+},
+
+{ "name": "nbt", "image": "https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27189","userAgent": "exoplayer_video"  
+},
+{
+"name":"nbt",
+"author": "",
+"image":"https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-nbt.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"nbt",
+"author": "",
+"image":"https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png",
+"url":"https://www.doofootball.com/dootv/live/nbt#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"nbt",
+"author": "",
+"image":"https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-nbt&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+
+
+{ "name": "thai pbs", "image": "https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27188","userAgent": "exoplayer_video" 
+},
+{
+"name":"thai pbs",
+"author": "",
+"image":"https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tpbs.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"thai pbs",
+"author": "",
+"image":"https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png",
+"url":"https://www.doofootball.com/dootv/live/nbt#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"thai pbs",
+"author": "",
+"image":"https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tpbs&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+{ "name": "TPTV", "image": "https://dl.dropbox.com/s/5r3uztgopkhls3x/TPTV.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27186","userAgent": "exoplayer_video" 
+}, 
+{
+"name":"TPTV",
+"author": "",
+"image":"https://dl.dropbox.com/s/5r3uztgopkhls3x/TPTV.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-tptv.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"tsports",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-120524-tv-station_TSports-Channels.png",
+"url":"https://www.doofootball.com/dootv/live/tsports#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"TPTV",
+"author": "",
+"image":"https://dl.dropbox.com/s/5r3uztgopkhls3x/TPTV.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tptv.&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+
+{ "name": "tnn16", "image": "https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27179","userAgent": "exoplayer_video"   
+},
+{
+"name":"tnn16",
+"author": "",
+"image":"https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-tnn24.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"tnn16",
+"author": "",
+"image":"https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png",
+"url":"https://www.doofootball.com/dootv/live/tnn#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"tnn16",
+"author": "",
+"image":"https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tnn24.&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "nation", "image": "https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27162","userAgent": "exoplayer_video" 
+},
+{
+"name":"nation",
+"author": "",
+"image":"https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-nation.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"nation",
+"author": "",
+"image":"https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png",
+"url":"https://www.doofootball.com/dootv/live/nation#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"nation",
+"author": "",
+"image":"https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-nation.&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{ "name": "pptvhd", "image": "https://dl.dropbox.com/s/bdy3930urdo58pe/pptv36.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27129","userAgent": "exoplayer_video"
+ },
+{
+"name":"pptvhd",
+"author": "",
+"image":"https://dl.dropbox.com/s/bdy3930urdo58pe/pptv36.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-pptv.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"pptvhd",
+"author": "",
+"image":"https://dl.dropbox.com/s/bdy3930urdo58pe/pptv36.png",
+"url":"https://www.doofootball.com/dootv/live/pptv#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"pptvhd",
+"author": "",
+"image":"https://dl.dropbox.com/s/bdy3930urdo58pe/pptv36.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-pptv.&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{
+"name":"JKN",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-new.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-new/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"JKN",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-new.png",
+"url":"https://www.doofootball.com/dootv/live/newtv#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"JKN",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-new.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-new.&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name": "news1",
+"image": "https://dl.dropbox.com/s/0rmdteaxjlobfmc/news1.png",
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Voice TV",
+"author": "",
+"image":"https://dl.dropbox.com/s/f8ghzgirm524enp/voicetv21.png",
+"url":"https://www.doofootball.com/dootv/live/voicetv#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name": "Voice TV",
+"image": "https://dl.dropbox.com/s/f8ghzgirm524enp/voicetv21.png",
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.tvjaa.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true",
+"desktop": "true"
+},
+{
+"name": "TOP News",
+"image": "https://dl.dropbox.com/s/de73nraduzromwq/top news.png",
+"url":"https://www.topnews.co.th/",
+"referer": "https://www.topnews.co.th/",
+"embed": "true"
+},
+{"name": "ALTV4",
+"image": "https://dl.dropbox.com/s/svvncw2qxvy7v5o/ALTV4.png",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer": "https://www.thaipbs.or.th/"
+},
+
+]
+}
+]
+}
+MarkupCopy
+Paste Hosted With  By FREENOTE
