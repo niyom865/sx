@@ -511,9 +511,9 @@ playInNatPlayer: "true"
 {
 "name": "TOP News",
 "image": "https://dl.dropbox.com/s/de73nraduzromwq/top news.png",
-"url":"https://www.topnews.co.th/",
+"url":"https://live.topnews.co.th/hls/topnews.m3u8",
 "referer": "https://www.topnews.co.th/",
-"embed": "true"
+"playInNatPlayer": "true"
 },
 {"name": "ALTV4",
 "image": "https://dl.dropbox.com/s/svvncw2qxvy7v5o/ALTV4.png",
