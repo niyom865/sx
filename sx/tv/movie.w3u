@@ -464,7 +464,81 @@ playInNatPlayer: "true"
 "url":"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
 "referer": "https://www.doofootball.com/","embed": "true"
 },
+ {
+"name":"CTB",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8",
+"referer": "http://vip.login.in.th:1935/",
+playInNatPlayer: "true"
+},
+ {
+"name":"ch8",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+"referer": "http://54c241893bf39.streamlock.net:1935/",
+playInNatPlayer: "true"
+},
 
+ {
+"name":"TVB ไทย",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8",
+"referer": "https://edge6a.v2h-cdn.com/tvb_thai/",
+playInNatPlayer: "true"
+},
+
+ {
+"name":"B4U MOVIES",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC23/index.m3u8 ",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
+ {
+"name":"BOX FILM",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8  ",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
+
+ {
+"name":"ราม่า",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC27/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
+ {
+"name":"mounchontv",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://live2.thaitvstream.com/play/mounchontv/index.m3u8",
+"referer": "https://live2.thaitvstream.com/",
+playInNatPlayer: "true"
+},
+
+ {
+"name":"zabbtv",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://live1.thaitvstream.com/play/zabbtv/index.m3u8",
+"referer": "https://live1.thaitvstream.com/",
+playInNatPlayer: "true"
+},
+
+
+{ "name": "FW MOV", "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/FW%20MOV.jpg", "url": "https://www.inwiptv.com/player_demo.php?channel=89782","userAgent": "exoplayer_video" },
+{ "name": "FW SOV", "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/FW%20SOV.jpg", "url": "https://www.inwiptv.com/player_demo.php?channel=89781","userAgent": "exoplayer_video" },
+{ "name": "FW TOON", "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/FW%20TOON.jpg", "url": "https://www.inwiptv.com/player_demo.php?channel=89780","userAgent": "exoplayer_video" },
+{ "name": "ถิ่นใต้", "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg", "url": "https://www.inwiptv.com/player_demo.php?channel=61235","userAgent": "exoplayer_video" 
+},
 
 ]
 }
