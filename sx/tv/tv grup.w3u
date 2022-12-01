@@ -1,0 +1,1504 @@
+{
+"name": "Free TV Wiseplay",
+"author": "niyom",
+"image": "https://sv1.picz.in.th/images/2022/10/09/p6W4Kl.gif",
+"url"   : "https://niyom.com/",
+"groups": [
+
+
+
+{"name": "ดิจิตอลทีวี",
+"author": "EkBanNa",
+"image": "https://sv1.picz.in.th/images/2022/10/09/p6WzWe.gif",
+"stations":[
+
+{
+"name":"ch3",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFsCFSOINHLoQzqkRJsPiDWjVAkHbGfVblDQBYKq7nGdhd08mS4sMtcxK1lIWISGxyA75zAy6-U01xsNlQlbKthd9CzcF7ZKEY5ymu5vQIBrg3mA_yL-1mKznihCL0IJ-zVdG2k0iZs3QT5MvAqXRMCLPAyC0z6Rilnm6pSyevXWofCGFFpFWVb7RvPw/s1600/ช่อง3-2.png",
+"url":"https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"referer": "https://ch3plus.com/",
+playInNatPlayer: "true"
+},
+{
+name:"ch3",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFsCFSOINHLoQzqkRJsPiDWjVAkHbGfVblDQBYKq7nGdhd08mS4sMtcxK1lIWISGxyA75zAy6-U01xsNlQlbKthd9CzcF7ZKEY5ymu5vQIBrg3mA_yL-1mKznihCL0IJ-zVdG2k0iZs3QT5MvAqXRMCLPAyC0z6Rilnm6pSyevXWofCGFFpFWVb7RvPw/s1600/ช่อง3-2.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27137",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"ch5",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyTnZwJqiiEQiyvnds7yLBS2fs1scnDtxSUFWF4BYKXI8viVDKdBfOX1nEumHa1ykNZvaorQUS5F7ZciEUUhehhloljQLv5oC-DFfT7MIZPIWptiEw5Prt86wmd9TqRWIWpuWwXy2sTCLs8pcPhSgSvMWO0Et8mWjXsu93FsuxaZWBbTrsWmK8SEynHg/s1600/ช่อง5-3.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-ch5.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"ch5",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyTnZwJqiiEQiyvnds7yLBS2fs1scnDtxSUFWF4BYKXI8viVDKdBfOX1nEumHa1ykNZvaorQUS5F7ZciEUUhehhloljQLv5oC-DFfT7MIZPIWptiEw5Prt86wmd9TqRWIWpuWwXy2sTCLs8pcPhSgSvMWO0Et8mWjXsu93FsuxaZWBbTrsWmK8SEynHg/s1600/ช่อง5-3.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27190",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"7hd",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0ySgG758nAO3C-9fxLFmzJTOgB33vNZtNfJRpr-NTWax6EXNXp4813hjmndvPsN1TFFf9--8ibMIFIhG_3LXKC5_wn1GZhCsg_LSwpoggs8awEwXnFSjYJYsXdxSdm4rT4RVcdf2oL7javMP024Xbt2OdoRtuMDh5JzWBHZCKIlrXRvn_gKK18gejw/s1600/ช่อง7.png",
+"url":"https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8",
+"referer": "https://www.ch7.com/",
+playInNatPlayer: "true"
+},
+{
+name:"7hd",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0ySgG758nAO3C-9fxLFmzJTOgB33vNZtNfJRpr-NTWax6EXNXp4813hjmndvPsN1TFFf9--8ibMIFIhG_3LXKC5_wn1GZhCsg_LSwpoggs8awEwXnFSjYJYsXdxSdm4rT4RVcdf2oL7javMP024Xbt2OdoRtuMDh5JzWBHZCKIlrXRvn_gKK18gejw/s1600/ช่อง7.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27132",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"ch8",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbUluRV-iUf__6SI2W1Tv7AS9fmfbmEnvww97WoXIHNRZHhjKM1bzfARI5pgjl2WKhSL_PN2UnbPUu8dHfFOPTC806ibVBkNRwUUya0he9F2SCrJjqTFjdxqS0j6fLkwxcm4yU60VPA0esEltgG7SCQPr8CdLom2aDxvvkMEb8gDVzfFTU1rCqFyop0g/s1600/ช่อง8.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-ch8.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"ch8",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbUluRV-iUf__6SI2W1Tv7AS9fmfbmEnvww97WoXIHNRZHhjKM1bzfARI5pgjl2WKhSL_PN2UnbPUu8dHfFOPTC806ibVBkNRwUUya0he9F2SCrJjqTFjdxqS0j6fLkwxcm4yU60VPA0esEltgG7SCQPr8CdLom2aDxvvkMEb8gDVzfFTU1rCqFyop0g/s1600/ช่อง8.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27147",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"mcot",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdEm6M_7E8F67sXHsUQqx32JMPKR53swMDmPB6RO3bxWyoqt7vtSyhy7WNAhQnSWNDdoV9gZoVOxgS2D3Bq2SRt3ojxNlCROO-QkvMLO2KtReQ2-8HTqBtDdPuVyUGpD1DT631bvL_KnUnq9_b5MdqeYZvIFuZYEBGWy5icpGZ8ObT9I5ZQTCES931vw/s1600/ช่องmcot.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-mcot.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"mcot",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdEm6M_7E8F67sXHsUQqx32JMPKR53swMDmPB6RO3bxWyoqt7vtSyhy7WNAhQnSWNDdoV9gZoVOxgS2D3Bq2SRt3ojxNlCROO-QkvMLO2KtReQ2-8HTqBtDdPuVyUGpD1DT631bvL_KnUnq9_b5MdqeYZvIFuZYEBGWy5icpGZ8ObT9I5ZQTCES931vw/s1600/ช่องmcot.png",
+"url":"https://tv.trueid.net/embed/9mcot-hd?autoplay=yes&nopageview=yes",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"pptv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAYZOirx9DofLvjrpHk7Ps12uoq-uF90-ctE7dU-StW39TZNFFA7F-F4Ive7Zxhny3pjSAO0W7HDo36hyjWi5Tgh8NWWJIjXQJNeBE68j37gTPSnyJdZZ_DG7JMNshen8F4L4xUvwLjKCX0aI0Hee1jZXYCyuNZvSHBti7PdJMHNyhY921cFmrcvD4XA/s1600/ช่องpptv.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/pptv_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"pptv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAYZOirx9DofLvjrpHk7Ps12uoq-uF90-ctE7dU-StW39TZNFFA7F-F4Ive7Zxhny3pjSAO0W7HDo36hyjWi5Tgh8NWWJIjXQJNeBE68j37gTPSnyJdZZ_DG7JMNshen8F4L4xUvwLjKCX0aI0Hee1jZXYCyuNZvSHBti7PdJMHNyhY921cFmrcvD4XA/s1600/ช่องpptv.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27129",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"amarin",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibLiCKwC4XsOIfozXZGKu_bgdg2g3btFUhe9ZCo_C3cARgPTZFbB2M1S13m52FyXOdIVOYit3Vh9FYffjxJI65AQX1SPmFZpZaqmK95Q2-Kviqoe4_Z8wtfVhJ2vGpj6UXGdXykvd9pFqAXukf_dr7HlklPlJoEKntpNXq0ps6gKkMivu4M6yU5_01yQ/s1600/ช่องamarin.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-amarin.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"amarin",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibLiCKwC4XsOIfozXZGKu_bgdg2g3btFUhe9ZCo_C3cARgPTZFbB2M1S13m52FyXOdIVOYit3Vh9FYffjxJI65AQX1SPmFZpZaqmK95Q2-Kviqoe4_Z8wtfVhJ2vGpj6UXGdXykvd9pFqAXukf_dr7HlklPlJoEKntpNXq0ps6gKkMivu4M6yU5_01yQ/s1600/ช่องamarin.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/amarintv_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"thairath",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I3eAiKpqFr4W-gI_myKaPgbBb7Mkge7-tEK5nBUBDkRWXY3StmoatZYgiJ-90UZj0RjnTH7ue4yLt59zMN4B39VZ4ea_7pbiwMPWqDAnIW5wErMoE1wfn0PgkL3ZM_mItv6lKpMvFZFnmKhJpwW8AvzPaqqbDd3MpBDE-12dDFmlNCB0jIK2iwcyWA/s1600/ช่องไทยรัฐ.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-thairath.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"thairath",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I3eAiKpqFr4W-gI_myKaPgbBb7Mkge7-tEK5nBUBDkRWXY3StmoatZYgiJ-90UZj0RjnTH7ue4yLt59zMN4B39VZ4ea_7pbiwMPWqDAnIW5wErMoE1wfn0PgkL3ZM_mItv6lKpMvFZFnmKhJpwW8AvzPaqqbDd3MpBDE-12dDFmlNCB0jIK2iwcyWA/s1600/ช่องไทยรัฐ.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/tvdigital_thairath_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"workpointtv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirhBXdQ7h9FJgZKJmYAv3T0kcaExj8u7K_3OR7gqMZVNJ_MhbZnrVmrWP9WwmzzwrSf1y3ewExFaHmWtZAt73O_ef_MZBmcxFjRoqvvZekGZ8kz1LLTqEu6JJGjVrO-n5L7M2cg0WgR1AfGj-7NF3FRXPTqF-jSDXFTIMx7JEul3C7VGorkUzG_28IsQ/s1600/ช่องworkpoint.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/workpointtv_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"workpointtv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirhBXdQ7h9FJgZKJmYAv3T0kcaExj8u7K_3OR7gqMZVNJ_MhbZnrVmrWP9WwmzzwrSf1y3ewExFaHmWtZAt73O_ef_MZBmcxFjRoqvvZekGZ8kz1LLTqEu6JJGjVrO-n5L7M2cg0WgR1AfGj-7NF3FRXPTqF-jSDXFTIMx7JEul3C7VGorkUzG_28IsQ/s1600/ช่องworkpoint.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-workpoint.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"gmmone",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRlzoy7GiByoRbirA_GCICF4PSv0xcMi1nu9uA-tVBQmlThAjx74ZMTnpZ_q9dqP164NTD6jt070ljcvWZe89ULFb3V4Jz8byPcz6Zic15043asP6zP3kcZtGW4QSl61tTk5-UfbOYggBWYKWu1HduncVQdLOoM7IbDCIH9YjY13v0z4q7FFjmXJ1u3w/s1600/ช่องone.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-gmmone.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"gmmone",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRlzoy7GiByoRbirA_GCICF4PSv0xcMi1nu9uA-tVBQmlThAjx74ZMTnpZ_q9dqP164NTD6jt070ljcvWZe89ULFb3V4Jz8byPcz6Zic15043asP6zP3kcZtGW4QSl61tTk5-UfbOYggBWYKWu1HduncVQdLOoM7IbDCIH9YjY13v0z4q7FFjmXJ1u3w/s1600/ช่องone.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27140",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"gmm25",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMS8xWMWr9CZ5KWa2DnOeFZGcHjd2r9xPZU6LoSqTWJNqnHaq44E2kK8dRSi6bBJEpRKMqHFud8_s3mM5-oStPoPh5DXwmM_kgpZ4xn34TP6Z6wescKJeMuAgZBvP8zAyEdtCIXCx3vzfmf76BoWLvbuhbWD2EE316n86pWcx--d3oVbXQxUjGjIY6DA/s1600/ช่องGMM.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/gmm25_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"gmm25",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMS8xWMWr9CZ5KWa2DnOeFZGcHjd2r9xPZU6LoSqTWJNqnHaq44E2kK8dRSi6bBJEpRKMqHFud8_s3mM5-oStPoPh5DXwmM_kgpZ4xn34TP6Z6wescKJeMuAgZBvP8zAyEdtCIXCx3vzfmf76BoWLvbuhbWD2EE316n86pWcx--d3oVbXQxUjGjIY6DA/s1600/ช่องGMM.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27153",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"tnn24",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Q0kSqGiDkM-VSkqWEkee7XSapoitBFqy4VBri6RgB1JKOwKFMxbOm48kZhm5JSktSCL2XUrlGKb4HV3iG6ge_KmqnA_ehmAsmaxoyMUhn-AY2q11z0FjswAgnLHlQ7o1Eg3DwcoVfvXzbH0h3d3Auemuo4N0RJ2grPYDK_P_USzics_sOfTRBxyoBw/s1600/ช่องtnn.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-tnn24.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"tnn24",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Q0kSqGiDkM-VSkqWEkee7XSapoitBFqy4VBri6RgB1JKOwKFMxbOm48kZhm5JSktSCL2XUrlGKb4HV3iG6ge_KmqnA_ehmAsmaxoyMUhn-AY2q11z0FjswAgnLHlQ7o1Eg3DwcoVfvXzbH0h3d3Auemuo4N0RJ2grPYDK_P_USzics_sOfTRBxyoBw/s1600/ช่องtnn.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27179",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"thaipbs",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QFW3IH3y7FdCSzwxUwC7-6GbLSfFK_EtQ-CPNkooOiBlIPtyCykkehV_tWebt-QttsPUq1j7GFqx9Q_lVcs63bICtb9GrehJN7aXeRSwHLUdjpCeKLFQKaBD15CWM0a8NLlJ9joZLuYAv_Oftq0L_aNYmyoauiLgNQET3Nb8dEuZdB7yXcEQOnsjxQ/s1600/ช่องtpbs.png",
+url:"http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"referer": "http://thaipbs-live.cdn.byteark.com/",
+playInNatPlayer: "true"
+},
+{
+name:"thaipbs",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QFW3IH3y7FdCSzwxUwC7-6GbLSfFK_EtQ-CPNkooOiBlIPtyCykkehV_tWebt-QttsPUq1j7GFqx9Q_lVcs63bICtb9GrehJN7aXeRSwHLUdjpCeKLFQKaBD15CWM0a8NLlJ9joZLuYAv_Oftq0L_aNYmyoauiLgNQET3Nb8dEuZdB7yXcEQOnsjxQ/s1600/ช่องtpbs.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/tvdigital_thaipbs_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"24u",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilx6n5LJX1vC6lCVNyVOB2lMaQAYY63xP2tT_WVMVi38fyd7464xFYWwn4208bvq_B_JuqnLp43F6vvG2HEZfygNx6JyDUS3F3KMIw37e3M2lAC8nrQXc_HC_clZtkygaTdfyn13QwBLVQUG7b7lH-eB2-6gwLWTkLTYdcX_ZhO1-erSlXDKwQp5lIbg/s1600/ช่องtrue4u.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-24u.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"24u",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilx6n5LJX1vC6lCVNyVOB2lMaQAYY63xP2tT_WVMVi38fyd7464xFYWwn4208bvq_B_JuqnLp43F6vvG2HEZfygNx6JyDUS3F3KMIw37e3M2lAC8nrQXc_HC_clZtkygaTdfyn13QwBLVQUG7b7lH-eB2-6gwLWTkLTYdcX_ZhO1-erSlXDKwQp5lIbg/s1600/ช่องtrue4u.png",
+"url":"https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"nbt",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwelj3v18I8rf_McSK0AlHDwUv6wfU911aAw5-ntoM___7_CdzasC4H1ISn6Ms81MkJVQoiGRY5uz1cryiJQn7WYNPpo2TEUVHHxgCB5EYEZdCQ4oNaPZDeWZGpwp2BISoz3xSkP9z-SK7ARayQ0ZKvV9S2cJR4U9C8HwAxTeeex-uKtGrkOPiUX05aw/s1600/ช่องnbt.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-nbt.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"nbt",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwelj3v18I8rf_McSK0AlHDwUv6wfU911aAw5-ntoM___7_CdzasC4H1ISn6Ms81MkJVQoiGRY5uz1cryiJQn7WYNPpo2TEUVHHxgCB5EYEZdCQ4oNaPZDeWZGpwp2BISoz3xSkP9z-SK7ARayQ0ZKvV9S2cJR4U9C8HwAxTeeex-uKtGrkOPiUX05aw/s1600/ช่องnbt.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27189",
+"referer": "https://www.inwiptv.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"newtv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEZSVuw8qMddKwnN-vLt2Xij87vAr11qcgOgapWC1fV68jixTDxN4UMGfgcZ3bgnk231CkINYlbl9Zbb3oFbpKKTVwdhKKPxNCiNd1DHRqmxfAequ6BHHkJPVs049NHvAjKgxXEo-137U97PZzdwn5iVsSk7q0V6_h56j-_JC0dYEYYyg7OIcniw9TFw/s1600/ช่องjkn.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/tvdigital_newtv_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"newtv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEZSVuw8qMddKwnN-vLt2Xij87vAr11qcgOgapWC1fV68jixTDxN4UMGfgcZ3bgnk231CkINYlbl9Zbb3oFbpKKTVwdhKKPxNCiNd1DHRqmxfAequ6BHHkJPVs049NHvAjKgxXEo-137U97PZzdwn5iVsSk7q0V6_h56j-_JC0dYEYYyg7OIcniw9TFw/s1600/ช่องjkn.png",
+"url":"https://tv.trueid.net/embed/jkn18?autoplay=yes&nopageview=yes",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"mono",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZW8zQpFAxqm2JwFAF6yUZBvjL3nap-uL8B2T6GcJ3f4ujgEMaq_u9XQPM6PdAKzNc9vckMFjGUGlJbC8IsbR91o2vgD3rHqN-yf2-XG3fZf8hVSGf7iUZq1omFor91JI6I4P_2cjGqROLbqAwBkAqcDG6dCgFPYqSn9BjSZ2ewpN4KlrGRxfKXBt8sA/s1600/ช่องmono.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/mono_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"mono",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZW8zQpFAxqm2JwFAF6yUZBvjL3nap-uL8B2T6GcJ3f4ujgEMaq_u9XQPM6PdAKzNc9vckMFjGUGlJbC8IsbR91o2vgD3rHqN-yf2-XG3fZf8hVSGf7iUZq1omFor91JI6I4P_2cjGqROLbqAwBkAqcDG6dCgFPYqSn9BjSZ2ewpN4KlrGRxfKXBt8sA/s1600/ช่องmono.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"voice",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj82cAUxzIK03pl8k6hjvl8XOCR42Mk29G3z1GxjzUBrjcWxor1qVdqWJPydhCJ4EKe4D0r1BC8qse9KbJKrx5-79nmej9xn2HJrk3c0KbIuWpjtMseaXkIH27qBJZTPEMzoG0CpqcOrK87-ReEsEN_vIlnWePKCRzj14yXR-PEqxIIF0oPAp09prxSQA/s1600/ช่องvoice.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/voice_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"nation",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTS-aN8-Atf2bNLP9V6fUTg17iSf2_WIFFauqQNlKDXlsHcCotr1d3neYUT5-DYWz4J5I4_kDFDkqh6uAMH180A5Ckqgs1Ncw2_Qd_41T6qJlzqS0acZzzu-CTlPluxxj22CbGKtxwVw40hfMWSWqZBsym121BTm0SPNBfuong-rw5kKNGs4ou3WpiNQ/s1600/ช่องnation.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r2/nation_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"nation",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTS-aN8-Atf2bNLP9V6fUTg17iSf2_WIFFauqQNlKDXlsHcCotr1d3neYUT5-DYWz4J5I4_kDFDkqh6uAMH180A5Ckqgs1Ncw2_Qd_41T6qJlzqS0acZzzu-CTlPluxxj22CbGKtxwVw40hfMWSWqZBsym121BTm0SPNBfuong-rw5kKNGs4ou3WpiNQ/s1600/ช่องnation.png",
+"url":"https://tv.trueid.net/embed/nationtv?autoplay=yes&nopageview=yes",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-zIbqaqEipScsGWe6j50vi9UHBeJohdu9isGXu815TRQYtGd5ZLF5-OLc9XfQGEg1QpItXVOTLP7yUUYPhnPRUAyySxiDX8mRn_AjIb1IFdhb_mveVvUWwIcTUg_4gYDizUpE3bzD_Zar6CaqwAQoBjitxVukUuCIw21Tw6s6-CBrr2IcrFrO7i2pA/s1600/1200x630wa.png",
+"url":"https://live.topnews.co.th/hls/topnews_720.m3u8",
+"referer": "https://live.topnews.co.th/",
+playInNatPlayer: "true"
+},
+{
+"name":"tltv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2PuBeuxD9pUUk0_4llqlZdyJlscbnD6q7XCuIz1gWPiHvmmpS8pYUcmdBKhqVVor3a0KJuq1ZEZwpKOYZ5Uefag_Z9JHo2Yu3lWfS7Fj-_58cKGtDLBf9BoIAlHYEI2wSqdRXPNIxW1-HXkLNA8Iv3b-lwIBXzdRUCcJkuo3SpJhdSrby5IYLkPL_Hw/s1600/ช่องaltv.png",
+"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8?__&Key-Pair-Id=APKAJFBTWETXLROKW43A",
+"referer": "https://thaipbs-ujxrch.cdn.byteark.com/",
+playInNatPlayer: "true"
+},
+]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{"name": "กีฬา ทีวี",
+"author": "EkBanNa",
+"image": "https://sv1.picz.in.th/images/2022/10/09/p6WNPk.gif",
+ "stations":[
+
+{
+"name":"epl1",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKq1kgMBTCx8Iu73MAVgDYVU9wjwKaurXmsI_Zdj995I127fsGO0NgMnhxsA9CUyF5-rWoJ6W59tmoLZDIhgAfj9NvMzq5Y8a7HBg-GcSr5-0pXfIl1kjRO_Ww19Xqro18IcTnbEVkuZmToElUFAFfIKUah0S-Fy6YJ0K7tPyijOdBmAscYoivdbpiw/s1600/epl-1.png",
+"url":"https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"epl2",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpDAIoej6uH0QMH6EwuqtJH3vLV2lUw2GCEJacKD7vohij8hGSy0TP4QWSd-Q7z_-cmbumBqEmhc_WhMjepUuXTKpqgE3-iVaykswPhTOuyGZIS9xuRD2asiqWOymrz2emczmpS3xX5qwqPfA_eT29Ib9vZPrWEREOAquhPIY_vLgx5ZRL1cyYNoT1pQ/s1600/epl-2.png",
+"url":"https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"epl3",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwBtKCaTJxK4JvR080jkTd9Igb9dbS_DtK875NNaR1D4_wS5Muz2f670CLo4dTHL7MJVvElPTMY7DUBQI15p3m2xSmy1w0tjLmmxdbR4rxM620oWXzwB6O5I63fPLyTdmFJhrYNifpBjd9PIBzCWVL3e1pycI1opNLeetyuPnL2Io6dyAswV0sjuawvw/s1600/epl-3.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"epl4",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqTCm-r_l1ihNsCnY8gi4EjsXwmwGNOm0HZiwJMc0xLN8OdcOHZdDKH51D-twpj2BLVje-FuYSi2tWemOfPiGhR6Na17eb35JI9SH_LorRpdHlmx3zCoY0JSBhjxOW8CttFEBD3JbVdhxtvpJShseiJ6vxSdQSBmvBRpZl0Skyq85zaQOnkcjM3zhi9w/s1600/epl-4.png",
+"url":"https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"epl5",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8T93cxODLpieiX-ggE8IdqOaavu8H-JO7ob6QjtirLS-05U35sJT4z2emJ3hgMZCfO63SqB9NnG9hcjxFcPSCQWz99nu4VWTcweSL4Brs8fz0AoFTR7QjLpR03L7mnmkWXk_6Dk32W49dGS0qvIUKnZD657VnaGqbXatcx5sBcy4ONLxxvHxJfvinRw/s1600/epl-5.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tsport1",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO2L6-OiDnNmGZGLVvo-CI8gGo_DblnDbri3GTItHtKydrFGznSVPK8o3-C-tdDbV3Fff_Sh_wRUB3uhuVpptv_U7jkKUKZnhwF4f6LTok5VYh7IZq2Entu6TCgACj_ZXCpOe5RLAgQH5EhHA4DZ42qUV1dHpNjXwW6uvaEhOGOy1qoBwhWjeaf7b-xA/s1600/hd-tsport111.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tsport2",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-bbp_sjqclHh9isdOQRW95uLYJv5-PG29vewdHmC0XTu9WPXhWwm6feksMwiN_6SQeH70voqt_aOlcH3BuVSI12_9bhXzKSCxJdYjJaKNQsfFlbLGiZqsOcF3NyoeJ2lo-cKtvs3h5V6UFk0qJIdUEZUWm79tU19S-Y6htfxRZOLkiMRszyEWUN9JSQ/s1600/hd-tsport222.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tsport3",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpYDBJyXNeqC1ckNod_fXryg8zss-rLpqD_asKPckAi3ZSsghzILrp7MSCkoIniRXN7LM5pQo8QyKszuWkeEa615sDV8ZF36P_6liLqhz4jD4WAQHRMFXc5rC2pEI1Rtwxsd1Oq60TQYeTVI58VIEanFbFxwlbWcK6f4SS5Pod10rmU1AacWyWEvE80A/s1600/hd-tsport3.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tsport4",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjItY0NcaVoPbXiLQmAcxYOBR0nWnDUeRiqcOUIGpzz4dl2L4XWxHg2P7QEs7RRlPXaW0iycAkKu7c4yL1S6EAvMkI1hPCTMXqhopPVRv3CmLuU5AN4KFAIZ3Ky8wQfDMJFTY2pzzMlS_UdfW2IUFDpQx7p18o7x6YtI1H_VZIVqBUkCaGFm2MKWcgGQA/s1600/hd-tsport4.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"sd-tsport5",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwwoVDrKzqvwt_9aQ8c7bnCTBxKINsB6mft3ZIdzNCM31OC35d-HtII0ZoZ1GEy6bFVBtOYa7kmdJEUe0IBArI_pl5kxkIL5mimgbJrFi8teOQlePhjanX17ORh0KDyDx7rnVwFEslqLUQmLQcWLP8jCXKPjgUwAjfvnyebcR1HnC3XU4N4QHKO-ogiw/s1600/sd-tsport5.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"sd-tsport7",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVrCu6TD0mJy-j6R-yXTPwrSJoh9sa1i1sMX90__kE_6A8rlKCvYrnRGEQNLZ_Pog0wrq-DVcp9wor11IdyWzOeaeKYhpFxlqLU4AacxjMAFit-MUzXYo7QgyJpQ2i7itDVxIpjZqWjrONq5lMX2WYakrGXm4BFpC_7sCwhdLoTE6NFmRirHClfeqevQ/s1600/sd-tsport7.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"btsport1hd",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtJ_XKQb5Jxaz5Ql6ysioPqAaQtJ2Uu596jAaxHTW7o2M5FS_5ASAGZmBEi6MfbaH-IJgMnMfnWxQ7ivWzd8K544Eg-OiqyNFVi4AT2QGrosH2h-V8PFFd37hCMg26SfZs33CQFkhRpA-9FRQ042sGlL1fNy5F73HsrtE6pea_ErLpzGmrCg-jmsrJlw/s1600/tv-station-bt-sport-1-97.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"btsport2hd",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKw-3AKhAK4mpUAnUY1Epk_Qjd7bOhVQsMoIuJeYso4YqiDFswSwozx3C155uUB5fnMQuvVtMHXEhSAD-uX16WhSOJ1B9oD1TzBLymTi-CbGEHr5Gu00nBY622oKwJ24cOOc3pIimzgqwi5BhAjnUYc0PRXFet7VYujRPrlXQ0Umb7PFxjIT9tHqXKVw/s1600/tv-station-bt-sport-2-100.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"btsport3hd",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-pP3s0XTPAI7XSZE-rBaJad_uZPbIMNMARNhv6XSHS2VyQCdGgMNvUas2aVg26PtxNy1sptv1v5n-rnXgAToXjB7_fz8P7orxFzeqQUrJtWI9zwHMkK5_-YLRuL7CAUN6dRCQ6ySHY_1PvcqcmQD7lxXqVQtTtgj4h__6jgSvBO4UtpmXOvLFgjlXug/s1600/tv-station-bt-sport-3-108.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"uk-espn",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlbs-Vtxzq9j7pQZVT_ot-akvfj2KmgIrAWd1b9QDb3X4RWnfXmAbk7qUnOR8YInOK3YGWqSfz8fNhwj1WasqbYtT8wdBA5Suwoa6kiMRCGmBj3ctTIM0F8bhdiPN7p3d2uZq2dsVf8c3aIlbi7SX4ULiupe2qECny8SzVty-2YMnWT5cAQ3WkDwgs3w/s1600/tv-station-bt-sport-espn-98.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-espn.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"epl-bein1",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgnV0Ysn9YD2X7E2iqgi0Cpt0P5IJU2Nhr-us14r5t_SAWQK_mt0DhxVZ6qye2OWx3F33fnNqKaAmuuPjSlpRRQssSwGyn27JeNnTMWXEONvYFLi5TaXB0L5yZBcMWI9Cvo-UVCGeHNPaUrZ12UzGXIZ1CcyPIK1u1gr6BFJpuuX2c3zAJdaYzTL-rJA/s1600/epl-bein1.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"epl-bein2",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ueYVLhXilQ7nv6HMyUbzvYJLioTPUDE1RRHHMA8UfbHf2DLXpdC1gRjGS6dbVAMCfpQQPjciOFTo4PVSveQt9ZQ9tFMNv52-lkhZAgGGSEFH-IChqxPRzpUc5WOz3gxpbquHVo6GLXbY8-i1PX8BoG-jRWQ-cUcmfT5cFIxarPPu_Mv_EVIt1W78Fg/s1600/epl-bein2.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"epl-bein3",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9xQDYBHi-eBi0Ue5FJVJC1cVpetxK3dxmOKq4DxFxXM4aol3srPTnAUSOoU6MOpsqqK-rqSNC-xCYlomq_SyUMy-Kb_xBMEPH-zZJz8V3xqy1aV-6AfvTfgDGiI2FKUXX2vgR4wAtKDsHLxWVTARtrb7FWA1rMMVZX_BN2qFFkPoKHiD5rbO8m5bLg/s1600/epl-bein3.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"fr-bein1",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMcakzJOGEsTekKQZ9YxbCFCRj64UsrwAlVyHSyILllUPTNGzi5c9baevTFCO15P5ATi-vy7fJ5Rq0vZfLDYWCm_4rQ2-QGKK78ugv0z2ZxqqcM-FwPD2jFVszMZkXGCJvm5YpQPY604hCAIHfeK1OGfSlhDVZeoSSyBeEbrPKZsrN-wiG3Ogju-QPCA/s1600/fr-bein1hd (1).png",
+"url":"https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"fr-bein2",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLNQhcHSLviIFKfhf5t3eU5X-8iJd-Q5MwLVr51cead94N8oLs20S-vixTeRUXgb-PAzuI5LdWumlAOZFg1CktuVd3PebRrjWcctto2bTIqRxvxkdy3rsomx68H4LcE2hrRmTO1cfsKk7lpmIH01ae8X2Wp4LWbeAmR3PrhAV2Ih2FWC8XYB7PnF_Zsw/s1600/fr-bein2hd.png",
+"url":"https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"fr-bein3",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy_MICEs4nJREzLBgYrMktuJUNmbkIiaagrvLc9QbgjvBZ9QkLAG8nSJyw50wmBVA3nXZK5cESJ1Ibldpf7OobCDusQcFgs847zqbKYFKnrrd1FHBv1AmZO-NL3WoTio7yYi4gARlWZAX5_0UluFJ7Ap4ar55FsIZozGnhqmAxKiFRPhbo9TUnuK2OPA/s1600/fr-bein3hd.png",
+"url":"https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"3bbsport",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8NqX8-KAl95V3MlGuYgXT6drEjzap1eoY8OfzTkAuXxVKo13suEzPDLuK3UCTRanbApclu151QmihpWza4ImDyIpyZKbgQjt67-yMahANddyF0R8-kOcx9LIjAKf4j9ThX5WCyO5GUxarW0tGQ0MbRPLfaRxELdYvVLTtWxAl3SkBeP6Hsc2a0KYNKg/s1600/ดาวน์โหลด3NNSPO.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/3bbsport/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"eurosport",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRALWUW9X6r8Af-lm3vBEOCU3lAdYDzCQdtw4oiuEhSF3mz5abTcexWaZ-UgpVCwUIHCsF8B30nHewvOGZXpUR7VVin4W3_L1k7OUEReFsESlnV_C30Dyo0WQl0MuMNyINAaiHLLZPC92pxauXtqfuQC2mPkHK4V8qAd1fWr8PSXZA2PRGiWprYLYkg/s1600/uk-eurosport.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-eurosport.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"eurosport2",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUk4jYnwM7VflzedIctkhtfw8szYnza4uRFDFEyi4zEGs0yBprw_j55VRnMPRK4-FVHILubZ7B7UGj2FCfu0oI9b7GdaOs5exiyqSqLadthYz6kSDQk7m7ES-fQgCkZeGXLDso-FzlTwRyawZTddkzXXdH8qlQ7Vc_n1YbRFV-SZgvDhGpqzMlUHLtA/s1600/uk-eurosport2.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name": "บันเทิง ทีวี",
+"author": "EkBanNa",
+"image": "https://sv1.picz.in.th/images/2022/10/09/p6WBev.gif",
+ "stations":[
+
+{
+"name":"hbohd",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiET_piE_AzzFD7vb_rvySfPJtnhXWbFitsw9_kfOO7Za0wb66CVYAXZJGzQCHpExJZzFYLTd6AH7seWnJ3DaRx3zaP_GMLNUw22dP0VNwfRrwU9F19cQSlUmeuD418Iot936k1_y1B6pSPjzmLlMupUDkht376MQDubQGa4RnehBA0Agf4rKcMAQxheQ/s1600/18839121_ico.png",
+"url":"https://www.doofootball.com/dootv/live/hbohd#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hbohit",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu8thy7WTPsa8cS2lgDje3oEzXrm5Ar0lrjukm8aFcASTePOVv5lN-WEk0IbNElG31A9KOyMf7RuhzHHlUQ7O_Z1yCR8PKAFv3bsACIGb7u9i5Ybrv6bH_2ThbtsdnQNse1GeuhhTqmxBG4cfMPInSr2uqhCsH5moHp0JLoc2oUUxlhv2jjEYBBBaJww/s1600/ดาวน์โหลด.png",
+"url":"https://www.doofootball.com/dootv/live/hbohit#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hbosignature",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KZ5R_3NAh0A-WoV9zjNzFC8hqSsdXeIR6-4h-z55tjxTA8bGNt-Ca9h-cnXrkJ1tR-EIjzceMVqS8c6XxAIM_oBR3d1n5w3uVT6T_jzF3brMjl9mc9ufSbFy1uYdj_NofV-fJBkwdRe3HmXSGJsChgfHTLtQid8QaG6kZYRSZF_cHMjlR7DAFzVDHQ/s1600/ดาวน์โหลด (1).png",
+"url":"https://www.doofootball.com/dootv/live/hbosignature#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hbofamily",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i9deLGm23cT_4NC67TwGr4mo8wl08dC-loCPhRX3t3KCzkQ6JAM7kRFIRgBJLzM-MCdxKB1OEb0oO6AUdOVLiRvTYxrwR38kQ-MulMzrUP5wcU-iJhYr3iyXbglEcKabrFcFB0mrnnsixNvGjYkUdKn1Le4wZdOXEsHgHjkAU6hon5kJ8B_ritwEKA/s1600/640px-HBO_Family_logo.png",
+"url":"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"cinemax",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPVcLlbdspFk2-dpTBISVcwDa3OR6ALfcnk8eYroif_UV-s5dkSc1CUf1HIMBU1cMGgmK7HJP-hQus_g8khe2_xuvQqfRY0xENSAnxVlgPTI6C13DRKKUeh7g9a6_oUoNcJyNnhiuE-wxCBo89gVAm-pMNWSOPqv38q5flSu7YJeTIEN6eW0dqQRZbA/s1600/18839241_ico.png",
+"url":"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"chinesemore",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsRiHcmkxodKbnp2h_gWx60vtV_2xyjZ_9KTK6ko1mhC6dBLEsu14TCzy0SlG6Gci92Z2ORZsjRsE-QO7NVRl7jmzI7P2TgTdL5cCYUUEpWgVnTvjBVyPm0SjhKn31N2jRh5fb2onq95hjTygAVm59qudFaTA0U0A8R-0Fi0lz3nehF1fdpwEn6PcS3Q/s1600/00-chinesemore.png",
+"url": "https://embed.dooball66.com/player.php?channel=hd-asianmore&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"asianseries",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87T5xrnB6uW741naqZRc_XNJuvntUntRHYj5_Dwfhm-ggjtfVyYcZWyqgqdH7TUAvfU-lja5--MviY1NolhicU5dMQdfrXxV1B4XpRZYA3V1rXfH5PrQDVOYOW4A72kEuhNWdXB0lRrnwKjFgBzx2m4NXlPT5X-W3lmRlE5oouO0HVYMQ2JiknD5b9w/s1600/00-asianmore.png",
+ "url": "https://embed.dooball66.com/player.php?channel=hd-asianmore&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"koreanmore",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRsXdZy_2eIKbE6hxzfPxkEFYdmRVCYWyRXqGaIpLxG_Y-av8Dxz8sImw9b6LS61t4Q38Ykbdy2dR1MUG5U0dAu2ayPMPASm3LAMrNlywqy_ZgeUaDCCywKcR8ihVBwCEYFQ-Igxv8dEVhkcu480fG2NQSqWai0Dqbp4PtJVA3Os_ewmY5sNKblBXbQ/s1600/00-koreanmore.png",
+ "url": "https://embed.dooball66.com/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f",
+ "referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"asianseries",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieByCbJ_RASRcArdeBYCLlaTvk_f1ouNBLXbDR6ZBishTXCypveshW-wole2Z8KTZHFT5sF7pYhcr0mY3bhcGwX85LC_HQu1YuEcWuI0bAwkqNS4ah7hqhU0i4_q1sBgAHFmKecXL3aZmdE80jqw5Vm-rAFgQsP_siNOSoo5UUeWF-eyvakGvB7iDeFQ/s1600/ดฟหรฟ.png",
+"url": "https://www.doofootball.com/dootv/live/truefilmasia#main_dootv",
+"referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"thaifilm",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3pJtXUZ6AJGgcXCxtKtNck2RGfQ_2bRTgGEOsPl20pp2NOYpSBnRPe3wWy_J6GANDrgEGW5vz5a-dAkS-fcJTOFcC8qLv0xFEUd_MPd-jcJFtEFKpu-b8Tis4g7-WnrIEXZ7-5HA0Peg6_uPQD5ruR35v0yqI58CsQDKl3JYTKJtAvL6hWQTvbT47tQ/s1600/00sd-thaifilm.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"tvb",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH0XUQOf30-aryI-VK0RksCSpq2rJPW_hA4SGRM8b1N-X3jgtEob8lJLvVHWBMJZt3vVrS9K82Y28DC-oNKPZSds_UBqAbDC5xtzujbud5vIiGWXDcAaoRvptDgiJK4aCoz_f1ukSfULGrFWPzXDFXjicrFtSUN3q1u5h_xeZQzjw_bu8ibSOCU5wW8Q/s320/3BBAsian.png",
+"url":"https://www.doofootball.com/dootv/live/tvb#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUVs3JUuBJRXPXHxEp1CUDKAETQ23RSGTT8aqx22cuIvMlxKj2VnGisdypptmPMrwxy27c2prAF7Jd99YQrtESkFn8lHOqH4bF4oPIIRfMd6CppMocTtQ5k1Gpuqe564QP5BNmeqvwPvAqHqTKDMx4CekMNcLfNHTUVh2PoOftpOj_g0CsH0NtEVZXrQ/s1600/logo_mono29plus.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/monoplus/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"axn",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYwdsoDpxx9GPLD8xanFhP8uo4_Arr5wXf5bq5Wr8mUimb9ICl0D0VCK2XVKo9a7GZt2RzuD_Nv7qJ7hPXNMbw6GZuWm6nQIrFfWTkAd-Abtg9urn5O4zjpzrPn2AJiZVbyMlQMyUxgx6kgPSMBMbim0Ai5we_34g46E59KnxeMoyU8Ilp1DbGRNE2w/s1600/hd-axn.png",
+"url":"https://www.doofootball.com/dootv/live/axn#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tfilm",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtCXt-oBPv60jB4EAi_Fz_qN3DUunIRj5vVRC7XRbDFjRujQuw_4jgXyum9j7CEiTLhqQi5vHoO9OctkDebH7rLZbpymM-M2AVDKpOhXb0SPz8NK5iCGA2YekcmB4O-AXbdN5y-icS4Ee0c7q_ab0O8Ov_XlO34-lZHUC_dui7U-Yf0xIEHJ8DkE9tg/s1600/00f1.png",
+"url":"https://www.doofootball.com/dootv/live/truefilmhd#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tfilm2",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmgfqwQJ0j9XatsYfG8Yd6juXYB63adHnNg9KEY6LuM6rGux6rEVZ-InSTlzQck58Ihis1iENLmrzGUAqLWsQ0X894gEARNb9HdyJK5cVdaypZRSUHf3Cdx3WE6zFUtKVVTbRnDNb8EaKHBx5t1RoikaUvMmhcWCoVXKo-HMpKJ9lhE-eVkluZVbXhRg/s1600/00f2.png",
+"url":"https://www.doofootball.com/dootv/live/truefilmhd2#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"moviehits",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmkyrdGKYDGyeiTdfjo7WiRrF-2b_crzsJVEkF2NNk4fsk4ih1yx2Ccemk-4eAsbO7nXFfLPScFyYpQNUSlqiiURVntPruoeZNuP1s1BVSpgpzMlIY8AfKL3hQ0mM_JBDIVGmaZJBe0YqWEHl0betLtyBpssVCE4hB9Tz8NXHznVcBpEF7-LW1M89XHA/s1600/sd-moviehits.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8 ",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"sd-series",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgZiNARDT7DSVMZ9mNtxwQGNNO6XSO6PQpzVstUDARAcJWYk0oRVEW1_Si4wn5DHObHl-GYSeSOOcp8pfABXljnwVS54_m11g5pkaajpDwiDuaQf2F6ML480dYl6JnMjvMteTxEINaErKnLtNsdRzG291G50s3biOTG4--f5m5nOjvHsVYUQbIN3Ejpw/s1600/00sd-series.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"tvn",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9alvntONy-lUUBFNa6b_HWK8azWrFboOh8GKd783mOSjjagNXU_BAtX1_6btk8bagxij8GVcZb0b-5z3H7ZUitG8cYzBZBYIOIYN0EoigpzIUIrYN_o5Vl_ozMm-b4x37iGn9czAeHCEP2Pqi9SC_B5zadj_d6SXd-LuQWVPvW0W7dt_IkYuZuuj3Tw/s1600/9cb0f6b0-326d-11ec-9520-9918a20d7c65_webp_original.png",
+"url":"https://www.doofootball.com/dootv/live/tvn#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"paramount",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigq7vU8mi9xMrBBcC56qCLZpOBwxiaBt70bIE_7-sdRG5LH_xvXTBPSNsV0ZtGymdwFXGLRTT4fWwyJ1cm6E-sGNLLf1R4AjdW1aYdpj3NeKz43hgxmuHZUt8qTUQ__zoy2mEHQ6pIuaQ--wRV-D6x_s2H-adby9RnB-TdNFWcVH_HEbb3oF60A43xlg/s1600/hd-paramount.png",
+"url":"https://www.doofootball.com/dootv/live/paramount#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-warnertv",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfqtIzuzIu_ZFzNiiwQMUY5EWpSbS8kyiKRBnklM9cy3mn0A_S8KlpzFl47DUouDr8eSf4Z_YlKd9bofgiwI5mVycVYZbOKiCe9Z6re2OV8lXn5tMoc3L_JI_5aiEfgd9A-Jnq-5k1vjyvOKNQdWCNBeGnoR_J24hx-30Fc6t7s5ltHvkdqn8qaLQRuw/s1600/00hd-warnertv.png",
+"url":"https://www.doofootball.com/dootv/live/wbtv#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hits",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhReYGsBxY3K3pvXlD5XKWsai5YRBpOEIRjEJYT940HtWRE0fSuHf2LDWLt6Y-B10XeDeSLFY-1k_H7aEoX5fMgQBuBkfmME7INdKUJkvni0KsW1nQe37clxoJ0hVh41LfXvWCehBiIcV69IF2VRbDMiWms3DZr3xlTPZ_55lmvRYv-I5zc64f6tKNxWw/s1600/HITS.png",
+"url":"https://www.doofootball.com/dootv/live/hits#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"hitsmovie",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiesRG1OIk1l5zksyotDg_eoTh-3T5ouyt2-GExjyseDCiE-Ugluq8TRWsBAJQYuiXdU-hROPUcKOiMv0-AknbTiLtARVpgQjTFPLaLQuibxhvLlH-EQMwV6HjIjlFljzYQgpaq7CNnPmOZwinFV0_CGocYy65kgv7TQz-mt2TehDfDpUnu_P7nGEyxKA/s1600/hitsm.png",
+"url":"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"blueant",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ChTobSU-cIPpTpPHDbuqoQiJUROMd4S0hkwa6iEuQ65IX2V3h6MYumPE0Vxs90TA32fFKiHTCcv6GxEerdkOmiJjU8WvQzXTJ6L9rl_8-icQo51wBWZevvnpaalhZfr96qHcxRhA9LVYvE1cTJQA855ZsUz5GiDP5PXB9VtZNRWqg-FxegWzP7DYpQ/s1600/00rock-extreme-poster.png",
+"url":"https://www.doofootball.com/dootv/live/blueant#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"blueantextream",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWSkOrRUR9MhuT6mOsC9tG4oZGbBkJd1FH8IhhSHxk6ZrhRug6rp_LjwLgFaNPiUrY4W-QoWVTJHleV87vB5v4o1JPjjaxnMjujwtMtTIuk5KiiBHXOWHEu6dQeleIvx39flG8VPdZnmziS093S7SodzsMmJBAnpYgadGnNO47VPLTPnNMo_fR3MMzfQ/s1600/00rock-entertainment-poster.png",
+"url":"https://www.doofootball.com/dootv/live/blueantextream#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"tlc",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhANyDsmtvlM-U6L296ysrm0DRndR6F_t6oXPXHcQiZx6hqoFCl-Vb30gUMEqrU76HvJC4EQkQ7r0VMqCd7IOADckP-uMHKNmogMhYZ_bTMc1s-Zn2hnyQBX7_XViYI__uuATA89GDOqYRFruF-i7INjeKg4nmglqf3ay0CchBicEyb-4QjT--IY3nd-g/s1600/tlc.png",
+"url":"https://www.doofootball.com/dootv/live/tlc#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CyM7ysFATMv69rHxVyymiW-Q66B_wPRtegE5MX-0zV04PjOGw_iTZnQszn0TW45u1SXpf--F8LBfWU15vfYImU1UJC82ex4i6I8gsxk3qOTWPJwOw9VAZqvxXzkLxz_Aa2bBYiBG20KUIeoMjVliQUipLs7xKRcpnPFjN_U5J0aPLy7aEWGxFrY9Dg/s1600/ctbtv.png",
+url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8",
+"referer": "http://vip.login.in.th:1935/",
+playInNatPlayer: "true"
+},
+{
+"name":"Hero",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBwzoruWXLWyud7nwANG-VuHo8cSSXiAk5eRrD_n6OrCLMktCHsZDReLcnIwxrMR5DBMe07eQcLh86UGzNblng3NPApsjim9X1wxjfmXr0gnjmUKw9zZ7XbO13h2QoaT9nvUomAeBRh4BuFGuRUjitv5GNOms8X25ZrL1zRpTQv58kntAHQbiGbN8cUw/s1600/hero.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=89781 ",
+"referer": "https://www.inwiptv.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"fwmov",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3InGeUzAJ_cuBxHQeNnY0Z-wRWQYFIOzep42SYD5w13zdVX_YgIN0jmiKqdoRUeLnB0CBlk5a-l2soxXX-3MlGLWNghHiqmPZzKsKCIGibRZwxnL0fBtjrywQwaw_Z_Vnzx1v6TrTnprGDytrrg4uHks7ee2lFC1CmK9J16ZwlEV9QIq3eWzQ6_s8qA/s1600/20200512164154fwmov.png",
+url:"https://www.inwiptv.com/player_demo.php?channel=89782",
+"referer": "https://www.inwiptv.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"fwsov",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCE4-j6CRzUnpKf5K5EnsvT4zGz0de6nal7GI3lr8x3SbHEcDW4YHRHziV5W2XQK4Aqc2qfhGDi5oQdPZqxbEpPoOYF0lZpPWWFPKgdDkxbw-zVI-_rWcpO03CSadyMlaJ1S5D6zfQWuWSATKMFpFUkn7tsqaQkJHaRi08_1tpaUKbJUF6UNPPgjuhug/s1600/20200512165346fwsov.png",
+url:"https://www.inwiptv.com/player_demo.php?channel=89782",
+"referer": "https://www.inwiptv.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyBEoO_dAj4HHPGF3BmKHhqHN-k_qdfRKokWPokI4ds1Hds8GXVt4EtpK2_sqh-vvptkyI93mwPR3FAT7pDesuNNufu1hrGZFsx4hMSirdUvcFa3JZfsmLGJg6lrOp2N4JuWJ5e0SI_VwhTnpZbdIRQ6TlsbPBskIyzICu3FHLduCGk-BW7jZ562gog/s1600/18754242_ico.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8?__&Key-Pair-Id=APKAJFBTWETXLROKW43A","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWphk3oh_-z1TENtQHTk2XR-F-_0tQXW912AQnQVsRQzAcfI0Lwfqihiyc_OuhTRt7yvikv73oM-qy2M1vgDox8jryjJtK59GmTbtrZDV3zodur7TUk-Nh6QGVC9-x1EnUTNwj6imN6Bs32jUWF0Xt2tGIhWGeHV__kmUf7weJAXDF8Hl8yE7FXRpPwA/s1600/18754239_ico.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC11/video.m3u8?__&Key-Pair-Id=APKAJFBTWETXLROKW43A","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjHAwRhxAeX-BOMEmiVZMuOiQHO7T7Uy7Gp1fqjYi50FYHG-QiSRlqR_s1K4dZ6b_FP6_2surk28h24OkyeI1vv_z6sNJdK_wMSLNB3EFJPYxTXTv2_nwaCNBfnuohhhJwioRH8VeamyudcMtdmST2rX0GXzCZBfA6j2F1zTn7xtPTW3UvVTMAWk-dVg/s1600/18754246_ico.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8?__&Key-Pair-Id=APKAJFBTWETXLROKW43A","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtjS0-NxkUK5uV1oLLDj_gAi-TtA4vxdRxhFFGA5O-rD1RKkXx1Ub25D3BmFCIsLZyySFddk3MpZG2zDon1kcxBHFHhUKfi_kRUxrlJiptYE_hGmhJxCc3c76sItqvgHm7_do3JR1PgplG0TvbTypTdlET0khozplks58V0-2ZBYY4ujrAufzpgZiDWw/s1600/18754244_ico.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8?__&Key-Pair-Id=APKAJFBTWETXLROKW43A","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMoNMqlwOuW9jrMe3xGcKa-l0sRDCfjXzMBKB3Ix0RFBsMx1W3CqYNkbPUOGHt3cmHLAWWvIFyCImiiKif_BalGTmuFyVB8iWg2OjI3Qwoecuvj0BIXpXVi3QWILe0DfJdOj3dyOvpanX528xn8H_IbDoTnfc67_rtlYeIJiBHQ4sFDlj0miehjVsGDA/s1600/heart.png",
+"url":"https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjE5IEFNJmhhc2hfdmFsdWU9VzJ3aXZFWUUrWkZGeWM4M1ZzNlBVUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF80NTYxMg==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJBtWaM11kIIQNaTCsfmYX5jT4ftVbv_yB9GEDlXdo3r4j8QvD_Y4-sZvnfs0nxO9webiK0a7TWGEcaKehPN1pLeVK6s8kabA72r4LrGmyrwDwmv-HS3wFXeEO7YU06VgcRIo1qiOyDOM2bZkkscBgDjMvPG5A5hlz0yu95uUkp-wSN-X_jOhWAzvnYQ/s1600/SWEET.png",
+"url":"https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjUxOjUwIEFNJmhhc2hfdmFsdWU9Z1dPQzRpeTBTM0Y5YnNoL3hVYUVNQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF8zOTM1OQ==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMhkgLUedJTvoNuP_MEyTFDhrkNaZcBXffh074iTf-4cmWWLIoYyVHnAWuZsvXrWDjcMpuWPJOLpbDrWBsVSRR06egByh8qQuNtd1S-bfZMpufWVck4NO7moE29uTDItP7yh7aH3Pgohzt5Oc725NdEJmecBdfaFcIE-UFZJI4Na6tnh-ucRFn-mzuGg/s1600/6240.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8?__&Key-Pair-Id=APKAJFBTWETXLROKW43A","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglInx9rjOZAnW45oOnMJFOPG_xraocflLbdS8OTEPhGX4rHEsZxQmNx_CqI9RlmNhbU3lEGwACRm0i_3eDKoN--wYp0uP1xF1fVtYpCVGHNmMm-cn6xcOPeQDJVFJsPUXFPBdYyCtskOd-z5eGcYxlA_eqJ8MAU7-IRUnwg0LcjS44QbPOjVEAjPR0QQ/s1600/unnamed.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC23/index.m3u8?__&Key-Pair-Id=APKAJFBTWETXLROKW43A","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSb3gcdxS4K8oi0Nbj8bznhBpTIZVF_V-zkVLkZe1KEDMTFMumadn_clIWdVeNq5PKXlgoGVI4V9sDa0TpwFAkj-Ggy8b8SnpOXrt-xUH9renA0Yz3QQjULhPoivfxBaXMl79z6v_77fIYK320IBy3RCvxS0GEhJhx0VttknCpYBQ_PtXKZ_e0QllyQ/s1600/แอททีวี.png",
+url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVCBJNK75iFUpprT6vLvTYjYs47eLxGHCp_RsLFMoUNa858OzerwUVsoWSVvrDiUoPCDb290UbHJtl3htNsTlD6omktMQ2XP_1Q0G0ldYKeV9NChT3t6Qo9XDHraAcYrneoLnpHOtRmD-X_4_onQaZ2VB7W_14MDg7bgKpQQrKDO8LlowMWl8Ou3JT_Q/s1600/x1080.png",
+url:"http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1DmzsPxYK2u8fxmQYs0mUVH2MuHCxEMNfiOnihcNjW7UB_ihT6cvOFXZwggbuGxXrKeSkZD0L5oJAAHXwYWp9toqJDkd6QdXTgr62dRYAi8pny-Y0O4aVWCojKGRJMEoxt0yo9T7JjJNM8YrfWzm8r4AdMcgZVM8hNzKAQt4XxW2HlbfJdXZCDD71Q/s1600/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",
+url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"
+},
+]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name": "สารคดี ทีวี",
+"author": "EkBanNa",
+"image": "https://sv1.picz.in.th/images/2022/10/09/p6Wh3E.gif",
+"stations":[
+
+{
+"name":"discovery",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm6n_Txgm02egnOtkOHUwGOlhPR2-5t9wZcciQ9QIVZ1ltRG5W8K8sukwHu6o_JJSCls4Y8Jt-wCRPWKJoostlxGb9WTRqutMJgkSdtAmTBzIY59ZHostRGJmXU5Hj9coQnHOaHjDqCTkFZYh2GG4t71JyXYCT_rE9QE3lSjRaO3azGU6F1gIl-pst7g/s1600/discovery-logo-2018.png",
+"url":"https://www.doofootball.com/dootv/live/discovery#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"discovery",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm6n_Txgm02egnOtkOHUwGOlhPR2-5t9wZcciQ9QIVZ1ltRG5W8K8sukwHu6o_JJSCls4Y8Jt-wCRPWKJoostlxGb9WTRqutMJgkSdtAmTBzIY59ZHostRGJmXU5Hj9coQnHOaHjDqCTkFZYh2GG4t71JyXYCT_rE9QE3lSjRaO3azGU6F1gIl-pst7g/s1600/discovery-logo-2018.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115399&extension=ts&play_token",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"discovery-asia",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUExfY9mJ-Gc4_x4YTPAXXTQYGnUnRHmxl3TO6vnydns96qBlmvxjgv_Vd4zEIrZEDHkgvHMK69Udkyh4imotwWLHOaGGVHCiNTKbFpWy4tCvvXq42GPw0dFph_DOImoWmUw11tXyqH6PXzKYgGHeoobAfN_4c36Lzv-DQosYySWTqQjIFFL6Iv00Tyg/s1600/hd-discovery.png",
+"url":"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"discovery-asia",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUExfY9mJ-Gc4_x4YTPAXXTQYGnUnRHmxl3TO6vnydns96qBlmvxjgv_Vd4zEIrZEDHkgvHMK69Udkyh4imotwWLHOaGGVHCiNTKbFpWy4tCvvXq42GPw0dFph_DOImoWmUw11tXyqH6PXzKYgGHeoobAfN_4c36Lzv-DQosYySWTqQjIFFL6Iv00Tyg/s1600/hd-discovery.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"natgeo",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5zOKYDbrFBC3tFY8MxytJMkfdmtUG0Hb7yB7nmS9Oc5CANfxhlGxvj_lCF1NOT3qOA71cfoao-elZM1nSSobdiGQZEMS9loUh8dgYmkauWt0h4VRMNH1vvy6lhhvIIWCgM4jssEovCaOfWF-ker4TYePQmEn7qBZ2dmfHRO4pQgTTBfKuY9GUmjiHA/s1600/hd-natgeo.png",
+"url":"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"natgeo",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5zOKYDbrFBC3tFY8MxytJMkfdmtUG0Hb7yB7nmS9Oc5CANfxhlGxvj_lCF1NOT3qOA71cfoao-elZM1nSSobdiGQZEMS9loUh8dgYmkauWt0h4VRMNH1vvy6lhhvIIWCgM4jssEovCaOfWF-ker4TYePQmEn7qBZ2dmfHRO4pQgTTBfKuY9GUmjiHA/s1600/hd-natgeo.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"natgeowildeng",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj93GHpKAJh9xPnwL_iOakxPMCHD4-B2wZufI6ddPd46mCEUR73RBohuzp4NWZRs5dcvDfYT914Hgahq-os1PzzNy-X0OoncCWECYqqlV1o7GRfYDEOIW2gnexj0l_AOiTf8ubEFdvRUw-keJRAUYw3jXzzlY7BVSJ58Tvimz3TrBfPQJMNoKgpCsfNjQ/s1600/National_Geographic_Wild_logo.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name:"natgeowildeng",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj93GHpKAJh9xPnwL_iOakxPMCHD4-B2wZufI6ddPd46mCEUR73RBohuzp4NWZRs5dcvDfYT914Hgahq-os1PzzNy-X0OoncCWECYqqlV1o7GRfYDEOIW2gnexj0l_AOiTf8ubEFdvRUw-keJRAUYw3jXzzlY7BVSJ58Tvimz3TrBfPQJMNoKgpCsfNjQ/s1600/National_Geographic_Wild_logo.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115735&extension=ts&play_token",
+"referer": "http://31.220.3.170/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"
+},
+{
+"name":"animalplanet",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfPXxMi6c5qehWH0Cu-G6HWhyPaVXOVMgO9Wq7MdunCKiaFG5wpVAmn6tpMuCyz-5ivHbczUJ5Hbk0Uy9PqROKIRgDw91MwgP3dtfGM2dL-sgfeuJF-CTMkZ7WuNn_YCNKcyOAo8hdkNizhDJZLZIvb16iQhSXt1t-J_WhECr0UG27aaO2yKBVtMtTSw/s1600/sd-animalplanet.png",
+"url":"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"animalplanet",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfPXxMi6c5qehWH0Cu-G6HWhyPaVXOVMgO9Wq7MdunCKiaFG5wpVAmn6tpMuCyz-5ivHbczUJ5Hbk0Uy9PqROKIRgDw91MwgP3dtfGM2dL-sgfeuJF-CTMkZ7WuNn_YCNKcyOAo8hdkNizhDJZLZIvb16iQhSXt1t-J_WhECr0UG27aaO2yKBVtMtTSw/s1600/sd-animalplanet.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115610&extension=ts&play_token",
+"referer": "http://31.220.3.170/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"Love_Nature",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ3uOACuagheyBeDNK5sJhMXFxwaMIGyVJvYSa0A0tq_B3l9cZAaXX9lP6lj7usXdL8SNZ6D5XEeN0u82Oq-YQWsbujHm4sIatDJR_aeUxnK1d57Dj_CzDE1AwukoRPHiqlIdPn7ysGg8EYRjBEjBsZGbxSPmhp4b4NoLC9QzFrsEHwQVEJc6dm08ibQ/s1600/LoveNature_TypeMask_FINAL_webready.png",
+"url":"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MzEgUE0maGFzaF92YWx1ZT1Wc0QybzAxOE5Eak5NdVZkbDBtMC9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzIyOTM5",
+"referer": "https://wacth.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+name:"Love_Nature",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ3uOACuagheyBeDNK5sJhMXFxwaMIGyVJvYSa0A0tq_B3l9cZAaXX9lP6lj7usXdL8SNZ6D5XEeN0u82Oq-YQWsbujHm4sIatDJR_aeUxnK1d57Dj_CzDE1AwukoRPHiqlIdPn7ysGg8EYRjBEjBsZGbxSPmhp4b4NoLC9QzFrsEHwQVEJc6dm08ibQ/s1600/LoveNature_TypeMask_FINAL_webready.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115724&extension=ts&play_token",
+"referer": "http://31.220.3.170/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"truesci",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-SeUiY8smF1YkMSOunfS36_7i4gJ3gs3gT12N5EBJZ6f2Gu2OXfeTPE_quPmVSK_3ijwXTYQMMMNOQ8I5ZvlFyJIVvLxWKoZnQGUocJ9sl9i_twr2gyb6vHwLBT1EqU56Ab94c4jYaTBXSma7VyKWpGImrLncJ_4sCn9UuWuHnGHB03rnLll_FmEjKg/s1600/sd-expsci.png",
+"url":"https://www.doofootball.com/dootv/live/truesci#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"truesci",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-SeUiY8smF1YkMSOunfS36_7i4gJ3gs3gT12N5EBJZ6f2Gu2OXfeTPE_quPmVSK_3ijwXTYQMMMNOQ8I5ZvlFyJIVvLxWKoZnQGUocJ9sl9i_twr2gyb6vHwLBT1EqU56Ab94c4jYaTBXSma7VyKWpGImrLncJ_4sCn9UuWuHnGHB03rnLll_FmEjKg/s1600/sd-expsci.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115660&extension=ts&play_token",
+"referer": "http://31.220.3.170/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"truelife",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyTWRLKBJSUpq1Vt0AT69D8UCdbEex3GIN1cF08EIRtp6INq5fyxXgqzqv3jQ6Fou41J_cSJNP7XPQ2-LtYDVkV0xFzS_gPqKntqiwlA8YSDEvSXvIc8yM84Hh1XHs5lBXb23s_yoKuTkUdYIgUXZ8ZFgrxrNjtqanI75yQsoDryl1djh48M5sE7Ssdg/s1600/sd-explife.png",
+"url":"https://www.doofootball.com/dootv/live/truelife#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"truelife",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyTWRLKBJSUpq1Vt0AT69D8UCdbEex3GIN1cF08EIRtp6INq5fyxXgqzqv3jQ6Fou41J_cSJNP7XPQ2-LtYDVkV0xFzS_gPqKntqiwlA8YSDEvSXvIc8yM84Hh1XHs5lBXb23s_yoKuTkUdYIgUXZ8ZFgrxrNjtqanI75yQsoDryl1djh48M5sE7Ssdg/s1600/sd-explife.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115659&extension=ts&play_token",
+"referer": "http://31.220.3.170/play/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"truewild",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzehXGvzFsx7pxLbJC5VjhZvzkgsLrxKXgsqpjZLF-xI60j5idFwPejF9o4d5WG4TPbJ0LHSkU2nZHdCaMCGOY9edWE2HATFh_l-UaA9c0YVl7vYMIznECBYcQW5yUp578Qhag69k-APUD9zsDmA45Efj1XP4dZ86P6qtyHn74sx6_uACDp6P8pTIXOg/s1600/sd-expwild.png",
+"url":"https://www.doofootball.com/dootv/live/ci#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"truewild",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzehXGvzFsx7pxLbJC5VjhZvzkgsLrxKXgsqpjZLF-xI60j5idFwPejF9o4d5WG4TPbJ0LHSkU2nZHdCaMCGOY9edWE2HATFh_l-UaA9c0YVl7vYMIznECBYcQW5yUp578Qhag69k-APUD9zsDmA45Efj1XP4dZ86P6qtyHn74sx6_uACDp6P8pTIXOg/s1600/sd-expwild.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115408&extension=ts&play_token",
+"referer": "http://31.220.3.170/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"history",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd6iOzQoPg6SM5h68tOhx6oetdXoXATxkpsG-_gnoNjvTIrU-go8X_VvkXSL-uDL9cStGk9405j-b4olR26BNLUk4XbkYC0OO8o0gtxXekADVlM9ca5JVNuU9aqQynNsDsa9Cehg1_1EDKxv4m-9-4-Z07gfOzpjxr-Y--yB1WZ9-hts_9gWKbmfXecQ/s1600/hd-history.png",
+"url":"https://www.doofootball.com/dootv/live/history#main_dootv",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"history",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd6iOzQoPg6SM5h68tOhx6oetdXoXATxkpsG-_gnoNjvTIrU-go8X_VvkXSL-uDL9cStGk9405j-b4olR26BNLUk4XbkYC0OO8o0gtxXekADVlM9ca5JVNuU9aqQynNsDsa9Cehg1_1EDKxv4m-9-4-Z07gfOzpjxr-Y--yB1WZ9-hts_9gWKbmfXecQ/s1600/hd-history.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"H2HD",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFP270GaKJmiKZeX-Y8vv8J38F1Ns5kLlq25zqsX5cJj_DPadvtumD6_RTSvrbM6rulPGHnSKE1UnaxQpPAaWLRVtiEjTZpJPZLC-sPAtxzhtdq_dfPDv7-wdHyN2ZXHRx_YwOy870ayloJxcO3cLuzm6Avvn-5qy4fSyRknCy0uR7r5YSfgMLevLpUg/s1600/hd-history2.png",
+"url":"https://smart-tv.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8",
+"referer": "https://www.keepmovie.me/",
+playInNatPlayer: "true"
+},
+{
+name:"H2HD",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFP270GaKJmiKZeX-Y8vv8J38F1Ns5kLlq25zqsX5cJj_DPadvtumD6_RTSvrbM6rulPGHnSKE1UnaxQpPAaWLRVtiEjTZpJPZLC-sPAtxzhtdq_dfPDv7-wdHyN2ZXHRx_YwOy870ayloJxcO3cLuzm6Avvn-5qy4fSyRknCy0uR7r5YSfgMLevLpUg/s1600/hd-history2.png",
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115713&extension=ts&play_token",
+"referer": "http://31.220.3.170/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"bbcearth",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijnl7jKNxwyfbhchzaGXweWXMUWbJzWG3QgSAu1vJqGQJolC7GvSzej7rozhDDnKHGj6WhC70liPGiDy7y67_7NAYmMvLdD6aYVg2hutVJaLL2WjPR7ro-6Ysmz0kxQMa5I1GWsEAE89px-h1ndHfHlBdqujX5jA5LZCNuMWinnJ849Iz7t_ezSVnXmA/s1600/sd-bbcearth (1).png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/bbcearth/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+name:"bbcearth",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijnl7jKNxwyfbhchzaGXweWXMUWbJzWG3QgSAu1vJqGQJolC7GvSzej7rozhDDnKHGj6WhC70liPGiDy7y67_7NAYmMvLdD6aYVg2hutVJaLL2WjPR7ro-6Ysmz0kxQMa5I1GWsEAE89px-h1ndHfHlBdqujX5jA5LZCNuMWinnJ849Iz7t_ezSVnXmA/s1600/sd-bbcearth (1).png",
+"url":"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrYXtfkmvpKuWk5hG5G2oagcfSP0vWitrLK1BUvol3g0LWsfvJ94gF4H_8OpKnLc7llPf0qYmFsV5MHXIvy_Xdeae9x0Y4wtowBHfqf661MXXJM1VNQ60vXBzTd24Deu63odQYZhQFz2VGIg3xrCVo1vQwh43jLGqGrlWTQQ1eobgBkZXync68hOCiUA/s1600/SAMROD.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171329/LC8/index.m3u8#http://61.19.242.134/feed//202205171329/LC8/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0AHw4kLlycbFvARSf4_C_YCaO_E0rXxqZpVPf6m4LZVkAj4vORQqPzgTTdzWMn7PCCKGKmDdPLGhrr0CJk-14uuvnCNLK-lHKLlJI7xE_X3YnGqF-K45PDxxkivmbBlTJmYMBjkEo9LTfEX1n-Qgn61bqTeQeRXbpPB0tQ9vd89YXKVMoI28CFxgQA/s1600/MYS.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171329/LC37/index.m3u8#https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqKxfbEUfgRnZYrCHUaE8lHaXalSncmj8TaOSFriS4RtvgD5jZPPEdhKnp7gs-TRlNv0J1B-jdaf5m4nnZobBHj0P3Kzl6O6w5Bsd3fQZpgTDx-Uc5sNfbCae9u3JlgCA_le7XZUoHUiXcAH6-m9d1Rq_afRFsPjzMoJxPikL4qvxaKauQ892ZnfJJ5A/s1600/TNEE.png",
+"url":"https://mediasv.online/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA2OjAwIEFNJmhhc2hfdmFsdWU9T3pEdkx1K21INnBXMm1XVTUyL2ZrUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF81NzY3OQ==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxG4n0-mmUVld8Lgq--Dny2oYdp_30jiQO46wdP-rG3MMAq3qD01c5AbYIsJUrQ0DWxl-Hclm95_-93Oyz4cmRSFlIewiCnIoKM5RXOrlNeWt41jOd2ENgWprrrCNasQTkLX3ttevxLmYrmIrfuDiM4-w-_TxGcq5g4WZyGKOf69PUf7aleTxF-1GzxA/s1600/ของดี.png",
+"url": "https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjQyIEFNJmhhc2hfdmFsdWU9L0Y5bkRYSGtrSFFCK2dwVHl6alpPQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF81Njk4MQ==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9iRvzf4U5ioR1uokXXgZjBvz9JwDJdSkqveBcWU-KN-LtktlmPaOvLWyv8spa4_M3jaCpkVywALuKXReG73Tkz6R2TV8K8BY8ReLqNlvc1uQ-a-upKRy1yf2RsSwLNu-8MD9iNdUYx3RrPblrR1PDLZSm2cPYsy34WTH5Lo925WiCH2onTZOJXx6ZWQ/s1600/RELME.png",
+"url":"https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA2OjIyIEFNJmhhc2hfdmFsdWU9NEM3dGJ5TW90Y0llM1piUm9vNnBidz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8zNTIxMA==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-c1WBD8XUMDRDonFOyXlRl_A1rvFnv-BnLj6QewtgvehlgMI_3_ymw4GcyMsEOw1PLMumRUd_MucdXIVs2btfCOz3lntlBJhfRXe_M-R460DUXLmqzYZNEQny5yI8CLvey7y_sumZnQW0-JkmPUf5SGhY8oQLL_4aWd9Evr8K5lGUoiaJqXEV7pIDzw/s1600/BXF.png",
+"url":"https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA4OjU5IEFNJmhhc2hfdmFsdWU9Q0JCTHptdXhENVlYeFNlQ0pLczFlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81NDIyNg==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi1NEK_mYaf7r0aj2-EcUga_Zr2IqP5c18-ANDnUZwBA1WS0nRrqudjeBAMBlGqvc97xypZOPgMQ-JodoBvKwh97hqTx7Zp3N_WoGDW2TYoLFSaRuqzIXxl-ep3m6-JVO1LB6PMVScd4Dh-Kbjff6lfugRPkJGoetN_RyaZ7lFdck0DFo0Lm3I8-NabA/s1600/EXO.png",
+"url":"https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjIxIEFNJmhhc2hfdmFsdWU9eUx2b21vQkFmK0NGbXNURE45eThEZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF85NDIwNA==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-2_mTxngBG8S_MZ5XR2pnuayISC9-2_AneI3zGmPYZIjA7azB6dx8SOv51ImF0PSZ7_10X9p64nu7s9exn15oz572IrV5ivcuMtZcq0YXu19TfdJeClWrIyJmFW2lVXVfsxj9plVqp4pBi6LY5AFC5kWReWfvTTgRH3fUkzU38zDdjc4qK6aeBicPg/s1600/BUSA.png",
+"url":"https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjEwOjIwIEFNJmhhc2hfdmFsdWU9QU9ZRWZiVXNNelgweldsVGtHNThKdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF8zNDU4Ng==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUMF6SnlrTi71lZbaD8KC5W8PKV_AWQ2hXzDh4hC8grCuCmJY6ZFrQA7zoY0EE-28LB_0gYQv9GgesL7n-erEyRDPPyyJbTXtZLTOpsTdypA9IVyj01s3M-G7d77k3UH9-TTxKPVjEZaPy_eHSbz9h7KcIZM4xqrIU5DmkiBajEgkD47MwjeK_f-ABrg/s1600/sd-bbclifestyle.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/bbclifestyle/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghUAPCY_kqm-zh5QJ4u3cGxL5pk7dABoFP5fDNI7mS5cwV9UgZJB5brWuHudSk8WvLDToalvp1by1FIR9hmQVZ8rfzzKP4aCabZJx9ZpbCwX1g5_qjQwhbzW4M7vK2Xj-49s93rjL1lGgWdWBq93MwaoTw6n80cI2OyE2cAIobXesbn74sqJUDe_4Snw/s1600/Discovery_Turbo_logo.png",
+"url":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8",
+"referer": "https://cdn-apse1-prod.tsv2.amagi.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7EOvamvckGfQiTKTCpR_UItcG0XW8al6haLYLRj1kyBr-rM9FWvaqKvN_ipYz5CqF-h-HW9bacodJiTsDoQEWC6ClbM1WeJ8dVHMV6HxH36_8Lcol68K8pfHfsZampuezZQpo3Kx752dGe1YNYreCpYhgvUZ52kM0o2SXnpC-mWQmZ05SovS_6ABBNA/s1600/Food_Network_logo.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/foodnetwork/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1Or1SgKHn62OGw48bapg6Z09g7UPRHJECnk9e0mDVtrw_QS10vAxHANdZN0YeaBGGnqQI7OCfFh1i4J8NELD6L2f3fYNdWMM3I3dQlSEQWMV7DBOe9yvyesLjkkAZHrbShBC7m9ibBkZe3F35YCAqKyknsm6M0LF460XZNydC6RXfhPdGVxMwZ7WhQ/s1600/4e0eb.png",
+url:"http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW2xzch7wYnNmFpABQFq0sfEiazqvWi7dMD51-kgcZF9B8FdaOa1cyxl3GDRnyvW82tpO5wOWpMC0UPs0HHC88cPOqAAPSRLCGy7r_yDN1aBk-_JcKTYefrYh5HaRSjt12O9CaH3eSvNDXMiFDLONy3k6I1ke9XbIU4NRdBjwIEI4u5eEKFrm42dMMDQ/s1600/smithsonian-channel-logo.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC43/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqr4XCD_pkZe7bvR2KISizby2Q9W0uHNq09cU4HrMoA2xuEdso8piEieyAsZo2uxwXWoIHWdEpF44ksrzLupnYomgdkZLIBPOAe-orwuO03YZlUcWoil7tMsURLqt77iB9-vQ1hVGSGqJmtGtOzsmlOhhvOhp_pIi7Ya2Zm4rHKcWvqY1nKWN9OlsmTA/s1600/worldcc.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC3/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-w1qrYSt3NUpQarvB1DW6jaxSyNtDF7l0xiiIDHvMHiTqVZBvxmJWwhbWsF6VAGzv5MmyOwNiWanC9JEGjT_vd9OSoERF7gBbEmbzt4not3Q-P7BPy4YXxw2Vp1zg5yFsR3NYkDfDY7eiBjbfJyfks6lHsJRiBfwBG9l9v5IeaHJv-ZDXdSii6FQaw/s1600/TJDDTYJTYD.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC18/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI3J_5Y6FVRurY0vpPdurUem9NZhmWNVbTlO1TQWQQV7XUtI3yAsaBdCQgNvKVt4dFsQJgUxMiIItWKSHfWQyp1QbA6q2lzrJDt5HnNhFeZdRFjeycMFCNawob62DKL6RR7zRr3OHW9zY7U8kU7kyTXsAkF-62gf_SCZ6qSAetv-CTK-iFavKSXdjfMA/s1600/discovery-hd-world-logo-300x300.png",
+"url":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?|referer=https://ustvgo.tv/",
+"referer": "https://ustvgo.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwf3L6cNLBwqqy5qyVRGisyMig_Ile63vrb-ru43Uz2JjN4SmW4LmQ3ihz0kDaGlKauIAl_SEt91iHBW8BnbO9bVqZ6VLyIz9GeybdfUxdY9P8tcd8BQbAAfKRFwbGPLJtiXsmJGxclqrto1FSrn39ENBhUlNDpjCb6Rss92jF25MhJg1tcI5IUPM4jw/s1600/14c29171-17c8-4c57-996c-2e947bf8a34a.png",
+"url":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8",
+"referer": "https://ustvgo.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ep55BRR96Ya2Bh7dx1WjPQtJQx7b3Af0NET_L9rhwRRPqjX6e_KIVYOkCRoq9Dl_f-fsjgCVIZbgHkriPXvIlweEjSIV4dMzSJUEDB-1wk1w5BnS1rsKB62xDyCYyM7XogXATQQDGTy89tL7L_CzFqhZJCzfN4u2QPA2a4g3jAScE9va2mZi1_uDzg/s1600/51ugkx5IRFL.png",
+"url":"https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+"referer": "https://bamus-eng-roku.amagi.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcWkz9423TmIMZTUcBlGuMC1syGYY_aAzb2Kry4LtCGSNtbWk83DEvq9a39Y4WlX0z_JIkhXblLHxyrsOcTlWabtgB8S0VENHmBuD1OlJ7GzadESeyVGXVrt3Y_E-n0cJQ2kzo17Dhx76ybE5qrOmeH15Sp44O5P-4C3wD9UEelpOnjY8VGPBrS5zLJQ/s1600/81mVVM88kjL.png",
+"url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8",
+"referer": "https://ustvgo.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJCQgex2mTxlKNIh4ppGbrKNUGgNdYfIRJx0gaT8MjnyYUbjsNF4uETQyJEMY40VENIf010nYxA8JV6uAOyQGWp1PKI9KQKkZLS-PcAnm7JOxr5HBTAKbZU9z12GqOBetswSdC6Jjif5mjvH3vERDXe65d_GbWp6MSi_fKFwMqA-3rYSi9CFos0ufW8w/s1600/Real_Wild.png",
+"url":"https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
+"referer": "https://lds-realwild-rakuten.amagi.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBWzjRSHYwJ23ZW9EeVym1sc5M6uUEMUsIW02ELGJYwRXGD4aCdbt0gDo8DPzltZHc_C9RPCLVC7GdFRAX9VVhE1q8fc6mixPwQK4ZSQpgxyNn_xgiqgy13uo4ah3-P5zYbPFemmOxU7I9bem_3DarDrbu6odjWDOLS5qMyJYW_h-63YubCHG5c6wKQ/s1600/unnamed.png",
+"url":"https://lds-realfamilies-plex.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realfamiliesplex/CDN/playlist.m3u8",
+"referer": "https://lds-realfamilies-plex.amagi.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1HKUYj7SJB88hQ8sYrD_UlfvzW5namp-Bn5txzk_YT7_EeozW8Ph8JGiCBlCgBfqhcYT3quYsmxGzW77BAAr1-O6wVvfdMgv0hcCSuQ_2xAS9D2yU9j7q1gxXy7ABCp3f1wrD2Awo6dYPACUZ4D7ICMcAS9Qa62Da6xiESFv_PGWVn4WzvJxOl0sDPw/s1600/ZCxa-jds_400x400.png",
+"url":"https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?checkedby",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name": "การ์ตูน ทีวี",
+"author": "EkBanNa",
+"image": "https://sv1.picz.in.th/images/2022/10/09/p6WkbN.gif",
+"stations":[
+
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlSiOucUou787Wo8KatyYlgW5lSLb4id2ASYzAf1J85vHAYYJ09dBK9QbKypDcFZD8dxtYetCr7mv3cHC6CFnkEOVjzFr_prUgamk49gdFhpQIuW13UIrZyxXiWu7NnZJNyiu1Yf3n68ZJ9tMyQhcCXGYKMb3leIqi66X5JUFWAQLXMjUumjqjlqVKnA/s1600/images.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truesparkjump/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAyP_HonRR9xoNU8nDvjA6j3W_Odrxw-fYeaTsmfQagn7D_N7hEE5GKpiLsYSp7nlXBGEw05fjbqd8YHGrmgg4iveghK1gUGMerBw8wz71Vp1hEIeROgtwtrZj2aNvtQrf9isvR35CHG9VcDJ2z_GalWqE5kTwzRyludQ6EbZ5twH9W5FrLmvOsD1OEw/s1600/images (1).png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truesparkplay/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFef44DVi3WvS-1gSvCLP5DUwuuNO46YnmlZsw-iQg29cNeokC2ldOjwFKg_TLmU7TsdbzBiDF1EQSw1Y-38rpF7Dw2NEaGoIUKpaz78EyFT_wdbIyrvVaMPovLCOG10M34msSXm2goBf5Z3af-J3-HKsH6i6KVTvIj_CK49MvSNiHddQhMmIM8r04lg/s1600/unnamed.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r8/nickjr/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxbg2m37wmL0dg_BqrLRj_sfwT2g7aHPHi7f_4RBoVsgr8d5qO1THJp8Ou5gocFzDlBu-dxNpe2rJG3exlHkZixHKm0qyO4PbgqnWSaO7fEvymn7E-bdTomw5bhPfIR1bZldbvgyZWl1ClZmlEkkfJKks23hMyJvbCCPs8f0ylN9RJbT6cdRtVrXAoHA/s1600/AKR20191121099100008_01_i_P4.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/aniplus/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrhiwi9tv7PvvrHygswHQj9DhUMUxNwcIWxDN5DUPR0AP25o4AA8_Eq3pvwy09u7KV_MCMz7CQUkqxo09g3GTtHk4frCc628Q32C7OoQ3Va5OHMmPksKFyH-cPKt8fWvN8v_Og8kOjmIJFKdDSj21_9SbIIrH6gVAxAJuUagr7fFyIieYaOflF67VmpA/s1600/Boomerang_tv_logo_(2004-2015).png",
+"url":"https://cdn6.goprimetime.info/feed/202205171329/chboomberang/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjomyxdJlrS8Yalm9JA1SSrA3cifcRALtEzUsjJQI4rwDDyrYsS9vf8xj9bCMaYpQSFtmZXO3kgd6XQzmp9hsbVU67WHiaNJqt75kadKoyN9yvXv01bELb5jwIS2DPRLc-deLzhWl8CPtikjqkJDze_lHwa4NuKNK7R9fEp7jsISI_1sFvrN5z7CCz0BA/s1600/sd-cartoonnetwork.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/cartoonnetwork/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcwjsXE2a9Fxlx22z8lXrjJl8BPcEZMSACZ1rr4ZVz0S75QdX-3pKgNE5SiHmlPAkzAZvZqFsH3uM7EtNxxznVNUzqS11fDoRk1j0r6lQkBsBFttU4QrseSUYeaWIy-j_2S1yVXCCi8bIlY89SCpLrlSMG74iQjIXixTRJcF9XmLoJKowDXhN8y7MAjg/s1600/DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/dreamworks/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR7fmMf5jgItvMGJZnktKjGWjUuFkexPe3_Ig2WkjbpuwhXJmy0_N1-gGQzYfDxPbRd759y28bSTfRmSi6_OrP0yclM1lt4rRCtMs2loliqj7rcrRofQjQN-Lzw_nO2F9ZqO-rTBzAfuu28iObpsJxWVckN9BoLqGxaDwTaFlXTiIfhCwXpmwLvQ64Ig/s1600/ดาวน์โหลด.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/nickelodeon/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1LWfm8cqxd1ZqtJTsf9FvsdlvDvNTLJpA-cAMuEN6Agi0MlbXFKIc5Z6ePZ4SDjGw1q5Ry2Vm7tRpzyflPmA_ghltge3qjfDM-B6rkU2uKsAuULY3mt48uKPDq8PubXsLtdGs1foKSzAuEK-oBpgbSQKC5-J_B681yHEkwo44nmgkVur5E2TefvYyDQ/s1600/ำั่ะัก่.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC53/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt9p9vhqLvBNGNGrtpxupWYtcBMi5gu8e4-JmSjM62i9HRGFo9pUkhS2JWBzKOdfwkwYTdClgMi8lfReMryRic1O9VVkhh7ospyOHWnLiLaqljT299Gn7WoCb8nIUv449zdTf7xVLdmAb7HOoIN7nPA8kX8v9y3YjhZIxZGrLS5Nr22YQY7WxCYebJuA/s1600/KID.png",
+"url":"https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjU1OjA3IEFNJmhhc2hfdmFsdWU9YTQxOE56cUhTSFN5RHd2dkt6ZVpXQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81NzA4Mw==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5H-DqMyvPZ5oy4xHGcwRizQG45iLz8tgXr0JadzS-J3W1IOU_aPkDTpFO7pBs3g6Tb2oIvYd0WeSrLjlYHD2g528iUKUzL7Yk3BsQYwrf4GMA4MK6Iz4rvPKpbCu2pMWgU8AKzWTFRnUN2R9V_A2xOgh0PID2WEShEK915NDzyaTvvEkL7WdNgqfYpw/s1600/4c26a640-ede0-11ea-bbdd-775d9efe2958_original.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/toonee/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ltq0dQQEozJM4nZGl6lkW9SOSUFRQTzssvMrdAFQZNjiQuS1_oTxbeaPFm7VPnJnLLPQ3721cTNIha0ihnmpf41VPyoeX3Rpt9fthTz1Q2KCc4CCFNLvPHe8jQGXyft05LbrpX1G5Oe3bMeLp8bQ5QNw52JvQg8JS0LAYlxVVtiituZoXNwbcqQMFA/s1600/CartoonClub.png",
+"url":"https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8",
+"referer": "http://cartoonclub.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyiwHukrqvOeX60S9lZshOpm39zO1N8mK4OTkSJ7IHFFRB4F47-USwSIgDre1820CUluVF6Bt0DfPeuzPbkGShase5jnHpNF7-d6_W118X6_CPWeB-rMoz1-TpbqDoudn6WnS6yJ4YAX6PJ2M7t_R0lZdGCOZoTYaqtSRMqx7AGE3PUYrhSTZD5lvHZg/s1600/20200512162950fw teletoon(1).png",
+"url":"https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8",
+"referer": "https://www.uhdmax.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9v3WfQLMR-lVMqhzGc6i9t8QrqE7tksGPknsL_kaLpFajzVzrkoEMBwEuENVEeK3hBjYKVzhG-65OT-QJHYCRJ3KHe2Wu7Lox6PGCKrV0o-unGOlqyI9jF2Me9WBd6GSzPqHZXBYC5hM2-yoUBjuHHWGTf3hrXr9OPSiRncyLPjlyYoFPkO5xFff4pA/s1600/ZooMoo-Kids-2020.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC38/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-z-67NlO25DIVjsIF_QEkcSQqKTxqwT43JwlNTjsLxItTsTlNtkl-A0OA_UDxUuLnILtcjgjDwvur_yXxJBExeMNekFX26icflEalcVM1LsD024a14UIAhGm1FGkrmQANBkDW3B6U54HzkJUN9H6FxkeBq6IejMwHjj7vmwmuFNw-3UrgAEr_LKI3w/s1600/BabyTV.png",
+"url":"https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8",
+"referer": "https://vips-livecdn.fptplay.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh414NehAdTMimYnxcLlAEBHiQ0eRbYUIYcTI2P-A0XcaKjU6oHksjWl-3KTc0BJN2NmrDl4fSm34vGRnqh88mW9vFNn0z8-blbopexF_ElghLfHt-PaHDwFlt5G7YKCTMLUmouqc9FO2jJ67fQBQmxJQ51KNuv1QyAYtrvrh7Vr5C_e144Lo1oXZxw/s1600/BabyFirst_Logo_2019.png",
+url:"http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8",
+"referer": "http://vips-livecdn.fptplay.net/",
+playInNatPlayer: "true"
+},
+]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name": "การ์ตูน ทีวี",
+"author": "EkBanNa",
+"image": "https://sv1.picz.in.th/images/2022/10/09/p6W3aV.gif",
+"stations":[
+
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlSiOucUou787Wo8KatyYlgW5lSLb4id2ASYzAf1J85vHAYYJ09dBK9QbKypDcFZD8dxtYetCr7mv3cHC6CFnkEOVjzFr_prUgamk49gdFhpQIuW13UIrZyxXiWu7NnZJNyiu1Yf3n68ZJ9tMyQhcCXGYKMb3leIqi66X5JUFWAQLXMjUumjqjlqVKnA/s1600/images.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truesparkjump/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAyP_HonRR9xoNU8nDvjA6j3W_Odrxw-fYeaTsmfQagn7D_N7hEE5GKpiLsYSp7nlXBGEw05fjbqd8YHGrmgg4iveghK1gUGMerBw8wz71Vp1hEIeROgtwtrZj2aNvtQrf9isvR35CHG9VcDJ2z_GalWqE5kTwzRyludQ6EbZ5twH9W5FrLmvOsD1OEw/s1600/images (1).png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truesparkplay/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFef44DVi3WvS-1gSvCLP5DUwuuNO46YnmlZsw-iQg29cNeokC2ldOjwFKg_TLmU7TsdbzBiDF1EQSw1Y-38rpF7Dw2NEaGoIUKpaz78EyFT_wdbIyrvVaMPovLCOG10M34msSXm2goBf5Z3af-J3-HKsH6i6KVTvIj_CK49MvSNiHddQhMmIM8r04lg/s1600/unnamed.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r8/nickjr/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxbg2m37wmL0dg_BqrLRj_sfwT2g7aHPHi7f_4RBoVsgr8d5qO1THJp8Ou5gocFzDlBu-dxNpe2rJG3exlHkZixHKm0qyO4PbgqnWSaO7fEvymn7E-bdTomw5bhPfIR1bZldbvgyZWl1ClZmlEkkfJKks23hMyJvbCCPs8f0ylN9RJbT6cdRtVrXAoHA/s1600/AKR20191121099100008_01_i_P4.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/aniplus/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrhiwi9tv7PvvrHygswHQj9DhUMUxNwcIWxDN5DUPR0AP25o4AA8_Eq3pvwy09u7KV_MCMz7CQUkqxo09g3GTtHk4frCc628Q32C7OoQ3Va5OHMmPksKFyH-cPKt8fWvN8v_Og8kOjmIJFKdDSj21_9SbIIrH6gVAxAJuUagr7fFyIieYaOflF67VmpA/s1600/Boomerang_tv_logo_(2004-2015).png",
+"url":"https://cdn6.goprimetime.info/feed/202205171329/chboomberang/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjomyxdJlrS8Yalm9JA1SSrA3cifcRALtEzUsjJQI4rwDDyrYsS9vf8xj9bCMaYpQSFtmZXO3kgd6XQzmp9hsbVU67WHiaNJqt75kadKoyN9yvXv01bELb5jwIS2DPRLc-deLzhWl8CPtikjqkJDze_lHwa4NuKNK7R9fEp7jsISI_1sFvrN5z7CCz0BA/s1600/sd-cartoonnetwork.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/cartoonnetwork/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcwjsXE2a9Fxlx22z8lXrjJl8BPcEZMSACZ1rr4ZVz0S75QdX-3pKgNE5SiHmlPAkzAZvZqFsH3uM7EtNxxznVNUzqS11fDoRk1j0r6lQkBsBFttU4QrseSUYeaWIy-j_2S1yVXCCi8bIlY89SCpLrlSMG74iQjIXixTRJcF9XmLoJKowDXhN8y7MAjg/s1600/DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/dreamworks/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR7fmMf5jgItvMGJZnktKjGWjUuFkexPe3_Ig2WkjbpuwhXJmy0_N1-gGQzYfDxPbRd759y28bSTfRmSi6_OrP0yclM1lt4rRCtMs2loliqj7rcrRofQjQN-Lzw_nO2F9ZqO-rTBzAfuu28iObpsJxWVckN9BoLqGxaDwTaFlXTiIfhCwXpmwLvQ64Ig/s1600/ดาวน์โหลด.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/nickelodeon/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1LWfm8cqxd1ZqtJTsf9FvsdlvDvNTLJpA-cAMuEN6Agi0MlbXFKIc5Z6ePZ4SDjGw1q5Ry2Vm7tRpzyflPmA_ghltge3qjfDM-B6rkU2uKsAuULY3mt48uKPDq8PubXsLtdGs1foKSzAuEK-oBpgbSQKC5-J_B681yHEkwo44nmgkVur5E2TefvYyDQ/s1600/ำั่ะัก่.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC53/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt9p9vhqLvBNGNGrtpxupWYtcBMi5gu8e4-JmSjM62i9HRGFo9pUkhS2JWBzKOdfwkwYTdClgMi8lfReMryRic1O9VVkhh7ospyOHWnLiLaqljT299Gn7WoCb8nIUv449zdTf7xVLdmAb7HOoIN7nPA8kX8v9y3YjhZIxZGrLS5Nr22YQY7WxCYebJuA/s1600/KID.png",
+"url":"https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjU1OjA3IEFNJmhhc2hfdmFsdWU9YTQxOE56cUhTSFN5RHd2dkt6ZVpXQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81NzA4Mw==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5H-DqMyvPZ5oy4xHGcwRizQG45iLz8tgXr0JadzS-J3W1IOU_aPkDTpFO7pBs3g6Tb2oIvYd0WeSrLjlYHD2g528iUKUzL7Yk3BsQYwrf4GMA4MK6Iz4rvPKpbCu2pMWgU8AKzWTFRnUN2R9V_A2xOgh0PID2WEShEK915NDzyaTvvEkL7WdNgqfYpw/s1600/4c26a640-ede0-11ea-bbdd-775d9efe2958_original.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/toonee/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ltq0dQQEozJM4nZGl6lkW9SOSUFRQTzssvMrdAFQZNjiQuS1_oTxbeaPFm7VPnJnLLPQ3721cTNIha0ihnmpf41VPyoeX3Rpt9fthTz1Q2KCc4CCFNLvPHe8jQGXyft05LbrpX1G5Oe3bMeLp8bQ5QNw52JvQg8JS0LAYlxVVtiituZoXNwbcqQMFA/s1600/CartoonClub.png",
+"url":"https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8",
+"referer": "http://cartoonclub.tv/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyiwHukrqvOeX60S9lZshOpm39zO1N8mK4OTkSJ7IHFFRB4F47-USwSIgDre1820CUluVF6Bt0DfPeuzPbkGShase5jnHpNF7-d6_W118X6_CPWeB-rMoz1-TpbqDoudn6WnS6yJ4YAX6PJ2M7t_R0lZdGCOZoTYaqtSRMqx7AGE3PUYrhSTZD5lvHZg/s1600/20200512162950fw teletoon(1).png",
+"url":"https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8",
+"referer": "https://www.uhdmax.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9v3WfQLMR-lVMqhzGc6i9t8QrqE7tksGPknsL_kaLpFajzVzrkoEMBwEuENVEeK3hBjYKVzhG-65OT-QJHYCRJ3KHe2Wu7Lox6PGCKrV0o-unGOlqyI9jF2Me9WBd6GSzPqHZXBYC5hM2-yoUBjuHHWGTf3hrXr9OPSiRncyLPjlyYoFPkO5xFff4pA/s1600/ZooMoo-Kids-2020.png",
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC38/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-z-67NlO25DIVjsIF_QEkcSQqKTxqwT43JwlNTjsLxItTsTlNtkl-A0OA_UDxUuLnILtcjgjDwvur_yXxJBExeMNekFX26icflEalcVM1LsD024a14UIAhGm1FGkrmQANBkDW3B6U54HzkJUN9H6FxkeBq6IejMwHjj7vmwmuFNw-3UrgAEr_LKI3w/s1600/BabyTV.png",
+"url":"https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8",
+"referer": "https://vips-livecdn.fptplay.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh414NehAdTMimYnxcLlAEBHiQ0eRbYUIYcTI2P-A0XcaKjU6oHksjWl-3KTc0BJN2NmrDl4fSm34vGRnqh88mW9vFNn0z8-blbopexF_ElghLfHt-PaHDwFlt5G7YKCTMLUmouqc9FO2jJ67fQBQmxJQ51KNuv1QyAYtrvrh7Vr5C_e144Lo1oXZxw/s1600/BabyFirst_Logo_2019.png",
+url:"http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8",
+"referer": "http://vips-livecdn.fptplay.net/",
+playInNatPlayer: "true"
+},
+]
+}
+]
+}
+
+https://drive.google.com/uc?id=13W0iaAgESHQauEmhvImbnwp0kbbFHBK7
