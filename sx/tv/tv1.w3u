@@ -51,6 +51,13 @@ playInNatPlayer: "true"
 "url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/","embed": "true"
 },
+{
+"name":"3 HDx",
+"author": "",
+"image":"https://sv1.picz.in.th/images/2021/02/14/oR6v31.md.png",
+"url":"https://ch3plus.com/live",
+"referer": "https://ch3plus.com/live","embed": "true"
+},
 
 { "name": "amarin tv", "image": "https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27135","userAgent": "exoplayer_video" 
 },
@@ -100,6 +107,13 @@ playInNatPlayer: "true"
 "image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png",
 "url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-ch7&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"7 HDx",
+"author": "",
+"image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png",
+"url":"https://www.ch7.com/live.html",
+"referer": "https://www.ch7.com/live.html","embed": "true"
 },
 
 { "name": "mono29", "image": "https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27144","userAgent": "exoplayer_video"  
@@ -151,7 +165,13 @@ playInNatPlayer: "true"
 "url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-mcot&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/","embed": "true"
 },
-
+{
+"name":"mcotx",
+"author": "",
+"image":"https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png",
+"url":"https://tv.mcot.net/index",
+"referer": "https://tv.mcot.net/index","embed": "true"
+},
 
 { "name": "one", "image": "https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27140","userAgent": "exoplayer_video"  
 },
@@ -379,6 +399,14 @@ playInNatPlayer: "true"
 "url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tpbs&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/","embed": "true"
 },
+{
+"name":"thai pbsx",
+"author": "",
+"image":"https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png",
+"url":"https://www.thaipbs.or.th/live",
+"referer": "https://www.thaipbs.or.th/live","embed": "true"
+},
+
 { "name": "TPTV", "image": "https://dl.dropbox.com/s/5r3uztgopkhls3x/TPTV.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27186","userAgent": "exoplayer_video" 
 }, 
 {
@@ -428,6 +456,13 @@ playInNatPlayer: "true"
 "image":"https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png",
 "url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tnn24.&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"tnn16x",
+"author": "",
+"image":"https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png",
+"url":"https://www.tnnthailand.com/live/",
+"referer": "https://www.tnnthailand.com/live/","embed": "true"
 },
 
 { "name": "nation", "image": "https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png", "url": "https://www.inwiptv.com/player_demo.php?channel=27162","userAgent": "exoplayer_video" 
