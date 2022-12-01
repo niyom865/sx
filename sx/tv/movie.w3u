@@ -1,0 +1,474 @@
+{ "name": "https://movie.com/",
+"image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-hbo.jpg",
+"stations": [
+
+{ 
+               "name": "asianmore",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-asianmore.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-asianmore&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+
+{ 
+               "name": "chinesemore",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-chinesemore.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+{ 
+               "name": "koreanmore",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-koreanmore.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+{ 
+               "name": "axn",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-axn.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-axn&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+{ 
+               "name": "hd-rtlcbs",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-rtlcbs.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-rtlcbs&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "hd-rtlcbsextreme",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-rtlcbsextreme.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-rtlcbsextreme&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-tfilm",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-tfilm2",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-kbsworld",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-kbsworld.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-kbsworld&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "sd-moviehits",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-moviehits.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-paramount",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-paramount.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-paramount&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "sd-series",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-series.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-series&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "sd-thaifilm",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-thaifilm.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "sd-tvb",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-tvb.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-tvb&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-warnertv",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-warnertv.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-warnertv&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-xzyte",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-xzyte.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-xzyte&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-dreamworks",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-dreamworks.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-dreamworks&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+{
+"name":"hd-axn",
+"author": "",
+"image":"https://overseer.blackboxsys.net/images/png/hd-axn.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-axn",
+"author": "",
+"image":"https://overseer.blackboxsys.net/images/png/hd-axn.png",
+"url":"https://www.doofootball.com/dootv/live/thairath#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"hd-axn",
+"author": "",
+"image":"https://overseer.blackboxsys.net/images/png/hd-axn.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+ {
+"name":"hd-warnertv",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/warner-tv.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+
+{
+"name":"warner-tv",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/warner-tv.png",
+"url":"https://www.doofootball.com/dootv/live/wbtv#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"cinemax",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/cinemax-hd.png",
+"url":"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"thd-warnertv",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/warner-tv.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+ {
+"name":"hd-tfilm",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tfilm",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm.png",
+"url":"https://www.doofootball.com/dootv/live/truefilmhd#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"hd-tfilm",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+ {
+"name":"hd-tfilm2",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-tfilm2.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"hd-tfilm2",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://www.doofootball.com/dootv/live/truefilmhd#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"hd-tfilm2",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+ {
+"name":"sd-thaifilm",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-thaifilm.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"lifetime",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/lifetime.png",
+"url":"https://www.doofootball.com/dootv/live/lifetime#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"sd-thaifilm",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-thaifilm.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+ {
+"name":"hd-xzyte",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-xzyte.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"tvb",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tvb.png",
+"url":"https://www.doofootball.com/dootv/live/tvb#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"hd-xzyte",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-xzyte.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{
+"name":"sd-tvb",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tvb.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tvb&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{
+"name":"hd-lifetime",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-lifetime.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{
+"name":"moviehits",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-moviehits.png",
+"url":"https://www.doofootball.com/dootv/live/moviehits#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"sd-moviehits",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-moviehits.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{
+"name":"trueseries",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051931-true-series.png",
+"url":"https://www.doofootball.com/dootv/live/trueseries#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"asianseries",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051938-true-asianseries.png",
+"url":"https://www.doofootball.com/dootv/live/asianseries#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"sd-series",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-series.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{
+"name":"sd-inside",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-inside.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-inside&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
+{
+"name":"hd-paramount",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-paramount.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/","embed": "true"
+},
+{
+"name":"paramount",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051654-paramount.png",
+"url":"https://www.doofootball.com/dootv/live/paramount#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"channelimg",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-052125-GEM.png",
+"url":"https://www.doofootball.com/dootv/live/gem#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"tvn",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-052246-TVN.png",
+"url":"https://www.doofootball.com/dootv/live/tvn#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"blue-ant",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-052213-blue-ant-MEDIA.png",
+"url":"https://www.doofootball.com/dootv/live/blueant#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"blueantextream",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-052218-blueant-extreme.png",
+"url":"https://www.doofootball.com/dootv/live/blueantextream#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"hitsmovie",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051953-HIT-MOVIES.png",
+"url":"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"hits",
+"author": "",
+"image":"https://www.img01.xyz/assets/img/ch_logo/HITS.png",
+"url":"https://www.doofootball.com/dootv/live/hits#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"truefilmasia",
+"author": "",
+"image":"https://www.img01.xyz/assets/img/ch_logo/sd-filmasia.png",
+"url":"https://www.doofootball.com/dootv/live/truefilmasia#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"fashiontv",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210730-043303-fashiontv.png",
+"url":"https://www.doofootball.com/dootv/live/fashiontv#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"hbohd",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051731-HBO-HD.png",
+"url":"https://www.doofootball.com/dootv/live/hbohd#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"hbohd",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051731-HBO-HD.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+
+{
+"name":"hbohitseng",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051731-HBO-HD.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-hbohitseng.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+
+{
+"name":"hbohit",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051803-HBO-hits.png",
+"url":"https://www.doofootball.com/dootv/live/hbohit#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"hbosignature",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051810-HBO-signature.png",
+"url":"https://www.doofootball.com/dootv/live/hbosignature#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"hbofamily",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-051750-HBO-family.png",
+"url":"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+
+]
+}
+]
+}
+MarkupCopy
+Paste Hosted With  By FREENOTE
