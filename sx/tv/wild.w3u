@@ -252,7 +252,48 @@ playInNatPlayer: "true"
 "url":"https://www.doofootball.com/dootv/live/afc#main_dootv",
 "referer": "https://www.doofootball.com/","embed": "true"
 },
+ {
+"name":"สำรวจโลก",
+"author": "",
+"image":"https://www.img07.xyz/assets/img/ch_logo/hd-samrujlok.jpg",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
 
+ {
+"name":"mysci",
+"author": "",
+"image":"https://www.img07.xyz/assets/img/ch_logo/hd-mysci.jpg",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
+
+ {
+"name":"ของดีประเทศไทย",
+"author": "",
+"image":"https://www.img07.xyz/assets/img/ch_logo/hd-mysci.jpg",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
+ {
+"name":"WORLD OF SCIENCE",
+"author": "",
+"image":"https://www.img07.xyz/assets/img/ch_logo/hd-mysci.jpg",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC3/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
+ {
+"name":"ANIMAL KINGDOM",
+"author": "",
+"image":"https://www.img07.xyz/assets/img/ch_logo/hd-mysci.jpg",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC18/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+playInNatPlayer: "true"
+},
 
 ]
 }
