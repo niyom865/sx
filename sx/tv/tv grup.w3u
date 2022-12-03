@@ -1020,14 +1020,14 @@ playInNatPlayer: "true"
 "name":"my-asp1hd",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/my-asp1hd.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport#main_dootv",
 "referer": "https://dooball66.com/","embed": "true"
 },
 {
 "name":"my-asp2hd",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/my-asp2hd.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb4rf66f",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport2#main_dootv",
 "referer": "https://dooball66.com/","embed": "true"
 },
 
@@ -1035,20 +1035,20 @@ playInNatPlayer: "true"
 "name":"my-asp3hd",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/my-asp3hd.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb4rf66f",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport3#main_dootv",
 "referer": "https://dooball66.com/","embed": "true"
 },
 {
 "name":"my-asp4hd",
 "author": "",
-"image":"https://rentapi.blackboxsys.net/images/png/my-asp4hd.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/asp4.png",
+"url":"https://www.doofootball.com/dootv/live/astrosupersport4#main_dootv",
 "referer": "https://dooball66.com/","embed": "true"
 },
 {
 "name":"my-asp5hd",
 "author": "",
-"image":"https://rentapi.blackboxsys.net/images/png/my-asp5hd.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/asp4.png",
 "url":"https://playerembed-lb.blackboxsys.net/player.php?channel=my-asp5hd&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/","embed": "true"
 },
@@ -1691,6 +1691,14 @@ playInNatPlayer: "true"
 "url":"https://playerembed-lb.blackboxsys.net/player.php?channel=uk-btsport3hdbkp&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/","embed": "true"
 },
+{
+"name":"btsportespn",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210617-121213-tv-station_BT-Sport-ESPN-(UK).png",
+"url":"https://www.doofootball.com/dootv/live/btsportespn#main_dootv",
+"referer": "https://dooball66.com/","embed": "true"
+},
+
 ]
 },
 
@@ -2500,6 +2508,14 @@ url:"https://cdn6.goprimetime.info/feed/202205171929/LC38/index.m3u8","userAgent
 "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-z-67NlO25DIVjsIF_QEkcSQqKTxqwT43JwlNTjsLxItTsTlNtkl-A0OA_UDxUuLnILtcjgjDwvur_yXxJBExeMNekFX26icflEalcVM1LsD024a14UIAhGm1FGkrmQANBkDW3B6U54HzkJUN9H6FxkeBq6IejMwHjj7vmwmuFNw-3UrgAEr_LKI3w/s1600/BabyTV.png",
 "url":"https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8",
 "referer": "https://vips-livecdn.fptplay.net/",
+playInNatPlayer: "true"
+},
+{
+"name":"",
+"author": "EkBanNa",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh414NehAdTMimYnxcLlAEBHiQ0eRbYUIYcTI2P-A0XcaKjU6oHksjWl-3KTc0BJN2NmrDl4fSm34vGRnqh88mW9vFNn0z8-blbopexF_ElghLfHt-PaHDwFlt5G7YKCTMLUmouqc9FO2jJ67fQBQmxJQ51KNuv1QyAYtrvrh7Vr5C_e144Lo1oXZxw/s1600/BabyFirst_Logo_2019.png",
+url:"http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8",
+"referer": "http://vips-livecdn.fptplay.net/",
 playInNatPlayer: "true"
 },
 {
