@@ -1698,7 +1698,418 @@ playInNatPlayer: "true"
 "url":"https://www.doofootball.com/dootv/live/btsportespn#main_dootv",
 "referer": "https://dooball66.com/","embed": "true"
 },
+{
+"name":"epl1",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl1.png",
+"url":"https://www.doofootball.com/dootv/live/epl1#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"epl1",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl1.png",
+"url":"https://www.warpfootball.games/live/?ch=epl1",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
 
+{
+"name":"epl2",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl2.png",
+"url":"https://www.doofootball.com/dootv/live/epl2#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"epl2",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl2.png",
+"url":"https://www.warpfootball.games/live/?ch=epl2",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"epl3",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl3.png",
+"url":"https://www.doofootball.com/dootv/live/epl3#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"epl3",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl3.png",
+"url":"https://www.warpfootball.games/live/?ch=epl3",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"epl4",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl4.png",
+"url":"https://www.doofootball.com/dootv/live/epl4#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"epl4",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl4.png",
+"url":"https://www.warpfootball.games/live/?ch=epl4",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"epl5",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl5.png",
+"url":"https://www.doofootball.com/dootv/live/epl5#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"epl5",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl5.png",
+"url":"https://www.warpfootball.games/live/?ch=epl5",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+
+{
+"name":"spotv1",
+"author": "",
+"image":"https://www.img07.xyz/assets/img/ch_logo/hd-spotv1.png",
+"url":"https://www.doofootball.com/dootv/live/spotv1#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"spotv2",
+"author": "",
+"image":"https://www.img07.xyz/assets/img/ch_logo/hd-spotv2.png",
+"url":"https://www.doofootball.com/dootv/live/spotv2#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"arenasport1",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport1serbia.png",
+"url":"https://www.doofootball.com/dootv/live/arenasport1serbia#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"arenasport2",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport2serbia.png",
+"url":"https://www.doofootball.com/dootv/live/arenasport2serbia#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"arenasport3",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport3serbia.png",
+"url":"https://www.doofootball.com/dootv/live/arenasport3serbia#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"arenasport4",
+"author": "",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport4serbia.png",
+"url":"https://www.doofootball.com/dootv/live/arenasport4serbia#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+
+{
+"name":"bein1premium",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sg-hubpremier01.png",
+"url":"https://www.doofootball.com/dootv/live/bein1premiumarab#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"bein2premium",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sg-hubpremier02.png",
+"url":"https://www.doofootball.com/dootv/live/bein2premiumarab#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"bein3premium",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/sg-hubpremier03.png",
+"url":"https://www.doofootball.com/dootv/live/bein3premiumarab#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"bein1eng",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/my-astrobein.png",
+"url":"https://www.doofootball.com/dootv/live/bein1englisharab#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"bein2eng",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/my-astrobein.png",
+"url":"https://www.doofootball.com/dootv/live/bein2englisharab#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"bein3eng",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/my-astrobein.png",
+"url":"https://www.doofootball.com/dootv/live/bein3englisharab#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+
+{
+"name":"beinsport1fr",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/fr-bein1hd.png",
+"url":"https://www.doofootball.com/dootv/live/beinsport1fr#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsport2fr",
+"author": "",
+"image":"https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png",
+"url":"https://www.doofootball.com/dootv/live/beinsport2fr#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsports1au",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210723-025708-tv-station_bEin-Sports-1-(AU).png",
+"url":"https://www.doofootball.com/dootv/live/beinsports1au#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsports2au",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210723-025708-tv-station_bEin-Sports-1-(AU).png",
+"url":"https://www.doofootball.com/dootv/live/beinsports2au#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsports3au",
+"author": "",
+"image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210723-025708-tv-station_bEin-Sports-1-(AU).png",
+"url":"https://www.doofootball.com/dootv/live/beinsports3au#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsports1tu",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url":"https://www.doofootball.com/dootv/live/beinsports1tu#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsports2tu",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url":"https://www.doofootball.com/dootv/live/beinsports2tu#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsports3tu",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url":"https://www.doofootball.com/dootv/live/beinsports3tu#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"beinsports4tu",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url":"https://www.doofootball.com/dootv/live/beinsports4tu#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"matchfootball1",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/MATCH%201%20FOOTBALL.png",
+"url":"https://www.doofootball.com/dootv/live/matchfootball1#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"matchfootball2",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/MATCH%201%20FOOTBALL.png",
+"url":"https://www.doofootball.com/dootv/live/matchfootball2#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"matchfootball3",
+"author": "",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/MATCH%201%20FOOTBALL.png",
+"url":"https://www.doofootball.com/dootv/live/matchfootball3#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"orangesport1",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--2752.png",
+"url":"https://www.doofootball.com/dootv/live/orangesport1ro#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"orangesport2",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--2752.png",
+"url":"https://www.doofootball.com/dootv/live/orangesport2ro#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"orangesport3",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--2752.png",
+"url":"https://www.doofootball.com/dootv/live/orangesport3ro#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+{
+"name":"orangesport4",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--2752.png",
+"url":"https://www.doofootball.com/dootv/live/orangesport4ro#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+
+
+{
+"name":"supersportepl",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--295.png",
+"url":"https://www.doofootball.com/dootv/live/supersportepl#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"supersportfootball",
+"author": "",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--295.png",
+"url":"https://www.doofootball.com/dootv/live/supersportfootball#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"cmorefootball",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/cmorefootball.png",
+"url":"https://www.doofootball.com/dootv/live/cmorefootball#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"cmorelivehd",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/cmorelivehd.png",
+"url":"https://www.warpfootball.games/live/?ch=cmorelivehd",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"foxsport1nl",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2nl.png",
+"url":"https://www.doofootball.com/dootv/live/foxsport1nl#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"foxsport2nl",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2nl.png",
+"url":"https://www.doofootball.com/dootv/live/foxsport2nl#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"foxsport3nl",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2nl.png",
+"url":"https://www.doofootball.com/dootv/live/foxsport3nl#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"foxsport4nl",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2nl.png",
+"url":"https://www.doofootball.com/dootv/live/foxsport4nl#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"tv3max",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/tv3max.png",
+"url":"https://www.doofootball.com/dootv/live/tv3max#main_dootv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"tv3sport1",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/tv3sport1.png",
+"url":"https://www.warpfootball.games/live/?ch=tv3sport1",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"sportv",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/sportv.png",
+"url":"https://www.warpfootball.games/live/?ch=sportv",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"espnbrazil",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/espnbrazil.png",
+"url":"https://www.warpfootball.games/live/?ch=espnbrazil",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"espnus",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/espnus.png",
+"url":"https://www.warpfootball.games/live/?ch=espnus",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
+
+{
+"name":"btsportespn",
+"author": "",
+"image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/btsportespn.png",
+"url":"https://www.warpfootball.games/live/?ch=btsportespn",
+"referer": "https://www.doofootball.com/","embed": "true"
+},
 ]
 },
 
