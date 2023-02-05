@@ -547,7 +547,7 @@ playInNatPlayer: "true"
 "name":"Voice TV",
 "author": "",
 "image":"https://dl.dropbox.com/s/f8ghzgirm524enp/voicetv21.png",
-"url":"https://www.doofootball.com/dootv/live/voicetv#main_dootv",
+"url":"https://www.warpfootball.games/live/?ch=voicetv",
 "referer": "https://www.doofootball.com/","embed": "true"
 },
 {
@@ -570,7 +570,16 @@ playInNatPlayer: "true"
 "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
 "referer": "https://www.thaipbs.or.th/"
 },
-
+{"name": "warpfootball.games",
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+"url": "https://www.warpfootball.games/ดูทีวีออนไลน์/",
+"referer": "https://www.warpfootball.games/","embed": "true"
+},
+{"name": "warpballsod.tv",
+"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/img/logo-b.png",
+"url": "https://www.warpballsod.tv/play-channel/",
+"referer": "https://www.warpballsod.tv/","embed": "true"
+},
 ]
 }
 ]
