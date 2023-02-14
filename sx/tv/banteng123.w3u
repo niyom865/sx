@@ -1,0 +1,588 @@
+{
+"name"		: "บันเทิงเกินร้อย",
+"author"	: "niyom",
+"image"		: "https://www.mvtv.co.th/wp-content/uploads/2021/05/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2110-ok-edit.png",
+"url":"https://ufac4.net",
+"stations":[
+{
+name    :    "TFP HD 1",
+image   :    "https://dookeela.live/uploads/1664499665.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "TFP HD 1 สำรอง ",
+image   :    "https://api-soccer.iamtheme.com/images/tv/premier-1-backup.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "TFP HD 2",
+image   :    "https://api-soccer.iamtheme.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "TFP HD 2 สำรอง 2",
+image   :    "https://api-soccer.iamtheme.com/images/tv/premier-2-backup.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "TFP HD 3",
+image   :    "https://dookeela.live/uploads/1664499681.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "TFP HD 3 สำรอง ",
+image   :    "https://dookeela.live/uploads/1664499681.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "TFP HD 4",
+image   :    "https://dookeela.live/uploads/1664499692.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "TFP HD 4 สำรอง",
+image   :    "https://api-soccer.iamtheme.com/images/tv/premier-4-backup.png",
+"url"   :    "https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8",
+"referer": "https://www.i-moviehd.com/"
+},
+{
+name    :    "TPF HD 5",
+image   :    "https://api-soccer.iamtheme.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "TPF HD 5สำรอง",
+image   :    "https://api-soccer.iamtheme.com/images/tv/premier-5-backup.png",
+"url"   :    "https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8",
+"referer": "https://www.i-moviehd.com/"
+},
+{
+name    :    "True Sport 1(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "True Sport 1(TH) สำรอง",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "True Sport 2(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "True Sport 2(TH) สำรอง",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "True Sport 3(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+{
+name    :    "True Sport 3(TH) สำรอง",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+"name": "True Sport 5 (TH)",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport5&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+"name": "True Sport 7 (TH)",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport7&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"BEIN1 ",
+image:"https://api-soccer.iamtheme.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
+"url": "https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/bein1/playlist.m3u8",
+"info": "", 
+"referer": "https://dooball4k.live/",
+ "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"
+},
+{
+name:"BEIN1 สำรอง",
+image:"https://api-soccer.iamtheme.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077backup.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"BEIN3 ",
+image:"https://api-soccer.iamtheme.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
+"url": "https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/bein2/playlist.m3u8",
+"info": "", 
+"referer": "https://dooball4k.live/",
+ "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"
+},
+{
+name:"BEIN3 สำรอง ",
+image:"https://api-soccer.iamtheme.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"BEIN SPORT1 FR",
+"author": "",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"BEIN SPORT2 FR",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"TENNIS",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tennis.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"GOLF​",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-golfeng.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-golfeng&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+
+{
+name:"NBA TV",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/us-nba.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-nba&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"NFL TV",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/us-nfl.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-nfl&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"SPOTV1",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-spotv.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"SPOTV2",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+"name":"SPOTV 1",
+"image":"https://api-soccer.iamtheme.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=22",
+"info":"dooball",
+"referer": "https://www.i-moviehd.com/"
+},
+{
+"name":"SPOTV 2",
+"image":"https://api-soccer.iamtheme.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",
+"url": "https://www.ball24hr.com/live/spotv-2/",
+"info":"dooball",
+"referer": "https://ufabetcompany.com/"
+},
+{
+    "name": "Thai League 1",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "Thai League 2",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "Thai League 3",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "Thai League 4",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "Thai League 5",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "Thai League 6",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "Thai League 7",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "Thai League 8",
+    "image":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+
+{
+name    :    "hd-discovery ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-discovery.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-discovery ",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-discovery.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-animalplanet ",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-animalplanet.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-natgeo ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-natgeo.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-history ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-history.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-asianfood ",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-asianfood.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-asianfood&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-food ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-food.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-food&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-asianmore ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-koreanmore",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-koreanmore.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-axn",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-axn.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-tfilm",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-tfilm.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-tfilm2",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-lifetime",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-lifetime.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-lifetime&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-moviehits ",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-moviehits.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-paramount ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-paramount.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-series",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-series.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-thaifilm ",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-thaifilm.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-tvb",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-tvb.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-warnertv ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-warnertv.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-xzyte",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-xzyte.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-rtlcbs",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-rtlcbs.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbs&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-rtlcbsextreme",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-rtlcbsextreme.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-chinesemore",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-chinesemore.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-nbt",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-nbt.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-nbt&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-amarin",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-amarin.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-ch3",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-ch3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-ch5",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-ch5.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-ch7",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-ch7.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-ch8",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-ch8.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-gmmchannel",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-gmmchannel.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-gmmone",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-gmmone.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-new",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-new.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-mcot",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-mcot.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-mcot&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-mono",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-mono.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-mono&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-nation",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-nation.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-pptv",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-pptv.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-tptv",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-tptv.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-tpbs",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-tpbs.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tpbs&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-thairath",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-thairath.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-tnn24",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-tnn24.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-24u",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-24u.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-workpoint",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-workpoint.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+
+
+]
+},
+]
+}
