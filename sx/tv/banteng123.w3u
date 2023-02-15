@@ -285,6 +285,617 @@ playInNatPlayer: "true"
     "referer": "https://olympic-embed.ais-vidnt.com/",
     "playInNatPlayer": "true"
 },
+{
+name    :    "hd-bein1 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein2 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein3",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein4 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein5 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein5.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein6",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein6.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein7 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein7.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein8 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein8.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein9 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein9.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein10",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein10.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein11 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein11.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein12 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-bein13 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-bein1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-bein13&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-bein ",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-bein.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-bein&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-espn1 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-espn1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-espn1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-espn2",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-espn2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-espn2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-espn3 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-espn3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-espn3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-fox-deportes ",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-fox-deportes.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-fox-deportes&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-foxsports1 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-foxsports1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-foxsports2 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-foxsports2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-wwe ",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-wwe.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ca-tsn1",
+image   :    "https://rentapi.blackboxsys.net/images/png/ca-tsn1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ca-tsn2 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ca-tsn2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ca-tsn3",
+image   :    "https://rentapi.blackboxsys.net/images/png/ca-tsn3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ca-tsn4 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ca-tsn4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ca-tsn5",
+image   :    "https://rentapi.blackboxsys.net/images/png/ca-tsn5.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ca-sportsnet360 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ca-sportsnet360.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet360&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ca-sportsnetworld ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ca-sportsnetworld.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnetworld&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pt-sporttv1 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/pt-sporttv1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pt-sporttv2 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/pt-sporttv2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pt-sporttv3 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/pt-sporttv3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pt-sporttv4 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/pt-sporttv4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pt-sporttv5 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/pt-sporttv5.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv5&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ro-digisport1 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ro-digisport1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ro-digisport1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ro-digisport2 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ro-digisport2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ro-digisport2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ro-digisport3 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ro-digisport3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ro-digisport3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "ro-digisport4 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/ro-digisport4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=ro-digisport4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-eurosport",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-eurosport.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-eurosport2",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-eurosport2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-freesports",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-freesports.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-freesports&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-premiersports",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-premiersports.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-premiersports&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-action",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-action.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+
+{
+name    :    "uk-skysports-arena ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-arena.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-cricket ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-cricket.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-f1 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-f1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-football ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-football.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-golf ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-golf.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-mainevent ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-mainevent.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-mix ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-mix.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-epl ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-epl.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports-news ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports-news.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports1bkp ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports1bkp.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports1bkp&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports2bkp ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports2bkp.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports2bkp&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports3bkp",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports3bkp.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports3bkp&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports4bkp ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports4bkp.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports4bkp&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-skysports5bkp ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-skysports5bkp.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports5bkp&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-btsport1hd ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-btsport2hd ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "uk-btsport3hd ",
+image   :    "https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-sportklub1 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-sportklub1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-sportklub1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-sportklub2 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-sportklub2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-sportklub2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-sportklub3 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-sportklub3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-sportklub3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-sportklub4",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-sportklub4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-sportklub4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-arena1",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-arena1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-arena1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-arena2",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-arena2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-arena2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-arena3",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-arena3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-arena3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "rs-arena4",
+image   :    "https://rentapi.blackboxsys.net/images/png/rs-arena4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=rs-arena4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "us-eleven",
+image   :    "https://rentapi.blackboxsys.net/images/png/us-eleven.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-eleven&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pl-elevensport1",
+image   :    "https://rentapi.blackboxsys.net/images/png/pl-elevensport1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pl-elevensport1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pl-elevensport2",
+image   :    "https://rentapi.blackboxsys.net/images/png/pl-elevensport2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pl-elevensport1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pl-canalsport1",
+image   :    "https://rentapi.blackboxsys.net/images/png/pl-canalsport1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pl-canalsport1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pl-canalsport2",
+image   :    "https://rentapi.blackboxsys.net/images/png/pl-canalsport2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pl-canalsport2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "pl-canalsport3",
+image   :    "https://rentapi.blackboxsys.net/images/png/pl-canalsport3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=pl-canalsport3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "fr-canalsport",
+image   :    "https://rentapi.blackboxsys.net/images/png/fr-canalsport.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-canalsport&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "fr-infosport",
+image   :    "https://rentapi.blackboxsys.net/images/png/fr-infosport.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-infosport&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "fr-rmcsport1",
+image   :    "https://rentapi.blackboxsys.net/images/png/fr-rmcsport1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-rmcsport1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "fr-rmcsport2",
+image   :    "https://rentapi.blackboxsys.net/images/png/fr-rmcsport2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-rmcsport2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "fr-rmcsport3",
+image   :    "https://rentapi.blackboxsys.net/images/png/fr-rmcsport3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-rmcsport3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "fr-rmcsport4",
+image   :    "https://rentapi.blackboxsys.net/images/png/fr-rmcsport4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-rmcsport4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "al-supersports1",
+image   :    "https://rentapi.blackboxsys.net/images/png/al-supersports1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=al-supersports1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "al-supersports2",
+image   :    "https://rentapi.blackboxsys.net/images/png/al-supersports2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=al-supersports2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "al-supersports3",
+image   :    "https://rentapi.blackboxsys.net/images/png/al-supersports3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=al-supersports3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "al-supersports4",
+image   :    "https://rentapi.blackboxsys.net/images/png/al-supersports4.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=al-supersports4&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "al-supersports5",
+image   :    "https://rentapi.blackboxsys.net/images/png/al-supersports5.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=al-supersports5&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "epl-bein1",
+image   :    "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "epl-bein2",
+image   :    "https://rentapi.blackboxsys.net/images/png/epl-bein2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "epl-bein3",
+image   :    "https://rentapi.blackboxsys.net/images/png/epl-bein3.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+
 
 {
 name    :    "hd-discovery ",
