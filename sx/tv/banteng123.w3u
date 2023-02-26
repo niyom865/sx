@@ -896,6 +896,13 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein3&api_key=kmf7
 playInNatPlayer: "true"
 },
 
+{
+name    :    "sd-bbcearth ",
+image   :    "https://www.img01.xyz/assets/img/ch_logo/sd-bbcearth.png",
+url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
+"referer": "https://livescorethai.net/",
+playInNatPlayer: "true"
+},
 
 {
 name    :    "hd-discovery ",
@@ -907,10 +914,18 @@ playInNatPlayer: "true"
 {
 name    :    "sd-discovery ",
 image   :    "https://rentapi.blackboxsys.net/images/png/sd-discovery.png",
+url:"https://streaming.livescorethai.net/iptv/uk-discovery.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-discovery ",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-discovery.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=kmf743jnd",
 "referer": "https://ufac4.net",
 playInNatPlayer: "true"
 },
+
 {
 name    :    "sd-animalplanet ",
 image   :    "https://rentapi.blackboxsys.net/images/png/sd-animalplanet.png",
@@ -919,6 +934,14 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_ke
 playInNatPlayer: "true"
 },
 {
+name    :    "sd-animalplanet ",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-animalplanet.png",
+url:"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+playInNatPlayer: "true"
+},
+
+{
 name    :    "hd-natgeo ",
 image   :    "https://rentapi.blackboxsys.net/images/png/hd-natgeo.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf743jnd",
@@ -926,12 +949,42 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf7
 playInNatPlayer: "true"
 },
 {
+name    :    "hd-natgeo ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-natgeo.png",
+url:"https://streaming.livescorethai.net/iptv/hd-natgeopeopleeng.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+
+{
 name    :    "hd-history ",
 image   :    "https://rentapi.blackboxsys.net/images/png/hd-history.png",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=kmf743jnd",
 "referer": "https://ufac4.net",
 playInNatPlayer: "true"
 },
+{
+name    :    "hd-history ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-history.png",
+url:"https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name    :    "history2 ",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-history.png",
+url:"https://streaming.livescorethai.net/iptv/uk-history2.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+{
+name    :    "natgeowildeng ",
+image   :    "https://www.img01.xyz/assets/img/ch_logo/hd-natgeowild.jpg",
+url:"https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+playInNatPlayer: "true"
+},
+
 {
 name    :    "sd-asianfood ",
 image   :    "https://rentapi.blackboxsys.net/images/png/sd-asianfood.png",
