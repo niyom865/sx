@@ -7,7 +7,7 @@
 "name":"discovery-asia",
 "author": "",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8",
+"url":"https://www.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u8",
 "referer": "https://streaming.livescorethai.net/",
 playInNatPlayer: "true"
 },
@@ -23,14 +23,14 @@ playInNatPlayer: "true"
 "name":"discovery-asia",
 "author": "",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
-"url":"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
-"referer": "https://www.doofootball.com/","embed": "true"
+"url":"https://www.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u8",
+"referer": "https://www.doofootball.com/","playInNatPlayer": "true"
 },
 {
 "name":"discovery-asia",
 "author": "",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=kmf743jnd",
 "referer": "https://dooball66.com/","embed": "true"
 },
 
@@ -55,14 +55,14 @@ playInNatPlayer: "true"
 "name":"discovery",
 "author": "",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-channel.png",
-"url":"https://www.doofootball.com/dootv/live/discovery#main_dootv",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=kmf743jnd",
 "referer": "https://www.doofootball.com/","embed": "true"
 },
 {
 "name":"discovery",
 "author": "",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-channel.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=kmf743jnd",
 "referer": "https://dooball66.com/","embed": "true"
 },
 
@@ -87,14 +87,14 @@ playInNatPlayer: "true"
 "name":"animalplanet",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-animalplanet.png",
-"url":"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
-"referer": "https://www.doofootball.com/","embed": "true"
+"url":"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
+"referer": "https://www.livedoomovies.com/","playInNatPlayer": "true"
 },
 {
 "name":"animalplanet",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-animalplanet.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=kmf743jnd",
 "referer": "https://dooball66.com/","embed": "true"
 },
  
@@ -118,14 +118,14 @@ playInNatPlayer: "true"
 "name":"natgeo",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-natgeo.png",
-"url":"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
-"referer": "https://www.doofootball.com/","embed": "true"
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf743jnd",
+"referer": "https://dooball66.com/","playInNatPlayer": "true"
 },
 {
 "name":"natgeo",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-natgeo.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf743jnd",
 "referer": "https://dooball66.com/","embed": "true"
 },
 
@@ -150,14 +150,14 @@ playInNatPlayer: "true"
 "name":"history",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
-"url":"https://www.doofootball.com/dootv/live/history#main_dootv",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=kmf743jnd",
 "referer": "https://www.doofootball.com/","embed": "true"
 },
 {
 "name":"history",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=kmf743jnd",
 "referer": "https://dooball66.com/","embed": "true"
 },
 
@@ -173,7 +173,7 @@ playInNatPlayer: "true"
 "name":"history2",
 "author": "",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
-"url":"https://embed.dooball66.com/player.php?channel=hd-history2&api_key=hmcb4rf66f",
+"url":"https://embed.dooball66.com/player.php?channel=hd-history2&api_key=kmf743jnd",
 "referer": "https://dooball66.com/","embed": "true"
 },
 
@@ -188,7 +188,7 @@ playInNatPlayer: "true"
 	        { 
                "name": "bbc-earth",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
-                "url": "https://embed.dooball66.com/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",	
+                "url": "https://embed.dooball66.com/player.php?channel=sd-bbcearth&api_key=kmf743jnd",	
 	"referer": "https://dooball66.com/ดูทีวีออนไลน์/",
                 "embed": "true"
 },
@@ -208,31 +208,31 @@ playInNatPlayer: "true"
 { 
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
-                "url": "https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=kmf743jnd",
 	 "referer": "https://dooball66.com/","embed": "true"
                },
 		{ 
                "name": "explife",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-explife.png",
-                "url": "https://www.doofootball.com/dootv/live/truelife#main_dootv",	
+                "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-explife&api_key=kmf743jnd",	
 	 "referer": "https://www.doofootball.com/","embed": "true"	 
                },
 		{ 
                "name": "expsci",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expsci.png",
-                "url": "https://www.doofootball.com/dootv/live/truesci#main_dootv",
+                "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-expsci&api_key=kmf743jnd",
 	 "referer": "https://www.doofootball.com/","embed": "true"	 
                },
 { 
                "name": "hd-food",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-food.png",
-                "url": "https://embed.dooball66.com/player.php?channel=hd-food&api_key=hmcb4rf66f",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-food&api_key=kmf743jnd",
 	 "referer": "https://dooball66.com/","embed": "true"
                },
 { 
                "name": "sd-asianfood",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-asianfood.png",
-                "url": "https://embed.dooball66.com/player.php?channel=sd-asianfood&api_key=hmcb4rf66f",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-asianfood&api_key=kmf743jnd",
 	 "referer": "https://dooball66.com/","embed": "true"
                },
 
@@ -241,7 +241,7 @@ playInNatPlayer: "true"
 "name":"food-network",
 "author": "",
 "image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210724-052114-food-network.png",
-"url":"https://www.doofootball.com/dootv/live/foodnetwork#main_dootv",
+"url":"https://embed.dooball66.com/player.php?channel=sd-asianfood&api_key=kmf743jnd",
 "referer": "https://www.doofootball.com/","embed": "true"
 },
 
@@ -249,7 +249,7 @@ playInNatPlayer: "true"
 "name":"afn",
 "author": "",
 "image":"https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210730-051000-afn.png",
-"url":"https://www.doofootball.com/dootv/live/afc#main_dootv",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-asianfood&api_key=kmf743jnd",
 "referer": "https://www.doofootball.com/","embed": "true"
 },
  {
