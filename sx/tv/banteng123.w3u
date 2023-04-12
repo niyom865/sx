@@ -897,6 +897,57 @@ playInNatPlayer: "true"
 },
 
 {
+name    :    "sd-bbcearth",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-bbcearth.png",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-bbclifestyle",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-bbclifestyle.png",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-bbclifestyle&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "hd-natgeowild",
+image   :    "https://rentapi.blackboxsys.net/images/png/hd-natgeowild.png",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeowild&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-expwild",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-expwild.png",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-expwild&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-explife",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-explife.png",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-explife&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-expsci",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-expsci.png",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-expsci&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name    :    "sd-hits",
+image   :    "https://rentapi.blackboxsys.net/images/png/sd-hits.png",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-hits&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+
+
+{
 name    :    "sd-bbcearth ",
 image   :    "https://www.img01.xyz/assets/img/ch_logo/sd-bbcearth.png",
 url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
