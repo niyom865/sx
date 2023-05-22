@@ -12,12 +12,20 @@
 "stations":[
 
 {
+"name":"looxtv",
+"author": "niyom",
+"image":"https://static.thaicom.io/chbig/big_56_20210914030120.png",
+"url":"https://looxtv.tv/JKN18",
+"referer": "https://livesod88.com/","embed": "true"
+},
+{
 "name":"thairath",
 "author": "niyom",
 "image":"https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png",
 "url":"https://www.warpfootball.games/live/?ch=thairath",
 "referer": "https://livesod88.com/","embed": "true"
 },
+
 { "name": "thairath", "image": "https://dl.dropbox.com/s/f3ivcme1v0p2xdb/thairath32.png", 
 "url": "https://www.inwiptv.com/player_demo.php?channel=27138","userAgent": "exoplayer_video" 
 },
