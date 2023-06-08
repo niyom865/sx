@@ -1,0 +1,320 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210218214002_3hd.jpg" ,3hd
+http://ufa77.tv/channel?ch=3hd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165229_7hd.jpg" ,7hd
+http://ufa77.tv/channel?ch=7hd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223011357_amarin.jpg" ,amarin
+http://ufa77.tv/channel?ch=amarin
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222213329_pptv.jpg" ,pptv
+http://ufa77.tv/channel?ch=pptv
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219220826_5hd.jpg" ,5hd
+http://ufa77.tv/channel?ch=5hd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20221129102232_ch8_ufa77.png" ,ch8
+http://ufa77.tv/channel?ch=ch8
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222172404_mcot.jpg" ,mcot
+http://ufa77.tv/channel?ch=mcot
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222174645_mono29.jpg" ,mono29
+http://ufa77.tv/channel?ch=mono29
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222180116_nation.jpg" ,nation
+http://ufa77.tv/channel?ch=nation
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210724094542_nbt.png" ,nbt
+http://ufa77.tv/channel?ch=nbt
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210805150504_JKN18.png" ,newtv
+http://ufa77.tv/channel?ch=newtv
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222183840_onehd.jpg" ,onehd
+http://ufa77.tv/channel?ch=onehd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223010250_thaipbs.jpg" ,thaipbs
+http://ufa77.tv/channel?ch=thaipbs
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222213456_thairath.jpg" ,thairath
+http://ufa77.tv/channel?ch=thairath
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223013324_tnn.jpg" ,tnn
+http://ufa77.tv/channel?ch=tnn
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014108_true4u.jpg" ,true4u
+http://ufa77.tv/channel?ch=true4u
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210225104919_voicetv.jpg" ,voicetv
+http://ufa77.tv/channel?ch=voicetv
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223022657_workpoint.jpg" ,workpoint
+http://ufa77.tv/channel?ch=workpoint
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223015955_tsports.jpg" ,tsports
+http://ufa77.tv/channel?ch=tsports
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222164535_gmm25.jpg" ,gmm25
+http://ufa77.tv/channel?ch=gmm25
+#EXTINF:0 group-title="Ufa" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/tptv.png" ,tptv
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223000704_epl1.jpg" ,epl1
+http://ufa77.tv/channel?ch=epl1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223000726_epl2.jpg" ,epl2
+http://ufa77.tv/channel?ch=epl2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210807231330_epl3.jpg" ,epl3
+http://ufa77.tv/channel?ch=epl3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210807231341_epl4.jpg" ,epl4
+http://ufa77.tv/channel?ch=epl4
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210807230855_epl5.jpg" ,epl5
+http://ufa77.tv/channel?ch=epl5
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014333_truesport2.jpg" ,truesport2
+http://ufa77.tv/channel?ch=truesport2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014353_truesport5.jpg" ,truesport5
+http://ufa77.tv/channel?ch=truesport5
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014403_truesport6.jpg" ,truesport6
+http://ufa77.tv/channel?ch=truesport6
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223014414_truesport7.jpg" ,truesport7
+http://ufa77.tv/channel?ch=truesport7
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223110210_truesporthd.jpg" ,truesporthd
+http://ufa77.tv/channel?ch=truesporthd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223110221_truesporthd2.jpg" ,truesporthd2
+http://ufa77.tv/channel?ch=truesporthd2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223110230_truesporthd3.jpg" ,truesporthd3
+http://ufa77.tv/channel?ch=truesporthd3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220522113609_truesporthd4.png" ,truesporthd4
+http://ufa77.tv/channel?ch=truesporthd4
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223110240_truetennis.jpg" ,truetennis
+http://ufa77.tv/channel?ch=truetennis
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222170530_golfchannel.jpg" ,golfchannel
+http://ufa77.tv/channel?ch=golfchannel
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923170904_truenba.jpg" ,truenba
+http://ufa77.tv/channel?ch=truenba
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219100833_bein1.jpg" ,bein1
+http://ufa77.tv/channel?ch=bein1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119170702_bein1englisharab.png" ,bein1englisharab
+http://ufa77.tv/channel?ch=bein1englisharab
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119171012_bein1premiumarab.png" ,bein1premiumarab
+http://ufa77.tv/channel?ch=bein1premiumarab
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219100844_bein2.jpg" ,bein2
+https://ufa77.tv/channel?ch=bein2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119163200_bein2englisharab.png" ,bein2englisharab
+http://ufa77.tv/channel?ch=bein2englisharab
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119171025_bein2premiumarab.png" ,bein2premiumarab
+http://ufa77.tv/channel?ch=bein2premiumarab
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220327125017_bein3.png" ,bein3
+http://ufa77.tv/channel?ch=bein3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220120203100_bein3au.png" ,bein3au
+http://ufa77.tv/channel?ch=bein3au
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119171042_bein3premiumarab.png" ,bein3englisharab
+http://ufa77.tv/channel?ch=bein3englisharab
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219110820_beinsports1tu.jpg" ,beinsports1tu
+http://ufa77.tv/channel?ch=beinsports1tu
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219110832_beinsports2tu.jpg" ,beinsports2tu
+http://ufa77.tv/channel?ch=beinsports2tu
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119150108_bein3tu.png" ,bein3tu
+http://ufa77.tv/channel?ch=bein3tu
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119155546_bein4tu.png" ,bein4tu
+http://ufa77.tv/channel?ch=bein4tu
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210218204427_beinsports1au.jpg" ,1au
+http://ufa77.tv/channel?ch=beinsports1au
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210218204514_beinsports2au.jpg" ,beinsports2au
+http://ufa77.tv/channel?ch=beinsports2au
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165353_beinsport1fr.jpg" ,beinsport1fr
+http://ufa77.tv/channel?ch=beinsport1fr
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165359_beinsport2fr.jpg" ,beinsport2fr
+http://ufa77.tv/channel?ch=beinsport2fr
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222230751_beinsportsarabia1hd.jpg" ,beinsportsarabia1hd
+https://ufa77.tv/channel?ch=beinsportsarabia1hd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222230759_beinsportsarabia2hd.jpg" ,beinsportsarabia2hd
+https://ufa77.tv/channel?ch=beinsportsarabia2hd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222230807_beinsportsarabia3hd.jpg" ,beinsportsarabia3hd
+http://ufa77.tv/channel?ch=beinsportsarabia3hd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119161041_bein4arab.png" ,bein4arab
+http://ufa77.tv/channel?ch=bein4arab
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220313124908_bein5arab.png" ,bein5arab
+http://ufa77.tv/channel?ch=bein5arab
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219104634_btsport1.jpg" ,btsport1
+http://ufa77.tv/channel?ch=btsport1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219104909_btsport2.jpg" ,btsport2
+http://ufa77.tv/channel?ch=btsport2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219105026_btsport3.jpg" ,btsport3
+http://ufa77.tv/channel?ch=btsport3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219105700_btsportespn.jpg" ,btsportespn
+http://ufa77.tv/channel?ch=btsportespn
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222327_skysportarena.jpg" ,skysportarena
+http://ufa77.tv/channel?ch=skysportarena
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20221130105904_skysportbundesliga1_ufa77.png" ,skysportbundesliga1
+http://ufa77.tv/channel?ch=skysportbundesliga1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222431_skysportfootball.jpg" ,skysportfootball
+http://ufa77.tv/channel?ch=skysportfootball
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222521_skysportpremiere.jpg" ,skysportpremiere
+http://ufa77.tv/channel?ch=skysportpremiere
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222500_skysportmainevent.jpg" ,skysportmainevent
+http://ufa77.tv/channel?ch=skysportmainevent
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222500_skysportmainevent.jpg" ,skysportmix
+http://ufa77.tv/channel?ch=skysportmix
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222444_skysportgolf.jpg" ,skysportgolf
+http://ufa77.tv/channel?ch=skysportgolf
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222341_skysportclicket.jpg" ,skysportclicket
+http://ufa77.tv/channel?ch=skysportclicket
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222417_skysportf1.jpg" ,skysportf1
+http://ufa77.tv/channel?ch=skysportf1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222190558_skysportaction.jpg" ,skysportaction
+http://ufa77.tv/channel?ch=skysportaction
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20211128163615_skysport1de.png" ,skysport1de
+http://ufa77.tv/channel?ch=skysport1de
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220721075623_sport1hd_ufa77.png" ,sport1hd
+http://ufa77.tv/channel?ch=sport1hd
+#EXTINF:0 group-title="Ufa" tvg-logo-small="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222194857_sport1plus.jpg" ,sport1plus
+http://ufa77.tv/channel?ch=sport1plus
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222195154_sportdigital.jpg" ,sportdigital
+http://ufa77.tv/channel?ch=sportdigital
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222185412_premiersports1.jpg" ,premiersports1
+http://ufa77.tv/channel?ch=premiersports1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223003818_pfc.jpg" ,pfc
+http://ufa77.tv/channel?ch=pfc
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220827164933_orangesport1ro_ufa77.png" ,orangesport1ro
+http://ufa77.tv/channel?ch=orangesport1ro
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220827164946_orangesport2ro_ufa77.png" ,orangesport2ro
+http://ufa77.tv/channel?ch=orangesport2ro
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220827165001_orangesport3ro_ufa77.png" ,orangesport3ro
+http://ufa77.tv/channel?ch=orangesport3ro
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220914142129_orangesport4ro_ufa77.png" ,orangesport4ro
+http://ufa77.tv/channel?ch=orangesport4ro
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222183409_novasport.jpg" ,novasport
+http://ufa77.tv/channel?ch=novasport
+#EXTINF:0 group-title="Ufa" tvg-logo-small="https://ufa77.tv/data/ufa77live/stream/img_ch/20201019222450_1603121025834.jpg" ,mutv
+http://ufa77.tv/channel?ch=mutv
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20201015234027_1602779966739.jpg" ,lfctv
+http://ufa77.tv/channel?ch=lfctv
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222213248_freesportuk.jpg" ,freesportuk
+http://ufa77.tv/channel?ch=freesportuk
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222163617_gol.jpg" ,gol
+http://ufa77.tv/channel?ch=gol
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220120190319_matchfootball1.png" ,matchfootball1
+http://ufa77.tv/channel?ch=matchfootball1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119144118_matchfootball2.png" ,matchfootball2
+http://ufa77.tv/channel?ch=matchfootball2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119154146_matchfootball3.png" ,matchfootball3
+http://ufa77.tv/channel?ch=matchfootball3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220202130446_espn2br.png" ,espn2br
+http://ufa77.tv/channel?ch=espn2br
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119161917_espnbr.png" ,espnbr
+http://ufa77.tv/channel?ch=espnbr
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220074247_espnbrazil.jpg" ,espnbrazil
+http://ufa77.tv/channel?ch=espnbrazil
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220074504_espnus.jpg" ,espnus
+http://ufa77.tv/channel?ch=espnus
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220074907_eurosport.jpg" ,eurosport
+http://ufa77.tv/channel?ch=eurosport
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210414193800_foxsport1.png" ,oxsport1
+http://ufa77.tv/channel?ch=foxsport1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222200404_foxsport1nl.jpg" ,foxsport1nl
+http://ufa77.tv/channel?ch=foxsport1nl
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210414193826_foxsport2.png" ,foxsport2
+http://ufa77.tv/channel?ch=foxsport2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222210606_foxsport2nl.jpg" ,foxsport2nl
+http://ufa77.tv/channel?ch=foxsport2nl
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210414193837_foxsport3.png" ,foxsport3
+http://ufa77.tv/channel?ch=foxsport3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222210614_foxsport3nl.jpg" ,foxsport3nl
+http://ufa77.tv/channel?ch=foxsport3nl
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222210623_foxsport4nl.jpg" ,foxsport4nl
+http://ufa77.tv/channel?ch=foxsport4nl
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222210632_foxsport5nl.jpg" ,foxsport5nl
+http://ufa77.tv/channel?ch=foxsport5nl
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210627140554_foxsportasia1.png" ,foxsportasia1
+http://ufa77.tv/channel?ch=foxsportasia1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210627140608_foxsportasia2.png" ,foxsportasia2
+http://ufa77.tv/channel?ch=foxsportasia2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210414193851_foxsporthd.png" ,foxsporthd
+http://ufa77.tv/channel?ch=foxsporthd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222210902_foxsports1usa.jpg" ,foxsports1usa
+http://ufa77.tv/channel?ch=foxsports1usa
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222210911_foxsports2usa.jpg" ,foxsports2usa
+http://ufa77.tv/channel?ch=foxsports2usa
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222225448_sportklub1slovenia.jpg" ,sportklub1slovenia
+http://ufa77.tv/channel?ch=sportklub1slovenia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222225500_sportklub2slovenia.jpg" ,sportklub2slovenia
+http://ufa77.tv/channel?ch=sportklub2slovenia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222225520_sportklub3slovenia.jpg" ,sportklub3slovenia
+http://ufa77.tv/channel?ch=sportklub3slovenia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222225529_sportklub4slovenia.jpg" ,sportklub4slovenia
+http://ufa77.tv/channel?ch=sportklub4slovenia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122124958_sportklub5.png" ,sportklub5
+http://ufa77.tv/channel?ch=sportklub5
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122120147_sportklub6.png" ,sportklub6
+http://ufa77.tv/channel?ch=sportklub6
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222095258_sporttv1.jpg" ,sporttv1
+http://ufa77.tv/channel?ch=sporttv1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222095338_sporttv2.jpg" ,sporttv2
+http://ufa77.tv/channel?ch=sporttv2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222095347_sporttv3.jpg" ,sporttv3
+http://ufa77.tv/channel?ch=sporttv3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222095401_sporttv4.jpg" ,sporttv4
+http://ufa77.tv/channel?ch=sporttv4
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119164354_sporttv5.png" ,sporttv5
+http://ufa77.tv/channel?ch=sporttv5
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223001959_sportv.jpg" ,sportv
+http://ufa77.tv/channel?ch=sportv
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220619232933_sportv2_ufa77.png" ,sportv2
+http://ufa77.tv/channel?ch=sportv2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223004013_supersport1al.jpg" ,supersport1al
+http://ufa77.tv/channel?ch=supersport1al
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223004022_supersport2al.jpg" ,supersport2al
+http://ufa77.tv/channel?ch=supersport2al
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119151452_supersport3al.png" ,supersport3al
+http://ufa77.tv/channel?ch=supersport3al
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119171419_supersportepl.png" ,supersportepl
+http://ufa77.tv/channel?ch=supersportepl
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122123028_supersportfootball.png" ,supersportfootball
+http://ufa77.tv/channel?ch=supersportfootball
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223020356_tv3max.jpg" ,tv3max
+http://ufa77.tv/channel?ch=tv3max
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223021358_tv3sport1.jpg" ,tv3sport1
+http://ufa77.tv/channel?ch=tv3sport1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223021843_viasatfotboll.jpg" ,viasatfotboll
+http://ufa77.tv/channel?ch=viasatfotboll
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223025645_ziggosportselect.jpg" ,ziggosportselect
+http://ufa77.tv/channel?ch=ziggosportselect
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223025456_ziggosportvoetbal.jpg" ,ziggosportvoetbal
+http://ufa77.tv/channel?ch=ziggosportvoetbal
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119155030_elevensport1pt.png" ,elevensports1pt
+http://ufa77.tv/channel?ch=elevensports1pt
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119155223_elevensport2pt.png" ,elevensport2pt
+http://ufa77.tv/channel?ch=elevensport2pt
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220119155412_elevensport3pt.png" ,elevensport3pt
+http://ufa77.tv/channel?ch=elevensport3pt
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219231125_eirsport1.jpg" ,eirsport1
+http://ufa77.tv/channel?ch=eirsport1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165715_digisport1romania.jpg" ,digisport1romania
+http://ufa77.tv/channel?ch=digisport1romania
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165720_digisport2romania.jpg" ,digisport2romania
+http://ufa77.tv/channel?ch=digisport2romania
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062823_digisport3romania.jpg" ,digisport3romania
+http://ufa77.tv/channel?ch=digisport3romania
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062844_digisport4romania.jpg" ,digisport4romania
+http://ufa77.tv/channel?ch=digisport4romania
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220118125224_diemasport.png" ,diemasport1
+http://ufa77.tv/channel?ch=diemasport1
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220118125040_diemasport2.png" ,diemasport2
+http://ufa77.tv/channel?ch=diemasport2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219221546_cmorefootball.jpg" ,cmorefootball
+http://ufa77.tv/channel?ch=cmorefootball
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210219222716_cmorelivehd.jpg" ,cmorelivehd
+http://ufa77.tv/channel?ch=cmorelivehd
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210801141316_chelseatv.png" ,chelseatv
+http://ufa77.tv/channel?ch=chelseatv
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222213227_canal9denmark.jpg" ,canal9denmark
+http://ufa77.tv/channel?ch=canal9denmark
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20201009154532_canal11pt.jpg" ,canal11pt
+http://ufa77.tv/channel?ch=canal11pt
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222213211_6eren.jpg" ,6eren
+http://ufa77.tv/channel?ch=6eren
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232041_arenasport1serbia.jpg" ,arenasport1serbia
+http://ufa77.tv/channel?ch=arenasport1serbia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232135_arenasport2serbia.jpg" ,arenasport2serbia
+http://ufa77.tv/channel?ch=arenasport2serbia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232129_arenasport3serbia.jpg" ,arenasport3serbia
+http://ufa77.tv/channel?ch=arenasport3serbia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232141_arenasport4serbia.jpg" ,arenasport4serbia
+http://ufa77.tv/channel?ch=arenasport4serbia
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122145748_arenasport5sr.png" ,arenasport5sr
+http://ufa77.tv/channel?ch=arenasport5sr
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220614143931_astroarena_ufa77.png" ,astroarena
+http://ufa77.tv/channel?ch=astroarena
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210620113423_astrosupersport.png" ,astrosupersport
+http://ufa77.tv/channel?ch=astrosupersport
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210620113435_astrosupersport2.png" ,astrosupersport2
+http://ufa77.tv/channel?ch=astrosupersport2
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210620113524_astrosupersport3.png" ,astrosupersport3
+http://ufa77.tv/channel?ch=astrosupersport3
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210620113533_astrosupersport4.png" ,astrosupersport4
+http://ufa77.tv/channel?ch=astrosupersport4
+#EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220901002656_astrosupersport5_ufa77.png" ,astrosupersport5
+http://ufa77.tv/channel?ch=astrosupersport5
