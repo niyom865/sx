@@ -195,124 +195,11 @@ https://live.andaman888th.com/live/foxsports2/playlist.m3u8|User-Agent=vlc&Refer
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
 https://live.andaman888th.com/live/foxsports3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095258_sporttv1.jpg",sporttv1
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/sporttv1#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg",sporttv2
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/sporttv2#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095347_sporttv3.jpg",sporttv 3
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/sporttv3#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",sporttv 4
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/sporttv4#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+ 
 
  
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch7.png",  ch7
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/7hd#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch5.png",  ch5
-#EXTVLCOPT:http-referrer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1306560506.m3u8
-|User-Agent=vlc&Referer=http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch3.png",  ch3
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/3hd#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch8.png",  ch8
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/ch8#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-workpoint.png",workpoint
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/workpoint#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nation.png",nation
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/nation#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-amarin.png",amarin
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/amarin#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-thairath.png",thairath
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/thairath#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tpbs.png",tpbs
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/thaipbs#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-mcot.png",mcot
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/mcot#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-nbt.png",nbt
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/nbt#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-24u.png",true4u
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/true4u#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-pptv.png",pptv
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/pptv#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-tnn24.png",tnn
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/sd-tnn24.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052036-gmm25.png",gmm25
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/gmm25#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="hhttps://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052055-one31.png",one
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/onehd#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-124029-tv-station_Mono29.png",mono
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/mono29#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210730-015859-JKN18%20logo.png",new
-#EXTVLCOPT:http-referrer=https://www.doofootball.com/
-https://www.doofootball.com/dootv/live/newtv#main_dootv
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36&Referer=https://www.doofootball.com/
+ 
 
 
 
@@ -704,9 +591,7 @@ https://streaming.livescorethai.net/iptv/hd-workpoint.stream/playlist.m3u8|User-
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-bbcearth.png", sd-bbcearth
-#EXTVLCOPT:http-referrer=https://embed.dooball66.com/
-https://embed.dooball66.com/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f|User-Agent=exoplayer_video&Referer=https://embed.dooball66.com/
+ 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-bbclifestyle.png", sd-bbclifestyle
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
