@@ -2,7 +2,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:13
-#EXTINF:12.76,
+#EXTINF:-1,
 https://cdn6.goprimetime.info/feed/202306140918/ch3hd/tracks-v1a1/mono.m3u8
-#EXTINF:5.560,
+#EXTINF:-1,
 https://cdn6.goprimetime.info/feed/202306140918/ch3hd/tracks-v1a1/mono.m3u8
