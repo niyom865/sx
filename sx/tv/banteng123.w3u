@@ -927,13 +927,13 @@ playInNatPlayer: "true"
 {
 name    :    "sd-explife",
 image   :    "https://rentapi.blackboxsys.net/images/png/sd-explife.png",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-explife&api_key=kmf743jnd",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=kmf743jnd",
 "referer": "https://ufac4.net",
 playInNatPlayer: "true"
 },
 {
 name    :    "sd-expsci",
-image   :    "https://rentapi.blackboxsys.net/images/png/sd-expsci.png",
+image   :    "https://rentapi.blackboxsys.net/images/png/th-expsci.png",
 url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-expsci&api_key=kmf743jnd",
 "referer": "https://ufac4.net",
 playInNatPlayer: "true"
